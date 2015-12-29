@@ -63,7 +63,6 @@ if ($handle) {
 						break;
 					}
 				}
-				
 				// $prefix=$asn_data->prefix;
 				$origin=$asn_data->origin;
 				$asn_name=$asn_data->asn_name;
