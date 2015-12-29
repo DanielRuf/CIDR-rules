@@ -26,10 +26,11 @@ $fp_7 = fopen('cidr_rules_iptables.txt', 'a');
 $fp_8 = fopen('cidr_rules_modsecurity.txt', 'a');
 if($api == "maxmind"){
 	include("maxmind/geoip.inc");
-	$gi = geoip_open("maxmind/GeoIP.dat", GEOIP_MEMORY_CACHE);
-	$gi_v6 = geoip_open("maxmind/GeoIPv6.dat", GEOIP_MEMORY_CACHE);
-	$giasn = geoip_open("maxmind/GeoIPASNum.dat", GEOIP_MEMORY_CACHE);
-	$giasn_v6 = geoip_open("maxmind/GeoIPASNumv6.dat", GEOIP_MEMORY_CACHE);
+	// GEOIP_MEMORY_CACHE is slower on a PHP 7 VM with enabled opcache, use GEOIP_STANDARD
+	$gi = geoip_open("maxmind/GeoIP.dat", GEOIP_STANDARD);
+	$gi_v6 = geoip_open("maxmind/GeoIPv6.dat", GEOIP_STANDARD);
+	$giasn = geoip_open("maxmind/GeoIPASNum.dat", GEOIP_STANDARD);
+	$giasn_v6 = geoip_open("maxmind/GeoIPASNumv6.dat", GEOIP_STANDARD);
 }
 if ($handle) {
 	if(!$file_exists_0)fwrite($fp_0,"cidr\torigin\tasname\tcountry\n");
