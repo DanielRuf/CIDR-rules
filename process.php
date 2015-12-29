@@ -10,7 +10,7 @@ $api="maxmind";
 // error_reporting(E_ALL);
 // ini_set('display_errors', 1);
 set_time_limit(0);
-$start=time();
+$start=microtime(true);
 $records=0;
 $file_exists_0 = file_exists("cidr_rules_all.tsv");
 $file_exists_2 = file_exists("cidr_rules_all.csv");
@@ -43,7 +43,6 @@ if ($handle) {
 			case "sans_isc":
 				$var = unserialize(file_get_contents("https://isc.sans.edu/api/ip/".trim($ip)."?php"));
 				// $ip=$var['ip']['network'];
-				
 				$origin=$var['ip']['as'];
 				$asn_name=$var['ip']['asname'];
 				$country=$var['ip']['ascountry'];
@@ -55,9 +54,17 @@ if ($handle) {
 				$json_2 = file_get_contents("https://stat.ripe.net/data/geoloc/data.json?resource=".$ip_start);
 				$obj = json_decode($json);
 				$obj_2 = json_decode($json_2);
-				$asn_data=$obj->data->routes[0];
 				$geoloc_data=$obj_2->data->locations[0];
+				$routes = $obj->data->routes;
+				$routes_count = count($obj->data->routes);
+				for($i = $routes_count-1; $i >= 0; $i--) {
+					if ($routes[$i]->in_bgp){
+						$asn_data=$routes[$i];
+						break;
+					}
+				}
 				
+				// $prefix=$asn_data->prefix;
 				$origin=$asn_data->origin;
 				$asn_name=$asn_data->asn_name;
 				$country=$geoloc_data->country;
@@ -103,5 +110,5 @@ if($api == "maxmind"){
 	geoip_close($giasn);
 	geoip_close($giasn_v6);
 }
-$end=time();
+$end=microtime(true);
 echo "Completed ".$records." records in ".($end-$start)." seconds";
