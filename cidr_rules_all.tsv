@@ -346,6 +346,7 @@ cidr	origin	asname	country
 119.29.94.0/23	45090	"Shenzhen Tencent Computer Systems Company Limited"	CN
 119.30.32.0/20	24389	"GrameenPhone Ltd."	BD
 119.47.91.0/24	38527	"JAWA POS NATIONAL NETWORK MEDIALINK, PT"	ID
+119.59.101.0/24	56067	"453 Ladplacout Jorakhaebua"	TH
 119.73.35.0/24	9387	AUGERE-Pakistan	PK
 119.81.0.0/16	36351	"SoftLayer Technologies Inc."	SG
 119.81.0.0/18	36351	"SoftLayer Technologies Inc."	SG
@@ -408,6 +409,7 @@ cidr	origin	asname	country
 123.126.64.0/18	4808	"CNCGROUP IP network China169 Beijing Province Network"	CN
 123.17.0.0/16	45899	"VNPT Corp"	VN
 123.18.128.0/19	45899	"VNPT Corp"	VN
+123.184.0.0/14	4134	Chinanet	CN
 123.193.64.0/20	9924	"Taiwan Fixed Network, Telco and Network Service Provider."	TW
 123.2.224.0/20	38285	"M2 Telecommunications Group Ltd"	AU
 123.202.0.0/15	9269	"Hong Kong Broadband Network Ltd."	HK
@@ -441,6 +443,7 @@ cidr	origin	asname	country
 125.24.96.0/19	23969	"TOT Public Company Limited"	TH
 125.26.128.0/18	23969	"TOT Public Company Limited"	TH
 125.64.0.0/13	38283	"CHINANET SiChuan Telecom Internet Data Center"	CN
+125.65.76.0/22	38283	"CHINANET SiChuan Telecom Internet Data Center"	CN
 128.197.0.0/16	111	"Boston University"	US
 128.199.128.0/18	133165	"Digital Ocean, Inc."	SG
 128.199.192.0/18	133165	"Digital Ocean, Inc."	SG
@@ -614,6 +617,7 @@ cidr	origin	asname	country
 159.20.232.0/21	48291	"ARIA S.P.A."	IT
 159.203.64.0/20	393406	"Digital Ocean, Inc."	US
 159.203.80.0/20	393406	"Digital Ocean, Inc."	US
+159.203.96.0/20	393406	"Digital Ocean, Inc."	US
 159.220.28.0/22	26542	"Beta Systems"	US
 159.224.69.0/24	13188	"CONTENT DELIVERY NETWORK LTD"	UA
 159.224.78.0/23	13188	"CONTENT DELIVERY NETWORK LTD"	UA
@@ -697,6 +701,7 @@ cidr	origin	asname	country
 173.199.64.0/18	20473	"Choopa, LLC"	NL
 173.201.0.0/22	26496	"GoDaddy.com, LLC"	US
 173.201.196.0/22	26496	"GoDaddy.com, LLC"	US
+173.201.216.0/22	26496	"GoDaddy.com, LLC"	US
 173.205.192.0/18	33597	"InfoRelay Online Systems, Inc."	US
 173.208.128.0/17	32097	"WholeSale Internet, Inc."	US
 173.208.88.0/22	15003	"Nobis Technology Group, LLC"	US
@@ -712,6 +717,7 @@ cidr	origin	asname	country
 173.239.0.0/18	27257	"Webair Internet Development Company Inc."	US
 173.242.113.0/24	46664	VolumeDrive	US
 173.247.224.0/19	17139	"Corporate Colocation Inc."	US
+173.247.244.0/23	22611	"InMotion Hosting, Inc."	US
 173.248.128.0/18	30475	"Handy Networks, LLC"	US
 173.252.192.0/18	20248	"Take 2 Hosting, Inc."	US
 173.254.0.0/17	46606	"Unified Layer"	US
@@ -744,6 +750,7 @@ cidr	origin	asname	country
 175.42.0.0/15	4837	"CNCGROUP China169 Backbone"	CN
 175.44.0.0/16	4837	"CNCGROUP China169 Backbone"	CN
 176.10.104.0/24	51395	"SOFTplus Entwicklungen GmbH"	CH
+176.10.128.0/17	8473	"Bahnhof Internet AB"	SE
 176.10.96.0/19	51395	"SOFTplus Entwicklungen GmbH"	CH
 176.10.99.192/27	51395	"SOFTplus Entwicklungen GmbH"	CH
 176.102.23.0/24	196767	"Inmart-Internet LTD"	UA
@@ -1292,6 +1299,7 @@ cidr	origin	asname	country
 187.153.32.0/19	8151	"Uninet S.A. de C.V."	MX
 187.159.96.0/19	8151	"Uninet S.A. de C.V."	MX
 187.165.192.0/18	6503	"Axtel, S.A.B. de C.V."	MX
+187.17.104.0/21	7162	"Universo Online S.A."	BR
 187.17.56.0/22	262801	":-) V I V A"	BR
 187.172.0.0/16	8151	"Uninet S.A. de C.V."	MX
 187.181.96.0/19	28573	S.A.	BR
@@ -2081,6 +2089,7 @@ cidr	origin	asname	country
 208.115.96.0/24	1616	"CoreLink Data Centers"	US
 208.117.0.0/18	32748	"Steadfast Networks"	US
 208.123.208.0/20	25745	"Alentus Corporation"	US
+208.124.64.0/18	5742	"Consolidated Communications, Inc."	US
 208.131.128.0/19	29854	"WestHost, Inc."	US
 208.167.224.0/19	20473	"Choopa, LLC"	US
 208.42.212.0/24	22561	"CenturyTel Internet Holdings, Inc."	US
@@ -2363,6 +2372,7 @@ cidr	origin	asname	country
 222.208.0.0/13	4134	Chinanet	CN
 222.232.0.0/13	9318	"Hanaro Telecom Inc."	KR
 222.76.0.0/14	4134	Chinanet	CN
+222.84.0.0/16	4134	Chinanet	CN
 222.88.0.0/15	4134	Chinanet	CN
 223.130.24.0/22	45638	"SYNERGY WHOLESALE PTY LTD"	AU
 223.205.128.0/17	45629	"JasTel Network International Gateway"	TH
@@ -2384,6 +2394,7 @@ cidr	origin	asname	country
 23.254.96.0/21	36352	ColoCrossing	US
 23.27.44.0/24	18779	EGIHosting	US
 23.82.80.0/21	15003	"Nobis Technology Group, LLC"	US
+23.89.0.0/17	18978	"Enzu Inc"	US
 23.91.112.0/20	20013	"CyrusOne LLC"	US
 23.91.64.0/20	36024	"Colo4, LLC"	US
 23.92.208.0/20	31863	"Centrilogic, Inc."	US
@@ -2898,7 +2909,9 @@ cidr	origin	asname	country
 50.57.0.0/16	19994	"Rackspace Hosting"	US
 50.62.0.0/15	26496	"GoDaddy.com, LLC"	US
 50.62.0.0/22	26496	"GoDaddy.com, LLC"	US
+50.62.176.0/22	26496	"GoDaddy.com, LLC"	US
 50.62.208.0/22	26496	"GoDaddy.com, LLC"	US
+50.63.196.0/22	26496	"GoDaddy.com, LLC"	US
 50.7.0.0/16	6461	"Abovenet Communications, Inc"	US
 50.73.0.0/16	7922	"Comcast Cable Communications, Inc."	US
 50.87.0.0/16	46606	"Unified Layer"	US
@@ -2910,6 +2923,7 @@ cidr	origin	asname	country
 52.16.0.0/15	16509	"Amazon.com, Inc."	IE
 52.24.0.0/14	16509	"Amazon.com, Inc."	US
 52.28.0.0/16	16509	"Amazon.com, Inc."	DE
+52.32.0.0/14	16509	"Amazon.com, Inc."	US
 52.64.0.0/17	16509	"Amazon.com, Inc."	AU
 52.88.0.0/15	16509	"Amazon.com, Inc."	US
 54.144.0.0/12	14618	"Amazon.com, Inc."	US
@@ -2920,6 +2934,7 @@ cidr	origin	asname	country
 54.160.0.0/14	14618	"Amazon.com, Inc."	US
 54.170.0.0/16	16509	"Amazon.com, Inc."	IE
 54.176.0.0/15	16509	"Amazon.com, Inc."	US
+54.183.0.0/17	16509	"Amazon.com, Inc."	US
 54.184.0.0/15	16509	"Amazon.com, Inc."	US
 54.186.0.0/15	16509	"Amazon.com, Inc."	US
 54.188.0.0/15	16509	"Amazon.com, Inc."	US
@@ -3150,6 +3165,7 @@ cidr	origin	asname	country
 68.111.32.0/20	22773	"Cox Communications Inc."	US
 68.115.80.0/20	20115	"Charter Communications"	US
 68.168.110.0/24	19059	Codero	US
+68.178.252.0/22	26496	"GoDaddy.com, LLC"	US
 68.180.128.0/17			US
 68.180.224.0/20	36647	Yahoo	US
 68.180.52.0/22	23473	"PAVLOV MEDIA INC"	US
@@ -3215,6 +3231,7 @@ cidr	origin	asname	country
 71.94.128.0/19	20115	"Charter Communications"	US
 72.14.176.0/20	36351	"SoftLayer Technologies Inc."	US
 72.15.240.0/21	19271	"Peak 10"	US
+72.167.128.0/17	26496	"GoDaddy.com, LLC"	US
 72.167.180.0/22	26496	"GoDaddy.com, LLC"	US
 72.167.36.0/22	26496	"GoDaddy.com, LLC"	US
 72.174.0.0/15	33588	"Charter Communications"	US
@@ -3614,9 +3631,11 @@ cidr	origin	asname	country
 85.17.242.128/25	60781	"LeaseWeb Netherlands B.V."	NL
 85.185.128.0/17	12880	"Information Technology Company (ITC)"	IR
 85.192.184.0/21	25008	"PJSC Rostelecom"	RU
+85.195.224.0/19	13030	"Init7 (Switzerland) Ltd."	CH
 85.214.0.0/15	6724	"STRATO AG"	DE
 85.214.192.0/18	6724	"STRATO AG"	DE
 85.220.0.0/17	6677	"Siminn hf"	IS
+85.233.76.0/24	34887	"GU Center of Information Technologies RT"	RU
 85.234.128.0/19	29550	"Simply Transit Ltd"	GB
 85.236.152.0/21	53589	PlanetHoster	FR
 85.236.39.0/24	15456	"InterNetX GmbH"	DE
@@ -3777,6 +3796,7 @@ cidr	origin	asname	country
 89.47.16.0/20	48095	"XT GLOBAL NETWORKS LTD."	RO
 89.64.0.0/12	6830	"Liberty Global Operations B.V."	PL
 89.64.0.0/19	6830	"Liberty Global Operations B.V."	PL
+89.72.0.0/13	6830	"Liberty Global Operations B.V."	PL
 89.80.0.0/12	5410	"Bouygues Telecom SA"	FR
 90.147.26.0/24	137	"Consortium GARR"	IT
 90.156.128.0/17	25532	"LLC MASTERHOST"	RU
