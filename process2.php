@@ -10,7 +10,6 @@ $api="maxmind";
 // error_reporting(E_ALL);
 // ini_set('display_errors', 1);
 set_time_limit(0);
-$start=microtime(true);
 $records=0;
 $file_exists_0 = file_exists("cidr_rules_all.tsv");
 $file_exists_2 = file_exists("cidr_rules_all.csv");
@@ -32,9 +31,17 @@ if($api == "maxmind"){
 	$giasn = geoip_open("maxmind/GeoIPASNum.dat", GEOIP_STANDARD);
 	$giasn_v6 = geoip_open("maxmind/GeoIPASNumv6.dat", GEOIP_STANDARD);
 }
+$linecount = 0;
+$linecount_handle = fopen('cidr_rules_all.txt', 'r');
+while(!feof($linecount_handle)){
+  $line = fgets($linecount_handle);
+  $linecount++;
+}
+fclose($linecount_handle);
 if ($handle) {
-	fwrite($fp_0,"cidr\torigin\tasname\tcountry\n");
-	fwrite($fp_2,"cidr,origin,asname,country\n");
+	$start=microtime(true);
+	fwrite($fp_0,"cidr\torigin\tasname\tcountry\r\n");
+	fwrite($fp_2,"cidr,origin,asname,country\r\n");
 	while (($line = fgets($handle)) !== false) {
 		$ip="";
 		$ip=$line;
@@ -83,14 +90,23 @@ if ($handle) {
 		}
 		$records++;
 		fputcsv($fp_0, array(trim($ip), trim($origin), trim($asn_name), trim($country)),"\t");
-		// fwrite($fp_1,trim($ip)."\n");
+		// fwrite($fp_1,trim($ip));
 		fputcsv($fp_2, array(trim($ip), trim($origin), trim($asn_name), trim($country)));
-		fwrite($fp_3,"deny ".trim($ip)."\n"); //NGINX
-		fwrite($fp_4,"deny from ".trim($ip)."\n"); // Apache 2.2
-		fwrite($fp_5,"require not ip ".trim($ip)."\n"); // Apache 2.4
-		fwrite($fp_6,"$ sudo fail2ban-client -vvv set JAIL banip ".trim($ip)."\n"); //fail2ban
-		fwrite($fp_7,"$ sudo iptables -A INPUT -s ".trim($ip)." -j DROP\n"); //iptables
-		fwrite($fp_8,"SecRule REMOTE_HOST \"@ipmatch ".trim($ip)." \"deny\"\n"); //ModSecurity
+		fwrite($fp_3,"deny ".trim($ip)); //NGINX
+		fwrite($fp_4,"deny from ".trim($ip)); // Apache 2.2
+		fwrite($fp_5,"require not ip ".trim($ip)); // Apache 2.4
+		fwrite($fp_6,"$ sudo fail2ban-client -vvv set JAIL banip ".trim($ip)); //fail2ban
+		fwrite($fp_7,"$ sudo iptables -A INPUT -s ".trim($ip)." -j DROP"); //iptables
+		fwrite($fp_8,"SecRule REMOTE_HOST \"@ipmatch ".trim($ip)." \"deny\""); //ModSecurity
+		if($records<$linecount){
+			// fwrite($fp_1,"\r\n");
+			fwrite($fp_3,"\r\n");
+			fwrite($fp_4,"\r\n");
+			fwrite($fp_5,"\r\n");
+			fwrite($fp_6,"\r\n");
+			fwrite($fp_7,"\r\n");
+			fwrite($fp_8,"\r\n");
+		}
 	}
 	fclose($handle);
 }

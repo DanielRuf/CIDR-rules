@@ -32,6 +32,7 @@ cidr,origin,asname,country
 103.17.181.0/24,58826,"ping by ICOM Bangladesh Ltd",BD
 103.18.244.0/22,46015,"Exa Bytes Network Sdn.Bhd.",MY
 103.21.58.0/23,40034,"Confluence Networks Inc",IN
+103.231.107.0/24,38197,"Sun Network (Hong Kong) Limited",HK
 103.233.80.0/23,45652,"VPLS ASIA",TH
 103.234.26.0/24,38200,"BTS Communications (BD) ltd",BD
 103.238.129.0/24,23352,"Server Central Network",AU
@@ -121,6 +122,7 @@ cidr,origin,asname,country
 107.155.87.0/24,54540,"Incero LLC",US
 107.161.144.0/20,36352,ColoCrossing,US
 107.161.159.0/24,36352,ColoCrossing,CA
+107.167.0.0/19,46844,Sharktech,US
 107.168.32.0/24,36351,"SoftLayer Technologies Inc.",AU
 107.170.0.0/16,62567,"Digital Ocean, Inc.",US
 107.170.0.0/17,62567,"Digital Ocean, Inc.",US
@@ -158,6 +160,7 @@ cidr,origin,asname,country
 108.61.0.0/19,20473,"Choopa, LLC",US
 108.61.122.0/24,20473,"Choopa, LLC",FR
 108.61.164.0/22,20473,"Choopa, LLC",NL
+108.61.64.0/19,20473,"Choopa, LLC",US
 109.0.0.0/11,15557,"Societe Francaise du Radiotelephone S.A",FR
 109.104.78.0/23,20738,"Webfusion Internet Solutions",GB
 109.104.96.0/19,25577,"Connexions4London Ltd",GB
@@ -181,6 +184,7 @@ cidr,origin,asname,country
 109.190.0.0/16,35540,"OVH SAS",FR
 109.199.96.0/20,32475,"SingleHop, Inc.",US
 109.200.224.0/19,34661,"TOV TRK Briz",UA
+109.201.128.0/19,43350,"NFOrce Entertainment BV",NL
 109.203.96.0/19,29550,"Simply Transit Ltd",GB
 109.215.0.0/16,3215,"Orange S.A.",FR
 109.227.64.0/19,25133,"LLC McLaut-Invest",UA
@@ -191,6 +195,7 @@ cidr,origin,asname,country
 109.246.0.0/16,25178,"Keycom PLC",GB
 109.252.0.0/16,25513,"OJS Moscow city telephone network",RU
 109.52.0.0/15,16232,"TELECOM ITALIA SPA",IT
+109.62.128.0/17,29456,"PJSC Rostelecom",RU
 109.73.73.48/29,35662,"Redstation Limited",GB
 109.74.250.0/24,50300,"Custodian Ltd.",GB
 109.75.167.102/32,20860,Iomart,GB
@@ -444,6 +449,7 @@ cidr,origin,asname,country
 125.26.128.0/18,23969,"TOT Public Company Limited",TH
 125.64.0.0/13,38283,"CHINANET SiChuan Telecom Internet Data Center",CN
 125.65.76.0/22,38283,"CHINANET SiChuan Telecom Internet Data Center",CN
+128.127.104.0/23,51430,"AltusHost B.V.",SE
 128.197.0.0/16,111,"Boston University",US
 128.199.128.0/18,133165,"Digital Ocean, Inc.",SG
 128.199.192.0/18,133165,"Digital Ocean, Inc.",SG
@@ -621,6 +627,7 @@ cidr,origin,asname,country
 159.220.28.0/22,26542,"Beta Systems",US
 159.224.69.0/24,13188,"CONTENT DELIVERY NETWORK LTD",UA
 159.224.78.0/23,13188,"CONTENT DELIVERY NETWORK LTD",UA
+159.224.82.0/24,13188,"CONTENT DELIVERY NETWORK LTD",UA
 159.226.170.0/23,7497,"Computer Network Information Center",CN
 159.253.128.0/19,36351,"SoftLayer Technologies Inc.",NL
 159.253.162.0/23,12989,"Eweka Internet Services B.V.",GB
@@ -762,6 +769,7 @@ cidr,origin,asname,country
 176.116.240.0/20,16321,"Aiconet Ltd.",RU
 176.123.0.0/19,15836,"Arax-Impex s.r.l.",MD
 176.124.0.0/19,47694,"Didan Group LTD",UA
+176.124.144.0/22,59665,"Ultra-Telecom LLC",RU
 176.126.200.0/22,40975,"CHML Web Services SRL",RO
 176.126.252.0/22,60118,"ALISTAR SECURITY SRL",RO
 176.14.0.0/15,8402,"OJSC Vimpelcom",RU
@@ -887,6 +895,7 @@ cidr,origin,asname,country
 177.57.0.0/17,22085,"Claro S/A",BR
 177.6.64.0/18,8167,"Brasil Telecom S/A - Filial Distrito Federal",BR
 177.64.0.0/15,28573,S.A.,BR
+177.64.128.0/19,28573,S.A.,BR
 177.64.192.0/19,28573,S.A.,BR
 177.68.0.0/16,27699,"TELEFÔNICA BRASIL S.A",BR
 177.69.0.0/16,16735,"TELECOM S/A",BR
@@ -923,6 +932,7 @@ cidr,origin,asname,country
 178.150.142.0/23,13188,"CONTENT DELIVERY NETWORK LTD",UA
 178.152.252.0/22,8781,"Ooredoo Q.S.C.",QA
 178.157.192.0/18,43557,"EnergiMidt Fiberbredband A/S",DK
+178.162.0.0/17,20807,"Credolink ISP",RU
 178.162.128.0/17,28753,"Leaseweb Deutschland GmbH",DE
 178.162.192.0/19,28753,"Leaseweb Deutschland GmbH",DE
 178.162.208.0/21,28753,"Leaseweb Deutschland GmbH",DE
@@ -938,6 +948,7 @@ cidr,origin,asname,country
 178.18.141.64/26,25459,"NedZone Internet BV",NL
 178.18.141.8/29,25459,"NedZone Internet BV",NL
 178.19.64.0/20,29551,"Aixit GmbH",DE
+178.204.0.0/14,28840,"OJSC OAO TATTELECOM",RU
 178.204.0.0/17,28840,"OJSC OAO TATTELECOM",RU
 178.211.184.0/21,48524,"INTERRA telecommunications group, Ltd.",RU
 178.211.64.0/19,47408,"Mandarin WIMAX Sicilia SpA",IT
@@ -1127,6 +1138,7 @@ cidr,origin,asname,country
 184.74.0.0/17,11351,"Time Warner Cable Internet LLC",US
 184.95.32.0/19,20454,"SECURED SERVERS LLC",US
 185.10.104.0/22,,,EU
+185.100.84.0/23,200651,"FlokiNET ehf",RO
 185.101.68.0/24,50896,"Trusov Ilya Igorevych",RU
 185.101.71.0/24,50896,"Trusov Ilya Igorevych",RU
 185.104.216.0/22,30900,"Sternforth Ltd t/a Web World Ireland",GB
@@ -1147,6 +1159,7 @@ cidr,origin,asname,country
 185.22.183.128/25,198947,"JSC RetnNet",RU
 185.22.60.0/22,199274,"IONICA LLC",RU
 185.23.21.0/24,31229,"E24 sp. z o.o.",PL
+185.29.8.0/24,60567,"DataClub S.A.",SE
 185.3.135.0/24,57858,"Inter Connects Inc",SE
 185.3.135.40/29,57858,"Inter Connects Inc",SE
 185.31.156.0/22,9186,"ONITELECOM - INFOCOMUNICACOES, S.A.",PT
@@ -1157,6 +1170,7 @@ cidr,origin,asname,country
 185.38.138.0/23,48291,"ARIA S.P.A.",IT
 185.38.248.0/22,197226,"SPRINT S.A.",PL
 185.43.108.0/22,62217,"VooServers Ltd",US
+185.43.208.0/22,199883,"ArubaCloud Limited",GB
 185.44.104.0/22,34549,"meerfarbig GmbH & Co. KG",DE
 185.44.77.0/24,199793,"Trusov Ilya Igorevych",FR
 185.44.78.0/23,199793,"Trusov Ilya Igorevych",GB
@@ -1169,6 +1183,7 @@ cidr,origin,asname,country
 185.49.12.0/22,198414,"Biznes-Host.pl sp. z o.o.",PL
 185.5.152.0/24,43766,"MTC KSA",SA
 185.5.154.0/24,43766,"MTC KSA",SA
+185.5.248.0/22,48666,"MAROSNET Telecommunication Company LLC",RU
 185.5.52.0/22,62282,"UAB Rakrejus",LT
 185.50.250.0/24,199793,"Trusov Ilya Igorevych",UA
 185.50.251.0/24,199793,"Trusov Ilya Igorevych",UA
@@ -1185,6 +1200,7 @@ cidr,origin,asname,country
 185.58.72.0/22,201563,"Avalon d.o.o.",HR
 185.59.124.0/23,201892,"Community Fibre Limited",GB
 185.6.52.0/22,56391,"VIRTUAL TELECOM A. Sergiel, D. Ladniak Spolka Jawna",PL
+185.60.144.0/22,51395,"SOFTplus Entwicklungen GmbH",CH
 185.60.229.0/24,204131,"AGENCJA REKLAMOWA RADIO 5 PIOTR BAJER",PL
 185.62.188.0/23,49349,"Dotsi, Unipessoal Lda.",NL
 185.62.189.0/24,49349,"Dotsi, Unipessoal Lda.",NL
@@ -1202,10 +1218,12 @@ cidr,origin,asname,country
 185.75.56.0/22,57891,"N.SH. MAXTV",RS
 185.8.106.0/23,16125,"UAB DUOMENU CENTRAS",LT
 185.81.155.0/24,43260,"DGN TEKNOLOJI BILISIM YAYINCILIK SANAYI VE LIMITED SIRKETI",TR
+185.81.156.0/22,198375,"INULOGIC SARL",FR
 185.82.203.0/24,60117,"Host Sailor Ltd.",NL
 185.82.216.0/32,59729,"ITL Company",BG
 185.84.180.0/24,42926,"Radore Veri Merkezi Hizmetleri A.S.",TR
 185.87.248.0/22,12859,"BIT BV",NL
+185.87.48.0/22,48666,"MAROSNET Telecommunication Company LLC",RU
 185.92.73.0/24,50968,"Hostmaster, Ltd.",NL
 185.93.187.0/24,200732,"Lekosport-Kharkov LLC",UA
 185.95.236.0/22,200547,"MTK srl",IT
@@ -1335,6 +1353,7 @@ cidr,origin,asname,country
 187.54.64.0/18,8167,"Brasil Telecom S/A - Filial Distrito Federal",BR
 187.56.0.0/15,27699,"TELEFÔNICA BRASIL S.A",BR
 187.58.176.0/21,18881,"Global Village Telecom",BR
+187.59.96.0/19,18881,"Global Village Telecom",BR
 187.60.128.0/20,28152,"Navinet Ltda",BR
 187.60.32.0/20,28368,"Infoway Servicos de Informatica Ltda",BR
 187.61.192.0/18,28220,"SERVICOS DE TELECOMUNICACOES LTDA",BR
@@ -1374,12 +1393,14 @@ cidr,origin,asname,country
 188.143.128.0/17,44050,"Petersburg Internet Network ltd.",RU
 188.143.232.0/22,44050,"Petersburg Internet Network ltd.",RU
 188.146.0.0/15,12912,"T-MOBILE POLSKA SPOLKA AKCYJNA",PL
+188.163.0.0/16,15895,"Kyivstar PJSC",UA
 188.163.64.0/18,15895,"Kyivstar PJSC",UA
 188.163.77.0/24,15895,"Kyivstar PJSC",UA
 188.163.90.0/24,15895,"Kyivstar PJSC",UA
 188.165.0.0/16,16276,"OVH SAS",IE
 188.165.154.32/27,16276,"OVH SAS",FR
 188.165.192.0/18,16276,"OVH SAS",FR
+188.168.0.0/16,15774,"Closed Joint Stock Company TransTeleCom",RU
 188.186.0.0/17,41682,"JSC ER-Telecom Holding",RU
 188.215.20.0/22,48095,"XT GLOBAL NETWORKS LTD.",NL
 188.216.0.0/15,30722,"Vodafone Omnitel B.V.",IT
@@ -1608,6 +1629,7 @@ cidr,origin,asname,country
 192.111.144.0/20,31863,"Centrilogic, Inc.",US
 192.111.146.32/29,31863,"Centrilogic, Inc.",US
 192.114.64.0/20,8551,"Bezeq International-Ltd",IL
+192.126.128.0/17,13739,"Datacenter IP, LLC",US
 192.145.232.0/21,22611,"InMotion Hosting, Inc.",US
 192.145.232.0/22,22611,"InMotion Hosting, Inc.",US
 192.145.238.0/24,22611,"InMotion Hosting, Inc.",US
@@ -1640,6 +1662,7 @@ cidr,origin,asname,country
 192.232.252.0/22,46606,"Unified Layer",US
 192.237.128.0/18,19994,"Rackspace Hosting",US
 192.237.192.0/19,33070,"Rackspace Hosting",US
+192.240.96.0/19,6461,"Abovenet Communications, Inc",US
 192.252.208.0/20,46562,"Total Server Solutions L.L.C.",US
 192.254.128.0/18,46606,"Unified Layer",US
 192.254.248.0/22,46606,"Unified Layer",US
@@ -1706,7 +1729,9 @@ cidr,origin,asname,country
 194.63.192.0/19,8248,"Greek High-School Internet Network",GR
 194.63.224.0/20,8248,"Greek High-School Internet Network",GR
 194.63.248.0/24,12996,"Domeneshop AS",NO
+194.8.146.0/24,49131,"PE Voloschenko Olexandr Volodumirovich",UA
 194.8.147.0/24,49131,"PE Voloschenko Olexandr Volodumirovich",UA
+194.87.232.0/24,48347,"JSC MediaSoft Ekspert",RU
 194.98.0.0/16,702,"MCI Communications Services, Inc. d/b/a Verizon Business",FR
 195.101.0.0/16,3215,"Orange S.A.",FR
 195.114.114.0/23,38926,"BDL SYSTEMES SAS",FR
@@ -1732,6 +1757,9 @@ cidr,origin,asname,country
 195.211.166.0/23,,,GB
 195.214.180.0/24,34984,"TELLCOM ILETISIM HIZMETLERI A.S.",TR
 195.22.126.0/23,197226,"SPRINT S.A.",PL
+195.228.254.0/24,5483,"Magyar Telekom Plc.",HU
+195.230.24.0/24,50360,"Tamatiya EOOD",BG
+195.230.24.50,,,
 195.234.215.0/24,24703,"United Networks of Ukraine, Ltd",UA
 195.242.191.0/24,34235,ASPSERVEUR,FR
 195.242.80.0/23,34280,"Intelcom Ltd.",UA
@@ -2029,6 +2057,7 @@ cidr,origin,asname,country
 204.0.0.0/14,2914,"NTT America, Inc.",US
 204.12.0.0/18,20021,HostMySite,US
 204.12.192.0/18,32097,"WholeSale Internet, Inc.",US
+204.12.96.0/19,20021,HostMySite,US
 204.139.52.0/24,22342,"The Commonwealth Medical College",US
 204.15.247.0/24,32257,"A&E Television - Stamford",US
 204.191.0.0/16,852,"TELUS Communications Inc.",CA
@@ -2139,6 +2168,7 @@ cidr,origin,asname,country
 209.64.35.0/24,46136,"BECLOUD LLC",US
 209.66.119.0/24,47074,AEG,US
 209.89.0.0/16,852,"TELUS Communications Inc.",CA
+209.95.50.0/23,32780,"Hosting Services, Inc.",US
 210.101.128.0/18,3786,"LG DACOM Corporation",KR
 210.121.128.0/17,4766,"Korea Telecom",KR
 210.125.128.0/17,4766,"Korea Telecom",KR
@@ -2184,6 +2214,7 @@ cidr,origin,asname,country
 212.18.224.0/20,33182,"HostDime.com, Inc.",GB
 212.183.192.0/18,6739,"VODAFONE ONO, S.A.",ES
 212.193.224.0/19,25535,"Autonomous Non-commercial Organization 'Regional Network Information Center'",RU
+212.193.64.0/19,5468,"Yeltsin UrFU, Ural Federal University",RU
 212.21.64.0/19,44716,"D-hosting die Rackspace & Connectivity GmbH",DE
 212.22.211.0/24,31148,"Freenet Ltd.",UA
 212.225.128.0/17,34977,"PROCONO S.A.",ES
@@ -2220,8 +2251,10 @@ cidr,origin,asname,country
 212.97.128.0/19,9120,"Surftown A/S",DK
 213.111.128.0/18,35804,"PP SKS-Lugan",UA
 213.136.70.0/23,51167,"Contabo GmbH",DE
+213.136.76.0/23,51167,"Contabo GmbH",DE
 213.136.82.0/23,51167,"Contabo GmbH",DE
 213.137.244.0/22,20485,"Closed Joint Stock Company TransTeleCom",RU
+213.152.160.0/19,57172,"Global Layer B.V.",NL
 213.161.192.0/19,24776,"INFOCLIP SA",FR
 213.162.224.0/19,28824,"Jakob Hatteland Solutions AS",NO
 213.162.64.0/19,8387,"T-Systems Austria GesmbH",AT
@@ -2243,6 +2276,7 @@ cidr,origin,asname,country
 213.230.64.0/18,8193,"Uzbektelekom Joint Stock Company",UZ
 213.230.80.0/21,8193,"Uzbektelekom Joint Stock Company",UZ
 213.231.0.0/18,34661,"TOV TRK Briz",UA
+213.232.24.0/21,12296,"ADA-NET Internet ve Iletisim Hizmetleri Tic. A.S.",TR
 213.235.0.0/18,8190,"MDNX Internet Limited",GB
 213.239.192.0/18,24940,"Hetzner Online GmbH",DE
 213.251.128.0/18,16276,"OVH SAS",FR
@@ -2297,6 +2331,7 @@ cidr,origin,asname,country
 217.103.0.0/17,6830,"Liberty Global Operations B.V.",NL
 217.107.0.0/18,8342,"OJSC RTComm.RU",RU
 217.114.208.0/20,31103,"Keyweb AG",DE
+217.118.64.0/24,16345,"Public Joint Stock Company Vimpel-Communications",RU
 217.12.112.0/20,25454,"Orange Moldova SA",MD
 217.12.192.0/19,15626,"ITL Company",UA
 217.12.202.0/23,59729,"ITL Company",BG
@@ -2370,12 +2405,14 @@ cidr,origin,asname,country
 222.124.12.0/22,17974,"PT Telekomunikasi Indonesia",ID
 222.163.0.0/16,4837,"CNCGROUP China169 Backbone",CN
 222.208.0.0/13,4134,Chinanet,CN
+222.222.0.0/15,4134,Chinanet,CN
 222.232.0.0/13,9318,"Hanaro Telecom Inc.",KR
 222.76.0.0/14,4134,Chinanet,CN
 222.84.0.0/16,4134,Chinanet,CN
 222.88.0.0/15,4134,Chinanet,CN
 223.130.24.0/22,45638,"SYNERGY WHOLESALE PTY LTD",AU
 223.205.128.0/17,45629,"JasTel Network International Gateway",TH
+223.27.43.0/24,38843,"PUMO NETWORK DIGITAL TECHNOLOGY CO.,LTD",TW
 223.30.30.0/24,9583,"Sify Limited",IN
 223.94.128.0/18,56041,"China Mobile communications corporation",CN
 23.100.0.0/15,8075,"Microsoft Corporation",NL
@@ -2431,6 +2468,7 @@ cidr,origin,asname,country
 27.122.16.0/20,55792,Datec-PNG,PG
 27.124.112.0/20,38719,"Aust Domains International Pty Ltd.",AU
 27.130.0.0/17,45629,"JasTel Network International Gateway",TH
+27.148.0.0/14,4134,Chinanet,CN
 27.152.0.0/13,4134,Chinanet,CN
 27.192.0.0/11,4837,"CNCGROUP China169 Backbone",CN
 27.232.0.0/14,4766,"Korea Telecom",KR
@@ -2469,6 +2507,7 @@ cidr,origin,asname,country
 31.204.145.0/24,49544,"i3d B.V.",JP
 31.209.128.0/24,327870,GBS-DRC,BE
 31.209.132.0/24,327870,GBS-DRC,BE
+31.216.48.0/21,20860,Iomart,GB
 31.222.128.0/18,15395,"Rackspace Ltd.",GB
 31.223.128.0/19,25144,"Telekom Srpske",BA
 31.25.184.0/21,50957,"Memset Ltd",GB
@@ -2541,6 +2580,7 @@ cidr,origin,asname,country
 37.155.32.0/19,20978,"AVEA Iletisim Hizmetleri A.S.",TR
 37.157.192.0/21,197019,"WEDOS Internet, a.s.",CZ
 37.157.194.0/24,197019,"WEDOS Internet, a.s.",CZ
+37.160.0.0/12,51207,"Free Mobile SAS",FR
 37.17.224.0/23,44066,"First Colo GmbH",DE
 37.18.42.0/24,199793,"Trusov Ilya Igorevych",RU
 37.18.73.0/24,42074,"Internet Poliglot Ltd",RU
@@ -2641,6 +2681,7 @@ cidr,origin,asname,country
 43.242.128.0/23,58779,"i4HK Limited",HK
 43.252.212.0/22,46015,"Exa Bytes Network Sdn.Bhd.",MY
 43.255.176.0/23,23724,"IDC, China Telecommunications Corporation",CN
+45.121.30.0/24,45184,"Den Digital Entertainment Pvt. Ltd. AS ISP india",IN
 45.16.0.0/12,7018,"AT&T Services, Inc.",US
 45.32.240.0/21,20473,"Choopa, LLC",AU
 45.33.0.0/17,36351,"SoftLayer Technologies Inc.",US
@@ -2655,9 +2696,11 @@ cidr,origin,asname,country
 45.55.192.0/18,393406,"Digital Ocean, Inc.",US
 45.55.32.0/19,393406,"Digital Ocean, Inc.",US
 45.57.128.0/18,55286,"B2 Net Solutions Inc.",US
+45.58.44.0/24,6364,"Atlantic.net, Inc.",US
 45.59.128.0/18,54334,"Roya Hosting LLC",US
 45.59.85.0/24,62943,"Bluebird Network",US
 45.62.120.0/22,25820,"IT7 Networks Inc",NL
+45.63.16.0/21,20473,"Choopa, LLC",US
 45.63.48.0/20,20473,"Choopa, LLC",US
 45.64.75.0/24,134121,"Rainbow network limited",TW
 45.79.208.0/20,3595,"Global Net Access, LLC",US
@@ -2753,6 +2796,7 @@ cidr,origin,asname,country
 46.32.226.0/23,20738,"Webfusion Internet Solutions",GB
 46.33.224.0/19,31272,"WildPark Co",UA
 46.35.128.0/19,20875,"HT d.o.o. Mostar",BA
+46.35.224.0/19,35816,"Lancom Ltd.",UA
 46.37.64.0/19,34977,"PROCONO S.A.",ES
 46.39.224.0/19,29124,"Iskratelecom CJSC",RU
 46.4.0.0/16,24940,"Hetzner Online GmbH",DE
@@ -2765,6 +2809,7 @@ cidr,origin,asname,country
 46.53.200.0/22,20852,"FE ALTERNATIVNAYA ZIFROVAYA SET",BY
 46.53.208.0/22,20852,"FE ALTERNATIVNAYA ZIFROVAYA SET",BY
 46.53.216.0/22,20852,"FE ALTERNATIVNAYA ZIFROVAYA SET",BY
+46.70.80.0/21,12297,"ArmenTel CJSC",AM
 46.72.0.0/16,12714,"Net By Net Holding LLC",RU
 46.9.0.0/16,2119,"Telenor Norge AS",NO
 47.20.0.0/14,6128,"Cablevision Systems Corp.",US
@@ -2803,6 +2848,7 @@ cidr,origin,asname,country
 5.135.136.0/21,16276,"OVH SAS",FR
 5.135.144.0/21,16276,"OVH SAS",FR
 5.138.64.0/19,12389,"PJSC Rostelecom",RU
+5.139.240.0/20,42548,"PJSC Rostelecom",RU
 5.139.96.0/19,21479,"PJSC Rostelecom",RU
 5.14.0.0/16,8708,"RCS & RDS SA",RO
 5.140.202.0/24,31094,"PJSC Rostelecom",RU
@@ -2883,6 +2929,7 @@ cidr,origin,asname,country
 5.56.60.0/22,57286,"GIGAS HOSTING S.L.",ES
 5.61.32.0/20,28753,"Leaseweb Deutschland GmbH",DE
 5.62.12.0/22,20860,Iomart,GB
+5.62.152.0/21,29802,"HIVELOCITY VENTURES CORP",RU
 5.63.144.0/21,29302,"Hosting Services Inc",GB
 5.63.146.168/29,29302,"Hosting Services Inc",GB
 5.76.104.0/22,9198,"JSC Kazakhtelecom",KZ
@@ -2924,6 +2971,7 @@ cidr,origin,asname,country
 52.24.0.0/14,16509,"Amazon.com, Inc.",US
 52.28.0.0/16,16509,"Amazon.com, Inc.",DE
 52.32.0.0/14,16509,"Amazon.com, Inc.",US
+52.52.0.0/15,16509,"Amazon.com, Inc.",US
 52.64.0.0/17,16509,"Amazon.com, Inc.",AU
 52.88.0.0/15,16509,"Amazon.com, Inc.",US
 54.144.0.0/12,14618,"Amazon.com, Inc.",US
@@ -2987,6 +3035,7 @@ cidr,origin,asname,country
 60.14.0.0/15,4837,"CNCGROUP China169 Backbone",CN
 60.176.0.0/12,4134,Chinanet,CN
 60.224.0.0/13,1221,"Telstra Pty Ltd",AU
+60.249.0.0/16,3462,"Data Communication Business Group",TW
 60.28.0.0/15,4837,"CNCGROUP China169 Backbone",CN
 60.29.248.0/24,4837,"CNCGROUP China169 Backbone",CN
 60.49.64.0/18,4788,"TM Net, Internet Service Provider",MY
@@ -3103,6 +3152,7 @@ cidr,origin,asname,country
 65.99.192.0/20,30496,"Colo4, LLC",US
 66.102.0.0/20,15169,"Google Inc.",US
 66.109.16.0/20,31797,"Galaxyvisions Inc",US
+66.147.224.0/20,23535,"HostRocket.com, Inc.",US
 66.147.240.0/20,46606,"Unified Layer",US
 66.170.0.0/19,4150,"SupraNet Communications, Inc.",US
 66.172.0.0/18,11051,"Cyberverse, Inc.",US
@@ -3238,6 +3288,7 @@ cidr,origin,asname,country
 72.18.194.0/24,26277,"Las Vegas NV Datacenter",US
 72.249.0.0/17,30496,"Colo4, LLC",US
 72.29.96.0/19,30496,"Colo4, LLC",US
+72.32.0.0/16,33070,"Rackspace Hosting",US
 72.35.32.0/19,11904,AcenTek,US
 72.46.128.0/19,36114,"Versaweb, LLC",US
 72.47.192.0/18,31815,"Media Temple, Inc.",US
@@ -3246,6 +3297,7 @@ cidr,origin,asname,country
 72.52.64.0/18,6939,"Hurricane Electric, Inc.",US
 72.55.128.0/18,32613,"iWeb Technologies Inc.",CA
 72.83.0.0/16,701,"MCI Communications Services, Inc. d/b/a Verizon Business",US
+72.9.144.0/20,30496,"Colo4, LLC",US
 72.93.0.0/16,701,"MCI Communications Services, Inc. d/b/a Verizon Business",US
 73.0.0.0/8,7922,"Comcast Cable Communications, Inc.",US
 73.46.0.0/16,7922,"Comcast Cable Communications, Inc.",US
@@ -3393,6 +3445,7 @@ cidr,origin,asname,country
 79.110.18.0/24,199793,"Trusov Ilya Igorevych",UA
 79.110.19.0/24,199793,"Trusov Ilya Igorevych",UA
 79.110.25.0/24,199793,"Trusov Ilya Igorevych",UA
+79.110.28.0/24,29802,"HIVELOCITY VENTURES CORP",GB
 79.112.0.0/13,8708,"RCS & RDS SA",RO
 79.133.204.128/29,20853,"eTOP sp. z o.o.",PL
 79.133.217.240/28,20853,"eTOP sp. z o.o.",PL
@@ -3413,10 +3466,12 @@ cidr,origin,asname,country
 79.171.32.0/21,20860,Iomart,GB
 79.172.192.0/18,43711,"Szervernet Ltd.",HU
 79.172.237.0/24,42964,"SigmaNet Szolgaltato es Kereskedelm Ltd",HU
+79.173.64.0/23,197402,"KONTACT OOO",RU
 79.177.128.0/20,8551,"Bezeq International-Ltd",IL
 79.178.48.0/20,8551,"Bezeq International-Ltd",IL
 79.18.0.0/15,3269,"Telecom Italia S.p.a.",IT
 79.20.0.0/15,3269,"Telecom Italia S.p.a.",IT
+79.24.0.0/15,3269,"Telecom Italia S.p.a.",IT
 79.26.0.0/15,3269,"Telecom Italia S.p.a.",IT
 79.30.0.0/15,3269,"Telecom Italia S.p.a.",IT
 79.32.0.0/15,3269,"Telecom Italia S.p.a.",IT
@@ -3438,6 +3493,7 @@ cidr,origin,asname,country
 80.222.0.0/15,1759,"TeliaSonera Finland Oyj",FI
 80.231.0.0/16,6453,"TATA COMMUNICATIONS (AMERICA) INC",EU
 80.234.0.0/17,15500,Rostelecom,RU
+80.237.0.0/17,20485,"Closed Joint Stock Company TransTeleCom",RU
 80.237.128.0/17,20773,"Host Europe GmbH",DE
 80.24.0.0/16,3352,"TELEFONICA DE ESPANA",ES
 80.241.214.0/23,51167,"Contabo GmbH",DE
@@ -3460,6 +3516,7 @@ cidr,origin,asname,country
 80.79.112.0/20,34702,"WaveCom AS",EE
 80.80.163.168/29,21246,"Ipko Telecommunications LLC",AL
 80.80.96.0/19,60496,"MTS PJSC",RU
+80.82.208.0/20,24961,"myLoc managed IT AG",DE
 80.82.65.0/24,29073,"Quasi Networks LTD.",NL
 80.86.80.0/20,8972,"PlusServer AG",DE
 80.87.202.0/24,29182,"JSC ISPsystem",RU
@@ -3495,6 +3552,7 @@ cidr,origin,asname,country
 81.19.176.0/20,34282,"UKDedicated LTD",GB
 81.19.224.0/19,16095,"Jay.net A/S",DK
 81.196.78.0/23,8708,"RCS & RDS SA",RO
+81.200.80.0/20,41109,"TELEMEDNET - net of Center Children Telemedicin in Moscow",RU
 81.207.0.0/17,1136,"KPN Internet Solutions",NL
 81.21.67.0/24,20738,"Webfusion Internet Solutions",GB
 81.214.0.0/17,47331,"TTNet A.S.",TR
@@ -3507,6 +3565,7 @@ cidr,origin,asname,country
 81.5.128.0/18,12513,"KCOM GROUP PLC",GB
 81.61.128.0/18,6739,"VODAFONE ONO, S.A.",ES
 81.64.0.0/14,21502,"NC Numericable S.A.",FR
+81.7.0.0/18,35366,"ISPpro Internet KG",DE
 81.7.96.0/21,8764,"TEO LT, AB",LT
 81.84.0.0/16,2860,"NOS COMUNICACOES, S.A.",PT
 81.84.192.0/18,2860,"NOS COMUNICACOES, S.A.",PT
@@ -3639,6 +3698,7 @@ cidr,origin,asname,country
 85.234.128.0/19,29550,"Simply Transit Ltd",GB
 85.236.152.0/21,53589,PlanetHoster,FR
 85.236.39.0/24,15456,"InterNetX GmbH",DE
+85.238.11.0/24,41721,"Cartagon S.L.",ES
 85.240.0.0/13,3243,"MEO - SERVICOS DE COMUNICACOES E MULTIMEDIA S.A.",PT
 85.25.0.0/16,8972,"PlusServer AG",DE
 85.25.185.0/24,8972,"PlusServer AG",DE
@@ -3661,6 +3721,7 @@ cidr,origin,asname,country
 86.16.0.0/13,5089,"Virgin Media Limited",GB
 86.49.128.0/17,6830,"Liberty Global Operations B.V.",CZ
 86.61.0.0/17,5603,"Telekom Slovenije d.d.",SI
+86.80.0.0/12,1136,"KPN Internet Solutions",NL
 86.96.192.0/18,5384,"Emirates Telecommunications Corporation",AE
 86.98.0.0/17,5384,"Emirates Telecommunications Corporation",AE
 87.0.0.0/12,3269,"Telecom Italia S.p.a.",IT
@@ -3811,6 +3872,7 @@ cidr,origin,asname,country
 91.106.128.0/18,198930,"C&S Breitband GmbH",DE
 91.108.183.0/24,60485,"Inter Connects Inc",SE
 91.109.136.0/21,31214,"TIS Dialog LLC",RU
+91.109.240.0/21,13213,"UK2 - Ltd",GB
 91.121.0.0/16,16276,"OVH SAS",FR
 91.121.0.0/19,16276,"OVH SAS",FR
 91.121.160.0/19,16276,"OVH SAS",FR
@@ -3931,6 +3993,7 @@ cidr,origin,asname,country
 92.51.128.0/18,20773,"Host Europe GmbH",DE
 92.51.72.0/21,44327,"DELTA-NET LTD.",GE
 92.53.96.0/24,9123,"OOO TimeWeb",RU
+92.54.192.0/18,35805,"JSC Silknet",GE
 92.57.22.0/23,12479,"France Telecom Espana SA",ES
 92.63.128.0/20,39451,"Melbourne Server Hosting Ltd.",GB
 92.63.80.0/20,44575,"SIA MWTV",LV
@@ -3971,6 +4034,7 @@ cidr,origin,asname,country
 93.183.193.0/24,29286,"SKYLOGIC S.P.A.",UA
 93.186.192.0/20,24961,"myLoc managed IT AG",DE
 93.186.194.0/24,29119,"ServiHosting Networks S.L.",ES
+93.190.176.0/22,39047,"Multiservice Networks Ltd.",UA
 93.32.0.0/12,12874,"Fastweb SpA",IT
 93.32.0.0/13,12874,"Fastweb SpA",IT
 93.40.0.0/13,12874,"Fastweb SpA",IT
@@ -4048,9 +4112,11 @@ cidr,origin,asname,country
 95.13.0.0/17,47331,"TTNet A.S.",TR
 95.130.10.0/23,196689,"Digicube sas",FR
 95.130.12.0/22,196689,"Digicube sas",FR
+95.132.64.0/18,6849,"JSC UKRTELECOM",UA
 95.135.96.0/22,6849,"JSC UKRTELECOM",UA
 95.141.16.0/20,251,"Kaia Global Networks Ltd.",GB
 95.141.20.0/24,251,"Kaia Global Networks Ltd.",GB
+95.141.27.0/24,251,"Kaia Global Networks Ltd.",UA
 95.141.29.0/24,251,"Kaia Global Networks Ltd.",DE
 95.141.32.0/20,49367,"Seflow S.N.C. Di Marco Brame' & C.",IT
 95.141.35.0/24,49367,"Seflow S.N.C. Di Marco Brame' & C.",IT
@@ -4064,6 +4130,7 @@ cidr,origin,asname,country
 95.173.184.0/24,51559,"Netinternet Bilgisayar ve Telekomunikasyon San. ve Tic. Ltd. Sti.",TR
 95.173.187.0/24,51559,"Netinternet Bilgisayar ve Telekomunikasyon San. ve Tic. Ltd. Sti.",TR
 95.174.0.0/19,12637,"Seeweb s.r.l.",IT
+95.174.192.0/19,31036,"New Telesystems - TV, Ltd.",RU
 95.175.97.224/28,49282,"Ficolo Oy",FI
 95.178.128.0/17,34594,"OT - Optima Telekom d.d.",HR
 95.179.0.0/17,8570,"PJSC Rostelecom",RU
@@ -4081,6 +4148,7 @@ cidr,origin,asname,country
 95.215.60.0/22,56934,"SoloGigabit S.L.",ES
 95.22.0.0/16,12715,"Jazz Telecom S.A.",ES
 95.220.0.0/16,12714,"Net By Net Holding LLC",RU
+95.232.0.0/15,3269,"Telecom Italia S.p.a.",IT
 95.236.0.0/15,3269,"Telecom Italia S.p.a.",IT
 95.24.0.0/13,8402,"OJSC Vimpelcom",RU
 95.240.0.0/16,3269,"Telecom Italia S.p.a.",IT
