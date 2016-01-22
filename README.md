@@ -25,7 +25,7 @@ Require all granted
 ######### CIDR block end ###########
 ```
 
-## GeoLite Maxmind usage   
+## GeoLite MaxMind usage   
 This product includes GeoLite data created by MaxMind, available from 
 https://www.maxmind.com.
 
