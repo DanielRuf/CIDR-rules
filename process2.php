@@ -14,9 +14,9 @@ $records=0;
 $file_exists_0 = file_exists("cidr_rules_all.tsv");
 $file_exists_2 = file_exists("cidr_rules_all.csv");
 $handle = fopen('cidr_rules_all.txt', 'r');
-$fp_0 = fopen('cidr_rules_all.tsv', 'w');
+$fp_0 = fopen('cidr_rules_all.tsv', 'wb');
 // $fp_1 = fopen('cidr_rules_all.txt', 'w');
-$fp_2 = fopen('cidr_rules_all.csv', 'w');
+$fp_2 = fopen('cidr_rules_all.csv', 'wb');
 $fp_3 = fopen('cidr_rules_nginx.txt', 'w');
 $fp_4 = fopen('cidr_rules_apche22.txt', 'w');
 $fp_5 = fopen('cidr_rules_apache24.txt', 'w');
@@ -40,6 +40,8 @@ while(!feof($linecount_handle)){
 fclose($linecount_handle);
 if ($handle) {
 	$start=microtime(true);
+	fwrite($fp_0, pack("CCC",0xef,0xbb,0xbf));
+	fwrite($fp_2, pack("CCC",0xef,0xbb,0xbf));
 	fwrite($fp_0,"cidr\torigin\tasname\tcountry\r\n");
 	fwrite($fp_2,"cidr,origin,asname,country\r\n");
 	while (($line = fgets($handle)) !== false) {

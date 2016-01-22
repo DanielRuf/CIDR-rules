@@ -463,7 +463,7 @@
 129.93.0.0/16	7896	"University of Nebraska-Lincoln"	US
 130.15.0.0/16	31983	"Queen's University"	CA
 130.180.0.0/17	6830	"Liberty Global Operations B.V."	DE
-131.0.228.0/22	61709	"Dms Telecomunica√ß√µes Ltda."	BR
+131.0.228.0/22	61709	"Dms TelecomunicaÁıes Ltda."	BR
 131.0.251.0/24	52769	"LagosNet Internet Banda Larga Ltda"	BR
 131.0.48.0/22	61882	"SOLUCOES EM INFORMATICA LTDA-ME"	BR
 131.100.65.0/24	52307	LTDA	AR
@@ -591,9 +591,9 @@
 152.236.192.0/19	7738	"Telemar Norte Leste S.A."	BR
 152.236.32.0/19	7738	"Telemar Norte Leste S.A."	BR
 152.238.32.0/19	7738	"Telemar Norte Leste S.A."	BR
-152.240.0.0/12	26599	"TELEF√îNICA BRASIL S.A"	BR
-152.248.0.0/16	26599	"TELEF√îNICA BRASIL S.A"	BR
-152.250.0.0/16	27699	"TELEF√îNICA BRASIL S.A"	BR
+152.240.0.0/12	26599	"TELEF‘NICA BRASIL S.A"	BR
+152.248.0.0/16	26599	"TELEF‘NICA BRASIL S.A"	BR
+152.250.0.0/16	27699	"TELEF‘NICA BRASIL S.A"	BR
 152.33.0.0/16	32417	"Elon University"	US
 153.128.0.0/11	4713	"NTT Communications Corporation"	JP
 154.68.4.0/24	29571	"Ci Telecom"	CI
@@ -805,12 +805,12 @@
 176.9.61.96/27	24940	"Hetzner Online GmbH"	DE
 176.96.192.0/19	49029	"PROLINK LLC"	UA
 176.97.116.0/22	35554	"SPD Verdi Andrei Sergeevich"	UA
-177.10.120.0/22	53236	"Solu√ß√µes Inform√°tica Ltda."	BR
+177.10.120.0/22	53236	"SoluÁıes Inform·tica Ltda."	BR
 177.100.224.0/22	28281	"PROVEDOR DE ACESSO LTDA"	BR
 177.101.32.0/20	262606	"TECNOLOGY LTDA"	BR
-177.102.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
-177.104.252.0/24	52657	"TELECOMUNICA√á√ïES SERVI√áOS DE INTERNET LTDA"	BR
-177.105.151.0/24	262462	"COMUNICA√á√ÉO LTDA"	BR
+177.102.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
+177.104.252.0/24	52657	"TELECOMUNICA«’ES SERVI«OS DE INTERNET LTDA"	BR
+177.105.151.0/24	262462	"COMUNICA«√O LTDA"	BR
 177.12.172.0/22	28299	"Internet Ltda"	BR
 177.125.24.0/22	52866	"Telecom Serv em Telecomunicoes Ltda"	BR
 177.126.243.0/24	262363	"Wharehouse Informatica e Multimidia Ltda"	BR
@@ -827,10 +827,10 @@
 177.134.0.0/19	18881	"Global Village Telecom"	BR
 177.134.160.0/19	18881	"Global Village Telecom"	BR
 177.134.96.0/19	18881	"Global Village Telecom"	BR
-177.138.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+177.138.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 177.148.192.0/18	26615	"Tim Celular S.A."	BR
 177.15.64.0/19	53237	"BRASILEIRAS S. A. - TELEBRAS"	BR
-177.154.216.0/21	262293	"Sistema Oeste de Servi√ßos LTDA"	BR
+177.154.216.0/21	262293	"Sistema Oeste de ServiÁos LTDA"	BR
 177.156.0.0/14	18881	"Global Village Telecom"	BR
 177.156.192.0/19	18881	"Global Village Telecom"	BR
 177.156.224.0/19	18881	"Global Village Telecom"	BR
@@ -847,12 +847,12 @@
 177.18.64.0/19	18881	"Global Village Telecom"	BR
 177.182.0.0/16	28573	S.A.	BR
 177.184.104.0/21	262673	"Lafaiete Provedor de Internet e Telecomunic Ltda"	BR
-177.188.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
-177.190.72.0/21	263135	"PORTONET TELECOMUNICA√á√ïES LTDA ME"	BR
+177.188.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
+177.190.72.0/21	263135	"PORTONET TELECOMUNICA«’ES LTDA ME"	BR
 177.192.0.0/14	28573	S.A.	BR
 177.193.16.0/20	28573	S.A.	BR
 177.195.128.0/18	28573	S.A.	BR
-177.199.0.0/17	26599	"TELEF√îNICA BRASIL S.A"	BR
+177.199.0.0/17	26599	"TELEF‘NICA BRASIL S.A"	BR
 177.200.0.0/20	52775	"TecleNet Solucoes Tecnologicas"	BR
 177.200.56.0/21	52781	"Pertec Servicos de Telecomunicacoes ltda"	BR
 177.204.0.0/14	18881	"Global Village Telecom"	BR
@@ -861,12 +861,12 @@
 177.206.40.0/21	18881	"Global Village Telecom"	BR
 177.207.96.0/20	18881	"Global Village Telecom"	BR
 177.21.240.0/20	11835	"INFORMATICA LTDA"	BR
-177.212.0.0/14	26599	"TELEF√îNICA BRASIL S.A"	BR
+177.212.0.0/14	26599	"TELEF‘NICA BRASIL S.A"	BR
 177.221.224.0/20	53022	"LTDA EPP"	BR
 177.221.84.0/22	52653	"Marlon L. Larger & Cia Ltda"	BR
 177.222.228.0/22	263402	"INFORMATICA.COM LTDA"	BR
 177.222.80.0/20	52840	"TELECOMUNICACOES LTDA"	BR
-177.23.28.0/22	52762	"Band Telecomunica√ß√µes Ltda"	BR
+177.23.28.0/22	52762	"Band TelecomunicaÁıes Ltda"	BR
 177.235.0.0/16	28573	S.A.	BR
 177.246.96.0/19	13999	"Mega Cable, S.A. de C.V."	MX
 177.33.0.0/16	28573	S.A.	BR
@@ -879,45 +879,45 @@
 177.37.78.0/23	262417	"Gustavo Zanatta e Cia Ltda"	BR
 177.38.108.0/24	262774	"Tdnet Ltda"	BR
 177.38.178.0/24	52971	"TELECOM EIRELI"	BR
-177.39.128.0/24	262426	"Servi√ßos em Informatica Ltda"	BR
+177.39.128.0/24	262426	"ServiÁos em Informatica Ltda"	BR
 177.4.64.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 177.40.64.0/20	18881	"Global Village Telecom"	BR
 177.40.80.0/20	18881	"Global Village Telecom"	BR
 177.43.16.0/20	18881	"Global Village Telecom"	BR
 177.43.204.0/22	18881	"Global Village Telecom"	BR
 177.44.208.0/21	53230	"Clean Net Telecom Ltda"	BR
-177.45.0.0/17	19182	"TELEF√îNICA BRASIL S.A"	BR
-177.47.192.0/20	262470	"Pontenet Teleinform√°tica Ltda."	BR
+177.45.0.0/17	19182	"TELEF‘NICA BRASIL S.A"	BR
+177.47.192.0/20	262470	"Pontenet Teleinform·tica Ltda."	BR
 177.5.64.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 177.53.197.0/24	52833	"INFORMATICA TECNOLOGIA COMUNICAO e HARDW"	BR
-177.54.224.0/20	262462	"COMUNICA√á√ÉO LTDA"	BR
+177.54.224.0/20	262462	"COMUNICA«√O LTDA"	BR
 177.55.96.0/19	19089	"DH&C Outsourccing S/A."	BR
 177.57.0.0/17	22085	"Claro S/A"	BR
 177.6.64.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 177.64.0.0/15	28573	S.A.	BR
 177.64.128.0/19	28573	S.A.	BR
 177.64.192.0/19	28573	S.A.	BR
-177.68.0.0/16	27699	"TELEF√îNICA BRASIL S.A"	BR
+177.68.0.0/16	27699	"TELEF‘NICA BRASIL S.A"	BR
 177.69.0.0/16	16735	"TELECOM S/A"	BR
 177.71.64.0/20	262561	"MULTIMIDIA LTDA"	BR
-177.73.32.0/22	53025	"MENNE.SYS - Com√©rcio & Servi√ßos de Inform√°tica LTD"	BR
+177.73.32.0/22	53025	"MENNE.SYS - ComÈrcio & ServiÁos de Inform·tica LTD"	BR
 177.74.208.0/20	28343	"TELECOMUNICACOES LTDA"	BR
-177.75.112.0/20	52819	"Pl√°cido e Andrade LTDA"	BR
+177.75.112.0/20	52819	"Pl·cido e Andrade LTDA"	BR
 177.75.48.0/20	262588	"INFOLINK TECNOLOGIA E TELECOMUNICACOES"	BR
-177.75.72.0/21	53087	"INFORM√ÅTICA LTDA"	BR
+177.75.72.0/21	53087	"INFORM¡TICA LTDA"	BR
 177.8.160.0/20	53231	"COMUNICACAO MULTIMIDIA LTDA"	BR
 177.80.0.0/14	28573	S.A.	BR
 177.82.160.0/20	28573	S.A.	BR
 177.85.102.0/24	51167	"Contabo GmbH"	BR
 177.85.44.0/22	263296	"Interfacil - Internet Provider"	BR
-177.85.65.0/24	262600	"TELECOMUNICA√áOES LTDA ME"	BR
+177.85.65.0/24	262600	"TELECOMUNICA«OES LTDA ME"	BR
 177.85.96.0/24	51167	"Contabo GmbH"	BR
 177.87.104.0/22	262300	"LUIZ TENORIO FREITAS MELRO - ME"	BR
 177.87.152.0/22	52579	"Noroestecom Telecomunicacoes Ltda"	BR
 177.87.32.0/22	53184	"Telecom LTDA"	BR
 177.91.149.0/24	263442	"FISCHER GRUTZMANN & CIA LTDA"	BR
 177.92.32.0/19	14868	"Telecom S.A."	BR
-177.94.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+177.94.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 177.96.64.0/19	18881	"Global Village Telecom"	BR
 177.99.192.0/20	18881	"Global Village Telecom"	BR
 178.120.0.0/13	6697	"Republican Unitary Telecommunication Enterprise Beltelecom"	BY
@@ -996,12 +996,12 @@
 178.92.0.0/16	6849	"JSC UKRTELECOM"	UA
 179.105.0.0/16	28573	S.A.	BR
 179.105.48.0/20	28573	S.A.	BR
-179.107.232.0/21	262293	"Sistema Oeste de Servi√ßos LTDA"	BR
+179.107.232.0/21	262293	"Sistema Oeste de ServiÁos LTDA"	BR
 179.108.104.0/22	28303	"OptiTel Ltda"	BR
-179.125.128.0/17	28649	"Desktop Sigmanet Comunica√ß√£o Multim√≠dia Ltda"	BR
+179.125.128.0/17	28649	"Desktop Sigmanet ComunicaÁ„o MultimÌdia Ltda"	BR
 179.125.38.0/24	262847	"Hoinaski & Sklasky Ltda"	BR
 179.126.0.0/16	53006	"TELECOM S/A"	BR
-179.128.0.0/14	26599	"TELEF√îNICA BRASIL S.A"	BR
+179.128.0.0/14	26599	"TELEF‘NICA BRASIL S.A"	BR
 179.155.0.0/19	28573	S.A.	BR
 179.155.160.0/19	28573	S.A.	BR
 179.156.0.0/14	28573	S.A.	BR
@@ -1020,7 +1020,7 @@
 179.184.197.216/29	18881	"Global Village Telecom"	BR
 179.187.160.0/20	18881	"Global Village Telecom"	BR
 179.187.224.0/19	18881	"Global Village Telecom"	BR
-179.191.192.0/19	28210	"OPENLINK COMUNICA√á√ÉO MULTIMIDIA E INFORM√ÅTICA L"	BR
+179.191.192.0/19	28210	"OPENLINK COMUNICA«√O MULTIMIDIA E INFORM¡TICA L"	BR
 179.197.160.0/19	7738	"Telemar Norte Leste S.A."	BR
 179.199.0.0/16	7738	"Telemar Norte Leste S.A."	BR
 179.199.192.0/18	7738	"Telemar Norte Leste S.A."	BR
@@ -1035,7 +1035,7 @@
 179.216.96.0/20	28573	S.A.	BR
 179.217.0.0/18	28573	S.A.	BR
 179.223.0.0/17	28573	S.A.	BR
-179.228.0.0/14	26599	"TELEF√îNICA BRASIL S.A"	BR
+179.228.0.0/14	26599	"TELEF‘NICA BRASIL S.A"	BR
 179.233.0.0/19	28573	S.A.	BR
 179.233.160.0/19	28573	S.A.	BR
 179.234.64.0/19	28573	S.A.	BR
@@ -1045,12 +1045,12 @@
 179.40.68.0/24	22927	"Telefonica de Argentina"	AR
 179.43.128.0/18	51852	"Private Layer INC"	CH
 179.43.134.192/26	51852	"Private Layer INC"	CH
-179.52.0.0/15	6400	"Compa√±√≠a Dominicana de Tel√©fonos, C. por A. - CODETEL"	DO
+179.52.0.0/15	6400	"CompaÒÌa Dominicana de TelÈfonos, C. por A. - CODETEL"	DO
 179.61.200.0/23	199793	"Trusov Ilya Igorevych"	DE
 179.7.80.0/20	12252	"America Movil Peru S.A.C."	PE
 179.7.96.0/19	12252	"America Movil Peru S.A.C."	PE
-179.97.128.0/18	19182	"TELEF√îNICA BRASIL S.A"	BR
-179.98.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+179.97.128.0/18	19182	"TELEF‘NICA BRASIL S.A"	BR
+179.98.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 18.0.0.0/8	3	"Massachusetts Institute of Technology"	US
 180.148.211.0/24	45905	"52/1, Hasan Holding, 3rd Floor"	BD
 180.150.188.0/22	23724	"IDC, China Telecommunications Corporation"	CN
@@ -1242,16 +1242,16 @@
 186.179.136.0/21	27775	"Telecommunicationcompany Suriname - TeleSur"	SR
 186.18.168.0/22	27747	"Telecentro S.A."	AR
 186.193.116.0/22	53143	"& RAPCHAN LTDA. - ME"	BR
-186.193.196.0/24	262730	"Byteweb Comunica√ß√£o Multim√≠dia Ltda."	BR
-186.193.56.0/21	53135	"Nettel Telecomunica√ß√µes Ltda."	BR
-186.202.0.0/16	27715	"Locaweb Servi√ßos de Internet S/A"	BR
-186.202.128.0/19	27715	"Locaweb Servi√ßos de Internet S/A"	BR
-186.202.64.0/19	27715	"Locaweb Servi√ßos de Internet S/A"	BR
+186.193.196.0/24	262730	"Byteweb ComunicaÁ„o MultimÌdia Ltda."	BR
+186.193.56.0/21	53135	"Nettel TelecomunicaÁıes Ltda."	BR
+186.202.0.0/16	27715	"Locaweb ServiÁos de Internet S/A"	BR
+186.202.128.0/19	27715	"Locaweb ServiÁos de Internet S/A"	BR
+186.202.64.0/19	27715	"Locaweb ServiÁos de Internet S/A"	BR
 186.204.0.0/14	28573	S.A.	BR
 186.204.0.0/16	28573	S.A.	BR
 186.205.192.0/19	28573	S.A.	BR
 186.207.208.0/20	28573	S.A.	BR
-186.208.192.0/20	28279	"Telgo Telecomunica√ß√µes Goi√°s Ltda."	BR
+186.208.192.0/20	28279	"Telgo TelecomunicaÁıes Goi·s Ltda."	BR
 186.208.255.0/24	263098	"Eyes Nwhere Sistemas Inteligentes de Imagem Ltda"	BR
 186.209.24.0/21	28343	"TELECOMUNICACOES LTDA"	BR
 186.210.0.0/16	53006	"TELECOM S/A"	BR
@@ -1267,17 +1267,17 @@
 186.222.64.0/19	28573	S.A.	BR
 186.223.0.0/22	28573	S.A.	BR
 186.223.192.0/20	28573	S.A.	BR
-186.224.240.0/20	262758	"Unisites Servi√ßos de Inform√°tica EIRELI"	BR
+186.224.240.0/20	262758	"Unisites ServiÁos de Inform·tica EIRELI"	BR
 186.225.182.0/23	263099	"Sistema de Telecom. Inf e Wireless LTDA"	BR
 186.225.253.0/24	53175	"Unetvale Servicos e Equipamentos LTDA"	BR
-186.225.72.0/21	53172	"Next Telecomunica√ß√µes do Brasil LTDA"	BR
+186.225.72.0/21	53172	"Next TelecomunicaÁıes do Brasil LTDA"	BR
 186.226.251.0/24	263011	"6P Telecom Ltda"	BR
 186.227.186.0/23	262975	"A. C. VERA FILHO TELECOMUNICACOES E INFORMATICA -"	BR
 186.228.160.0/19	26615	"Tim Celular S.A."	BR
 186.229.0.0/16	26615	"Tim Celular S.A."	BR
 186.232.155.0/24	263059	"Cleber Luciano dos Anjos"	BR
-186.233.144.0/21	262790	"Central Server Inform√°tica Ltda"	BR
-186.237.48.0/21	263009	"TELECOM SERVI√áOS DE INFORM√ÅTICA LTDA."	BR
+186.233.144.0/21	262790	"Central Server Inform·tica Ltda"	BR
+186.237.48.0/21	263009	"TELECOM SERVI«OS DE INFORM¡TICA LTDA."	BR
 186.241.0.0/16	7738	"Telemar Norte Leste S.A."	BR
 186.241.32.0/19	7738	"Telemar Norte Leste S.A."	BR
 186.244.192.0/19	7738	"Telemar Norte Leste S.A."	BR
@@ -1292,12 +1292,12 @@
 186.88.0.0/13	8048	"Servicios, Venezuela"	VE
 186.92.0.0/19	8048	"Servicios, Venezuela"	VE
 187.0.0.0/20	28283	"Adylnet Telecom"	BR
-187.10.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
-187.100.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+187.10.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
+187.100.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 187.102.128.0/19	17222	"Mundivox LTDA"	BR
 187.105.64.0/19	28573	S.A.	BR
 187.106.32.0/19	28573	S.A.	BR
-187.109.8.0/21	53110	"SystemsFox presta√ß√£o de servi√ßos LTDA"	BR
+187.109.8.0/21	53110	"SystemsFox prestaÁ„o de serviÁos LTDA"	BR
 187.111.224.0/19	28220	"SERVICOS DE TELECOMUNICACOES LTDA"	BR
 187.112.0.0/14	18881	"Global Village Telecom"	BR
 187.113.0.0/18	18881	"Global Village Telecom"	BR
@@ -1332,13 +1332,13 @@
 187.22.128.0/17	28573	S.A.	BR
 187.22.192.0/19	28573	S.A.	BR
 187.23.160.0/20	28573	S.A.	BR
-187.240.128.0/17	27672	"Y EQUIPO EN TELEFON√çA INTERNET Y TV S.A. DE C.V."	MX
+187.240.128.0/17	27672	"Y EQUIPO EN TELEFONÕA INTERNET Y TV S.A. DE C.V."	MX
 187.241.144.0/20	13999	"Mega Cable, S.A. de C.V."	MX
 187.252.124.0/22	28509	"Cablemas Telecomunicaciones SA de CV"	MX
 187.252.96.0/19	28509	"Cablemas Telecomunicaciones SA de CV"	MX
 187.27.0.0/17	22085	"Claro S/A"	BR
 187.32.0.0/16	16735	"TELECOM S/A"	BR
-187.34.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+187.34.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 187.36.0.0/14	28573	S.A.	BR
 187.37.0.0/16	28573	S.A.	BR
 187.39.104.0/21	28573	S.A.	BR
@@ -1346,12 +1346,12 @@
 187.40.0.0/14	7738	"Telemar Norte Leste S.A."	BR
 187.40.64.0/19	7738	"Telemar Norte Leste S.A."	BR
 187.41.128.0/18	7738	"Telemar Norte Leste S.A."	BR
-187.44.128.0/17	28186	"TELECOMUNICA√á√ïES LTDA"	BR
-187.45.224.0/19	27715	"Locaweb Servi√ßos de Internet S/A"	BR
+187.44.128.0/17	28186	"TELECOMUNICA«’ES LTDA"	BR
+187.45.224.0/19	27715	"Locaweb ServiÁos de Internet S/A"	BR
 187.54.128.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 187.54.192.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 187.54.64.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
-187.56.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+187.56.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 187.58.176.0/21	18881	"Global Village Telecom"	BR
 187.59.96.0/19	18881	"Global Village Telecom"	BR
 187.60.128.0/20	28152	"Navinet Ltda"	BR
@@ -1360,9 +1360,9 @@
 187.63.180.0/23	28169	"PROVEDOR DE SERVICOS DE INTERNET LTDA"	BR
 187.7.192.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 187.79.0.0/16	7738	"Telemar Norte Leste S.A."	BR
-187.84.248.0/22	53058	"NET SERVI√áOS EM TECNOL. DE INFORM√ÅTICA LTDA"	BR
+187.84.248.0/22	53058	"NET SERVI«OS EM TECNOL. DE INFORM¡TICA LTDA"	BR
 187.85.32.0/21	28668	"& SILVEIRA S/C LTDA - ME"	BR
-187.87.207.0/24	52752	"Vegas Telecom Inform√°tica Ltda."	BR
+187.87.207.0/24	52752	"Vegas Telecom Inform·tica Ltda."	BR
 187.87.80.0/20	262520	"Prefeitura Municial de Alfenas"	BR
 187.94.96.0/20	28192	"Globalwave Telecom"	BR
 187.95.192.0/21	21911	"INFORMATICA LTDA"	BR
@@ -1437,8 +1437,8 @@
 188.93.144.0/24	59980	"mijndomein.nl BV"	NL
 188.95.224.0/21	42695	"City Network Hosting AB"	SE
 188.96.0.0/12	3209	"Vodafone GmbH"	DE
-189.0.80.0/20	27699	"TELEF√îNICA BRASIL S.A"	BR
-189.1.48.0/20	28658	"Gigalink de Nova Friburgo Solu√ß√µes em Rede Multimi"	BR
+189.0.80.0/20	27699	"TELEF‘NICA BRASIL S.A"	BR
+189.1.48.0/20	28658	"Gigalink de Nova Friburgo SoluÁıes em Rede Multimi"	BR
 189.10.0.0/15	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 189.10.128.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 189.101.0.0/18	28573	S.A.	BR
@@ -1447,14 +1447,14 @@
 189.106.160.0/19	7738	"Telemar Norte Leste S.A."	BR
 189.107.32.0/19	7738	"Telemar Norte Leste S.A."	BR
 189.11.128.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
-189.110.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+189.110.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 189.114.192.0/18	18881	"Global Village Telecom"	BR
 189.115.120.0/21	18881	"Global Village Telecom"	BR
 189.12.0.0/15	7738	"Telemar Norte Leste S.A."	BR
 189.121.64.0/19	28573	S.A.	BR
 189.123.128.0/18	28573	S.A.	BR
 189.124.128.0/17	28220	"SERVICOS DE TELECOMUNICACOES LTDA"	BR
-189.124.25.0/24	28219	"Net Rosas Com√©rcio e Servi√ßos em Inform√°tica Ltda."	BR
+189.124.25.0/24	28219	"Net Rosas ComÈrcio e ServiÁos em Inform·tica Ltda."	BR
 189.124.32.0/20	28651	"Comercio e Inf por Telep Ltda"	BR
 189.124.96.0/20	22356	"Durand do Brasil Ltda"	BR
 189.125.0.0/16	3549	"Level 3 Communications, Inc."	BR
@@ -1468,11 +1468,11 @@
 189.162.0.0/16	8151	"Uninet S.A. de C.V."	MX
 189.164.224.0/19	8151	"Uninet S.A. de C.V."	MX
 189.177.160.0/19	8151	"Uninet S.A. de C.V."	MX
-189.18.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
-189.18.0.0/16	27699	"TELEF√îNICA BRASIL S.A"	BR
+189.18.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
+189.18.0.0/16	27699	"TELEF‘NICA BRASIL S.A"	BR
 189.192.0.0/13	13999	"Mega Cable, S.A. de C.V."	MX
 189.196.0.0/17	13999	"Mega Cable, S.A. de C.V."	MX
-189.201.208.0/20	263080	"GTi TELECOMUNICA√á√îES S/A"	BR
+189.201.208.0/20	263080	"GTi TELECOMUNICA«‘ES S/A"	BR
 189.204.160.0/19	28554	"Cablemas Telecomunicaciones SA de CV"	MX
 189.220.130.0/23	28509	"Cablemas Telecomunicaciones SA de CV"	MX
 189.224.0.0/12	8151	"Uninet S.A. de C.V."	MX
@@ -1485,7 +1485,7 @@
 189.26.128.0/18	18881	"Global Village Telecom"	BR
 189.27.0.0/17	18881	"Global Village Telecom"	BR
 189.27.128.0/17	18881	"Global Village Telecom"	BR
-189.28.144.0/20	28311	"TELECOMUNICA√á√ÉO E INTERNET LTDA."	BR
+189.28.144.0/20	28311	"TELECOMUNICA«√O E INTERNET LTDA."	BR
 189.3.0.0/16	4230	S.A.	BR
 189.30.0.0/15	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 189.33.0.0/16	28573	S.A.	BR
@@ -1496,7 +1496,7 @@
 189.4.0.0/14	28573	S.A.	BR
 189.4.136.0/22	28573	S.A.	BR
 189.45.200.0/22	28343	"TELECOMUNICACOES LTDA"	BR
-189.46.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+189.46.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 189.49.224.0/19	7738	"Telemar Norte Leste S.A."	BR
 189.5.192.0/18	28573	S.A.	BR
 189.62.64.0/19	28573	S.A.	BR
@@ -1506,8 +1506,8 @@
 189.74.192.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 189.74.64.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 189.75.128.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
-189.76.71.0/24	52752	"Vegas Telecom Inform√°tica Ltda."	BR
-189.78.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+189.76.71.0/24	52752	"Vegas Telecom Inform·tica Ltda."	BR
+189.78.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 189.82.32.0/19	7738	"Telemar Norte Leste S.A."	BR
 189.83.0.0/16	7738	"Telemar Norte Leste S.A."	BR
 189.83.96.0/19	7738	"Telemar Norte Leste S.A."	BR
@@ -1516,7 +1516,7 @@
 189.93.192.0/18	22085	"Claro S/A"	BR
 190.0.0.0/19	13489	"Telecomunicaciones S.A. E.S.P."	CO
 190.10.9.128/25	3790	COSTARRICENSE	CR
-190.103.199.0/24	27987	"Federaci√≥n de Cooperativas Ltda."	AR
+190.103.199.0/24	27987	"FederaciÛn de Cooperativas Ltda."	AR
 190.107.177.192/26	14259	"Gtd Internet S.A."	CL
 190.111.112.0/21	11514	Transdatos	AR
 190.111.6.0/24	26617	"Navega.com S.A."	GT
@@ -1530,7 +1530,7 @@
 190.15.36.0/22	53240	"Net Onze Provedor de Acesso a Internet Ltda"	BR
 190.151.151.0/24	52339	"Lima Video Cable S.A. (Cabletel)"	AR
 190.18.0.0/15	10481	"Prima S.A."	AR
-190.180.160.0/19	52993	"Ver Tv Comunica√ß√µes S/A"	BR
+190.180.160.0/19	52993	"Ver Tv ComunicaÁıes S/A"	BR
 190.182.192.0/22	27983	"Red Intercable Digital S.A."	AR
 190.196.0.0/19	14259	"Gtd Internet S.A."	CL
 190.197.120.0/21	10269	"Belize Telemedia Limited"	BZ
@@ -1542,7 +1542,7 @@
 190.206.160.0/19	8048	"Servicios, Venezuela"	VE
 190.207.0.0/16	8048	"Servicios, Venezuela"	VE
 190.209.128.0/20	6535	"Telmex Servicios Empresariales S.A."	CL
-190.21.0.0/16	7418	"TELEF√ìNICA CHILE S.A."	CL
+190.21.0.0/16	7418	"TELEF”NICA CHILE S.A."	CL
 190.210.128.0/18	16814	S.A.	AR
 190.214.124.0/22	14420	"NACIONAL DE TELECOMUNICACIONES - CNT EP"	EC
 190.214.200.0/21	14420	"NACIONAL DE TELECOMUNICACIONES - CNT EP"	EC
@@ -1589,7 +1589,7 @@
 191.101.54.0/23	199793	"Trusov Ilya Igorevych"	CH
 191.101.67.128/25	12586	"GHOSTnet GmbH"	BY
 191.103.0.0/20	28048	"Internet Para Todos - Gobierno de La Rioja"	AR
-191.17.0.0/16	27699	"TELEF√îNICA BRASIL S.A"	BR
+191.17.0.0/16	27699	"TELEF‘NICA BRASIL S.A"	BR
 191.178.128.0/18	28573	S.A.	BR
 191.180.64.0/18	28573	S.A.	BR
 191.181.0.0/16	28573	S.A.	BR
@@ -1603,7 +1603,7 @@
 191.189.120.0/22	28573	S.A.	BR
 191.190.0.0/18	28573	S.A.	BR
 191.190.32.0/19	28573	S.A.	BR
-191.20.0.0/14	26599	"TELEF√îNICA BRASIL S.A"	BR
+191.20.0.0/14	26599	"TELEF‘NICA BRASIL S.A"	BR
 191.223.128.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 191.232.0.0/13	8075	"Microsoft Corporation"	US
 191.232.0.0/14	8075	"Microsoft Corporation"	US
@@ -1614,16 +1614,16 @@
 191.248.0.0/14	18881	"Global Village Telecom"	BR
 191.251.160.0/19	18881	"Global Village Telecom"	BR
 191.251.96.0/19	18881	"Global Village Telecom"	BR
-191.254.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+191.254.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 191.32.176.0/20	18881	"Global Village Telecom"	BR
 191.34.0.0/19	18881	"Global Village Telecom"	BR
-191.52.240.0/21	52693	"Conectel Telecomunica√ß√µes e Inform√°tica Ltda ME"	BR
+191.52.240.0/21	52693	"Conectel TelecomunicaÁıes e Inform·tica Ltda ME"	BR
 191.54.0.0/15	53006	"TELECOM S/A"	BR
 191.6.122.0/23	262753	"TELECOMUNICACOES LTDA"	BR
-191.6.164.0/24	263164	"Office Master Com. e Presta√ß√£o de Servi√ßos LTDA"	BR
+191.6.164.0/24	263164	"Office Master Com. e PrestaÁ„o de ServiÁos LTDA"	BR
 191.6.230.0/24	264362	"Teranet comunicacoes multimidia ltda"	BR
 191.7.48.0/24	263311	"Via Cast Solucoes em Telecomunicacoes Ltda"	BR
-191.8.0.0/14	26599	"TELEF√îNICA BRASIL S.A"	BR
+191.8.0.0/14	26599	"TELEF‘NICA BRASIL S.A"	BR
 191.84.0.0/15	22927	"Telefonica de Argentina"	AR
 192.100.120.0/24	6453	"TATA COMMUNICATIONS (AMERICA) INC"	FI
 192.111.144.0/20	31863	"Centrilogic, Inc."	US
@@ -1910,16 +1910,16 @@
 200.149.192.0/18	7738	"Telemar Norte Leste S.A."	BR
 200.150.64.0/20	14868	"Telecom S.A."	BR
 200.150.80.0/21	14868	"Telecom S.A."	BR
-200.153.128.0/17	27699	"TELEF√îNICA BRASIL S.A"	BR
-200.159.192.0/19	23106	"Cemig Telecomunica√ß√µes SA"	BR
-200.160.0.0/20	22548	"N√∫cleo de Inf. e Coord. do Ponto BR - NIC.BR"	BR
-200.171.128.0/18	27699	"TELEF√îNICA BRASIL S.A"	BR
+200.153.128.0/17	27699	"TELEF‘NICA BRASIL S.A"	BR
+200.159.192.0/19	23106	"Cemig TelecomunicaÁıes SA"	BR
+200.160.0.0/20	22548	"N˙cleo de Inf. e Coord. do Ponto BR - NIC.BR"	BR
+200.171.128.0/18	27699	"TELEF‘NICA BRASIL S.A"	BR
 200.171.192.0/19	10429	"Telefonica Data S.A."	BR
 200.188.128.0/19	11888	"Television Internacional, S.A. de C.V."	MX
 200.188.224.0/19	11844	"CATARINENSE DE TECNOLOGIA EM TEL LTDA"	BR
 200.195.144.0/20	14868	"Telecom S.A."	BR
 200.203.0.0/16	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
-200.207.0.0/16	27699	"TELEF√îNICA BRASIL S.A"	BR
+200.207.0.0/16	27699	"TELEF‘NICA BRASIL S.A"	BR
 200.213.0.0/16	4230	S.A.	BR
 200.217.0.0/19	7738	"Telemar Norte Leste S.A."	BR
 200.217.128.0/17	7738	"Telemar Norte Leste S.A."	BR
@@ -1927,9 +1927,9 @@
 200.222.128.0/17	7738	"Telemar Norte Leste S.A."	BR
 200.223.128.0/17	7738	"Telemar Norte Leste S.A."	BR
 200.229.80.0/22	61798	"PONTONET NETWORK"	BR
-200.234.192.0/20	27715	"Locaweb Servi√ßos de Internet S/A"	BR
+200.234.192.0/20	27715	"Locaweb ServiÁos de Internet S/A"	BR
 200.238.64.0/18	10938	"ESTADUAL DE TECNOLOGIA DA INFORMACAO - ATI"	BR
-200.239.128.0/19	1916	"Associa√ß√£o Rede Nacional de Ensino e Pesquisa"	BR
+200.239.128.0/19	1916	"AssociaÁ„o Rede Nacional de Ensino e Pesquisa"	BR
 200.248.0.0/16	4230	S.A.	BR
 200.252.0.0/16	4230	S.A.	BR
 200.255.0.0/16	4230	S.A.	BR
@@ -1943,7 +1943,7 @@
 200.84.160.0/19	8048	"Servicios, Venezuela"	VE
 200.98.192.0/18	7162	"Universo Online S.A."	BR
 200.98.64.0/18	7162	"Universo Online S.A."	BR
-201.0.0.0/17	27699	"TELEF√îNICA BRASIL S.A"	BR
+201.0.0.0/17	27699	"TELEF‘NICA BRASIL S.A"	BR
 201.110.128.0/19	8151	"Uninet S.A. de C.V."	MX
 201.112.0.0/13			MX
 201.116.0.0/18	8151	"Uninet S.A. de C.V."	MX
@@ -1951,7 +1951,7 @@
 201.147.128.0/18	8151	"Uninet S.A. de C.V."	MX
 201.147.155.0/24	8151	"Uninet S.A. de C.V."	MX
 201.148.0.0/19	18734	"Operbes, S.A. de C.V."	MX
-201.150.149.0/24	61817	"Halley Telecom Comercio & Servi√ßo Ltda Me"	BR
+201.150.149.0/24	61817	"Halley Telecom Comercio & ServiÁo Ltda Me"	BR
 201.150.21.0/24	262955	"COMUNICACOES LTDA"	BR
 201.16.192.0/18	16735	"TELECOM S/A"	BR
 201.160.192.0/20	28554	"Cablemas Telecomunicaciones SA de CV"	MX
@@ -1972,31 +1972,31 @@
 201.25.64.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 201.251.64.0/18	22927	"Telefonica de Argentina"	AR
 201.252.152.0/21	7303	"Telecom Argentina S.A."	AR
-201.26.0.0/16	27699	"TELEF√îNICA BRASIL S.A"	BR
-201.27.0.0/16	27699	"TELEF√îNICA BRASIL S.A"	BR
+201.26.0.0/16	27699	"TELEF‘NICA BRASIL S.A"	BR
+201.27.0.0/16	27699	"TELEF‘NICA BRASIL S.A"	BR
 201.34.0.0/16	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 201.37.128.0/18	28573	S.A.	BR
 201.4.0.0/16	7738	"Telemar Norte Leste S.A."	BR
 201.4.32.0/19	7738	"Telemar Norte Leste S.A."	BR
 201.40.0.0/15	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
-201.42.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+201.42.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 201.45.0.0/16	4230	S.A.	BR
 201.45.252.144/28	4230	S.A.	BR
 201.47.192.0/18	18881	"Global Village Telecom"	BR
-201.49.72.0/21	28263	"Ensite Brasil Telecomunica√ß√µes Ltda - ME"	BR
+201.49.72.0/21	28263	"Ensite Brasil TelecomunicaÁıes Ltda - ME"	BR
 201.50.64.0/18	7738	"Telemar Norte Leste S.A."	BR
 201.51.64.0/18	7738	"Telemar Norte Leste S.A."	BR
 201.54.160.0/20	28624	"SILVEIRA - ME"	BR
 201.54.76.0/23	22689	"Internet by Sercomtel S.A."	BR
 201.55.0.0/18	28637	"Cia Proc. de Dados do Estado de S Paulo - Prodesp"	BR
-201.68.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+201.68.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 201.7.0.0/17	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
-201.70.0.0/17	17379	"Intelig Telecomunica√ß√µes Ltda."	BR
+201.70.0.0/17	17379	"Intelig TelecomunicaÁıes Ltda."	BR
 201.74.240.0/21	28573	S.A.	BR
 201.76.16.0/20	28573	S.A.	BR
-201.76.32.0/19	27715	"Locaweb Servi√ßos de Internet S/A"	BR
+201.76.32.0/19	27715	"Locaweb ServiÁos de Internet S/A"	BR
 201.76.7.0/24	28642	"Contato Internet Ltda EPP"	BR
-201.77.112.0/20	28649	"Desktop Sigmanet Comunica√ß√£o Multim√≠dia Ltda"	BR
+201.77.112.0/20	28649	"Desktop Sigmanet ComunicaÁ„o MultimÌdia Ltda"	BR
 201.81.0.0/16	28573	S.A.	BR
 201.82.0.0/16	28573	S.A.	BR
 201.85.23.80/28	15180	"DIVEO S.A."	BR
@@ -2004,7 +2004,7 @@
 201.88.192.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 201.89.0.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
 201.89.128.0/18	8167	"Brasil Telecom S/A - Filial Distrito Federal"	BR
-201.92.0.0/15	27699	"TELEF√îNICA BRASIL S.A"	BR
+201.92.0.0/15	27699	"TELEF‘NICA BRASIL S.A"	BR
 201.94.194.0/23	22689	"Internet by Sercomtel S.A."	BR
 201.94.200.0/21	22689	"Internet by Sercomtel S.A."	BR
 201.94.234.0/24	22689	"Internet by Sercomtel S.A."	BR
