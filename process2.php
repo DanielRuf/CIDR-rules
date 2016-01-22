@@ -91,9 +91,9 @@ if ($handle) {
 				else $country = geoip_country_code_by_addr_v6($gi_v6, $ip_start);
 		}
 		$records++;
-		fputcsv($fp_0, array(trim($ip), trim($origin), trim($asn_name), trim($country)),"\t");
+		fputcsv($fp_0, array(trim($ip), trim($origin), mb_convert_encoding(trim($asn_name),'UTF-8', 'ISO-8859-1'), trim($country)),"\t");
 		// fwrite($fp_1,trim($ip));
-		fputcsv($fp_2, array(trim($ip), trim($origin), trim($asn_name), trim($country)));
+		fputcsv($fp_2, array(trim($ip), trim($origin), mb_convert_encoding(trim($asn_name),'UTF-8', 'ISO-8859-1'), trim($country)));
 		fwrite($fp_3,"deny ".trim($ip)); //NGINX
 		fwrite($fp_4,"deny from ".trim($ip)); // Apache 2.2
 		fwrite($fp_5,"require not ip ".trim($ip)); // Apache 2.4
