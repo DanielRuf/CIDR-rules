@@ -98,8 +98,12 @@ if ($handle) {
 		fwrite($fp_6,"$ sudo fail2ban-client -vvv set JAIL banip ".trim($ip)); //fail2ban
 		fwrite($fp_7,"$ sudo iptables -A INPUT -s ".trim($ip)." -j DROP"); //iptables
 		fwrite($fp_8,"SecRule REMOTE_HOST \"@ipmatch ".trim($ip)." \"deny\""); //ModSecurity
-		if($records<$linecount){
+		if($records<=$linecount){
+			fseek($fp_0, -1, SEEK_CUR);
+			fwrite($fp_0,"\r\n");
 			// fwrite($fp_1,"\r\n");
+			fseek($fp_2, -1, SEEK_CUR);
+			fwrite($fp_2,"\r\n");
 			fwrite($fp_3,"\r\n");
 			fwrite($fp_4,"\r\n");
 			fwrite($fp_5,"\r\n");
@@ -110,6 +114,7 @@ if ($handle) {
 	}
 	fclose($handle);
 }
+
 fclose($fp_0);
 // fclose($fp_1);
 fclose($fp_2);
