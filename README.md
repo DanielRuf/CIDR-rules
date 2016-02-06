@@ -31,5 +31,7 @@ https://www.maxmind.com.
 
 The GeoLite databases are distributed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
+http://dev.maxmind.com/geoip/legacy/geolite/
+
 ## Feed
 Atom feed: https://github.com/DanielRuf/CIDR-rules/commits/master.atom
