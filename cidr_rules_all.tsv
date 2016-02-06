@@ -49,7 +49,7 @@
 103.249.110.0/24	133199	"SonderCloud Limited"	HK
 103.249.111.0/24	133199	"SonderCloud Limited"	HK
 103.249.28.0/24	4766	"Korea Telecom"	KR
-103.249.70.0/24	3223	"Voxility S.R.L."	AU
+103.249.70.0/24	3223	"Voxility S.R.L."	RO
 103.252.220.0/22	133229	"HostPalace Network Services"	NL
 103.253.144.0/22	133165	"Digital Ocean, Inc."	SG
 103.254.126.0/23	45298	"INTERLINK TECHNOLOGY, PT"	ID
@@ -66,7 +66,7 @@
 103.38.100.0/24	38524	"Laxo Global Akses, PT"	ID
 103.39.76.0/22	38197	"Sun Network (Hong Kong) Limited"	HK
 103.43.19.0/24	132883	"Hong Kong San Ai Net Int'l Limited"	CN
-103.5.12.0/22	16276	"OVH SAS"	HK
+103.5.12.0/22			HK
 103.59.144.0/22	133199	"SonderCloud Limited"	HK
 103.9.170.0/23	45638	"SYNERGY WHOLESALE PTY LTD"	AU
 103.9.76.0/22	7643	"Vietnam Posts and Telecommunications (VNPT)"	VN
@@ -106,11 +106,11 @@
 104.200.151.0/24	46562	"Total Server Solutions L.L.C."	US
 104.200.16.0/21	36351	"SoftLayer Technologies Inc."	US
 104.200.24.0/22	6939	"Hurricane Electric, Inc."	US
-104.200.28.0/22	8001	"Net Access Corporation"	US
-104.200.28.0/24	8001	"Net Access Corporation"	US
-104.200.29.0/24	8001	"Net Access Corporation"	US
-104.200.30.0/24	8001	"Net Access Corporation"	US
-104.200.31.0/24	8001	"Net Access Corporation"	US
+104.200.28.0/22	63949	"Linode, LLC"	US
+104.200.28.0/24	63949	"Linode, LLC"	US
+104.200.29.0/24	63949	"Linode, LLC"	US
+104.200.30.0/24	63949	"Linode, LLC"	US
+104.200.31.0/24	63949	"Linode, LLC"	US
 104.200.78.0/24	62874	"Web2Objects LLC"	NL
 104.207.130.0/23	20473	"Choopa, LLC"	DE
 104.207.148.0/22	20473	"Choopa, LLC"	US
@@ -127,14 +127,14 @@
 104.237.128.0/19	36351	"SoftLayer Technologies Inc."	US
 104.237.128.0/21	36351	"SoftLayer Technologies Inc."	US
 104.237.136.0/21	36351	"SoftLayer Technologies Inc."	US
-104.237.144.0/24	8001	"Net Access Corporation"	US
-104.237.145.0/24	8001	"Net Access Corporation"	US
-104.237.146.0/24	8001	"Net Access Corporation"	US
-104.237.147.0/24	8001	"Net Access Corporation"	US
-104.237.148.0/24	8001	"Net Access Corporation"	US
-104.237.149.0/24	8001	"Net Access Corporation"	US
-104.237.150.0/24	8001	"Net Access Corporation"	US
-104.237.151.0/24	8001	"Net Access Corporation"	US
+104.237.144.0/24	63949	"Linode, LLC"	US
+104.237.145.0/24	63949	"Linode, LLC"	US
+104.237.146.0/24	63949	"Linode, LLC"	US
+104.237.147.0/24	63949	"Linode, LLC"	US
+104.237.148.0/24	63949	"Linode, LLC"	US
+104.237.149.0/24	63949	"Linode, LLC"	US
+104.237.150.0/24	63949	"Linode, LLC"	US
+104.237.151.0/24	63949	"Linode, LLC"	US
 104.237.152.0/21	6939	"Hurricane Electric, Inc."	US
 104.238.128.0/18	20473	"Choopa, LLC"	US
 104.238.144.0/23	20473	"Choopa, LLC"	US
@@ -247,7 +247,7 @@
 108.61.164.0/22	20473	"Choopa, LLC"	NL
 108.61.64.0/19	20473	"Choopa, LLC"	US
 109.0.0.0/11	15557	"Societe Francaise du Radiotelephone S.A"	FR
-109.104.78.0/23	20738	"Webfusion Internet Solutions"	GB
+109.104.78.0/23	20738	"123 REG LIMITED"	GB
 109.104.96.0/19	25577	"Connexions4London Ltd"	GB
 109.110.64.0/19	35816	"Lancom Ltd."	UA
 109.120.128.0/18	30968	"ZAO National Telecommunications"	RU
@@ -522,7 +522,7 @@
 123.243.152.0/24	7545	"TPG Telecom Limited"	AU
 123.25.0.0/19	45899	"VNPT Corp"	VN
 123.252.239.0/24	17762	"Tata Teleservices Maharashtra Ltd"	IN
-123.254.104.0/21	134121	"Rainbow network limited"	HK
+123.254.104.0/21	133731	"Royal Network Technology Co., Ltd. in Guangzhou"	HK
 123.28.0.0/16	45899	"VNPT Corp"	VN
 123.30.128.0/18	7643	"Vietnam Posts and Telecommunications (VNPT)"	VN
 123.30.128.0/20	7643	"Vietnam Posts and Telecommunications (VNPT)"	VN
@@ -544,7 +544,7 @@
 124.81.224.0/20	4795	"INDOSATM2 ASN"	ID
 125.224.0.0/13	3462	"Data Communication Business Group"	TW
 125.227.0.0/16	3462	"Data Communication Business Group"	TW
-125.24.50.0/24	23969	"TOT Public Company Limited"	TH
+125.24.50.0/24	9737	"TOT Public Company Limited"	TH
 125.24.96.0/19	23969	"TOT Public Company Limited"	TH
 125.26.128.0/18	23969	"TOT Public Company Limited"	TH
 125.64.0.0/13	38283	"CHINANET SiChuan Telecom Internet Data Center"	CN
@@ -800,7 +800,7 @@
 159.203.128.0/20	393406	"Digital Ocean, Inc."	US
 159.203.144.0/22	393406	"Digital Ocean, Inc."	US
 159.203.148.0/22	393406	"Digital Ocean, Inc."	US
-159.203.160.0/20			US
+159.203.160.0/20	393406	"Digital Ocean, Inc."	US
 159.203.192.0/20	14061	"Digital Ocean, Inc."	US
 159.203.208.0/20	14061	"Digital Ocean, Inc."	US
 159.203.224.0/20	14061	"Digital Ocean, Inc."	US
@@ -822,69 +822,69 @@
 160.3.48.0/20	11492	"CABLE ONE, INC."	US
 161.123.128.0/17	12586	"GHOSTnet GmbH"	ES
 161.123.128.0/24	12586	"GHOSTnet GmbH"	ES
-161.123.129.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.129.0/24	46261	"QuickPacket, LLC"	ZA
 161.123.130.0/24	12586	"GHOSTnet GmbH"	ES
-161.123.131.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.131.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.132.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.133.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.133.0/24	46261	"QuickPacket, LLC"	ZA
 161.123.134.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.135.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.135.0/24	46261	"QuickPacket, LLC"	ZA
 161.123.136.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.137.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.137.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.138.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.139.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.139.0/24	46261	"QuickPacket, LLC"	ZA
 161.123.140.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.141.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.141.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.142.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.143.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.143.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.144.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.145.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.145.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.146.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.147.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.147.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.148.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.149.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.149.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.150.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.151.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.151.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.152.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.153.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.153.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.154.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.155.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.155.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.156.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.157.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.157.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.158.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.159.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.159.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.160.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.161.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.161.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.162.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.163.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.163.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.164.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.165.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.165.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.166.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.167.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.167.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.168.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.169.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.169.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.170.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.171.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.171.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.172.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.173.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.173.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.174.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.175.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.175.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.176.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.177.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.177.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.178.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.179.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.179.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.180.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.181.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.181.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.182.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.183.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.183.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.184.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.185.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.185.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.186.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.187.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.187.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.188.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.189.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.189.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.190.0/24	12586	"GHOSTnet GmbH"	ZA
-161.123.191.0/24	12586	"GHOSTnet GmbH"	ZA
+161.123.191.0/24	61440	"Digital Energy Technologies Chile SpA"	ZA
 161.123.192.0/24	12586	"GHOSTnet GmbH"	ZA
 161.123.193.0/24	12586	"GHOSTnet GmbH"	US
 161.123.194.0/24	12586	"GHOSTnet GmbH"	ZA
@@ -949,11 +949,11 @@
 162.211.25.0/24	13768	"Peer 1 Network (USA) Inc."	US
 162.211.26.0/24	13768	"Peer 1 Network (USA) Inc."	US
 162.211.27.0/24	13768	"Peer 1 Network (USA) Inc."	US
-162.216.16.0/22	8001	"Net Access Corporation"	US
-162.216.16.0/24	8001	"Net Access Corporation"	US
-162.216.17.0/24	8001	"Net Access Corporation"	US
-162.216.18.0/24	8001	"Net Access Corporation"	US
-162.216.19.0/24	8001	"Net Access Corporation"	US
+162.216.16.0/22	63949	"Linode, LLC"	US
+162.216.16.0/24	63949	"Linode, LLC"	US
+162.216.17.0/24	63949	"Linode, LLC"	US
+162.216.18.0/24	63949	"Linode, LLC"	US
+162.216.19.0/24	63949	"Linode, LLC"	US
 162.216.44.0/22	46562	"Total Server Solutions L.L.C."	US
 162.219.24.0/21	15085	"Immedion, LLC"	US
 162.219.40.0/24	13739	"Datacenter IP, LLC"	US
@@ -978,7 +978,7 @@
 162.243.192.0/18	62567	"Digital Ocean, Inc."	US
 162.244.32.0/22	14576	"Hosting Solution Ltd."	US
 162.244.78.0/23	19757	"NodeServ, LLC"	US
-162.245.0.0/24	53667	"FranTech Solutions"	US
+162.245.0.0/24	3223	"Voxility S.R.L."	US
 162.245.2.0/24	3223	"Voxility S.R.L."	US
 162.245.216.0/21	25926	HostUS	US
 162.245.3.0/24	3223	"Voxility S.R.L."	US
@@ -1087,23 +1087,23 @@
 173.255.192.0/20	36351	"SoftLayer Technologies Inc."	US
 173.255.208.0/20	6939	"Hurricane Electric, Inc."	US
 173.255.208.0/24	6939	"Hurricane Electric, Inc."	US
-173.255.224.0/20	8001	"Net Access Corporation"	US
-173.255.224.0/24	8001	"Net Access Corporation"	US
-173.255.225.0/24	8001	"Net Access Corporation"	US
-173.255.226.0/24	8001	"Net Access Corporation"	US
-173.255.227.0/24	8001	"Net Access Corporation"	US
-173.255.228.0/24	8001	"Net Access Corporation"	US
-173.255.229.0/24	8001	"Net Access Corporation"	US
-173.255.230.0/24	8001	"Net Access Corporation"	US
-173.255.231.0/24	8001	"Net Access Corporation"	US
-173.255.232.0/24	8001	"Net Access Corporation"	US
-173.255.233.0/24	8001	"Net Access Corporation"	US
-173.255.234.0/24	8001	"Net Access Corporation"	US
-173.255.235.0/24	8001	"Net Access Corporation"	US
-173.255.236.0/24	8001	"Net Access Corporation"	US
-173.255.237.0/24	8001	"Net Access Corporation"	US
-173.255.238.0/24	8001	"Net Access Corporation"	US
-173.255.239.0/24	8001	"Net Access Corporation"	US
+173.255.224.0/20	63949	"Linode, LLC"	US
+173.255.224.0/24	63949	"Linode, LLC"	US
+173.255.225.0/24	63949	"Linode, LLC"	US
+173.255.226.0/24	63949	"Linode, LLC"	US
+173.255.227.0/24	63949	"Linode, LLC"	US
+173.255.228.0/24	63949	"Linode, LLC"	US
+173.255.229.0/24	63949	"Linode, LLC"	US
+173.255.230.0/24	63949	"Linode, LLC"	US
+173.255.231.0/24	63949	"Linode, LLC"	US
+173.255.232.0/24	63949	"Linode, LLC"	US
+173.255.233.0/24	63949	"Linode, LLC"	US
+173.255.234.0/24	63949	"Linode, LLC"	US
+173.255.235.0/24	63949	"Linode, LLC"	US
+173.255.236.0/24	63949	"Linode, LLC"	US
+173.255.237.0/24	63949	"Linode, LLC"	US
+173.255.238.0/24	63949	"Linode, LLC"	US
+173.255.239.0/24	63949	"Linode, LLC"	US
 173.255.240.0/20	6939	"Hurricane Electric, Inc."	US
 173.255.248.0/24	6939	"Hurricane Electric, Inc."	US
 173.45.71.152/29	10297	"eNET Inc."	US
@@ -1167,14 +1167,14 @@
 176.31.176.0/22	16276	"OVH SAS"	FR
 176.31.184.0/22	16276	"OVH SAS"	FR
 176.31.188.0/22	16276	"OVH SAS"	FR
-176.32.224.0/21	20738	"Webfusion Internet Solutions"	GB
+176.32.224.0/21	20738	"123 REG LIMITED"	GB
 176.34.192.0/18	16509	"Amazon.com, Inc."	IE
 176.34.64.0/18	16509	"Amazon.com, Inc."	IE
 176.44.0.0/15	25019	"Saudi Telecom Company JSC"	SA
 176.51.0.0/16	41440	"PJSC Rostelecom"	RU
 176.53.21.0/24	197328	"INTER NET BILGISAYAR TURIZM TIC LTD STI"	TR
 176.53.51.0/24	42926	"Radore Veri Merkezi Hizmetleri A.S."	TR
-176.56.56.0/21	31708	"Coreix Ltd"	GB
+176.56.56.0/21	21396	"NetConnex Broadband Ltd."	GB
 176.58.96.0/19	15830	"TELECITYGROUP INTERNATIONAL LIMITED"	GB
 176.60.44.0/22	25106	"Mobile TeleSystems JLLC"	BY
 176.62.192.0/21	8315	"Amsio B.V."	NL
@@ -1327,7 +1327,7 @@
 178.162.128.0/17	28753	"Leaseweb Deutschland GmbH"	DE
 178.162.192.0/19	28753	"Leaseweb Deutschland GmbH"	DE
 178.162.208.0/21	28753	"Leaseweb Deutschland GmbH"	DE
-178.170.145.0/24			BE
+178.170.145.0/24	12586	"GHOSTnet GmbH"	BE
 178.172.206.0/24	48743	"TeleSet Ltd"	BY
 178.172.207.0/24	48743	"TeleSet Ltd"	BY
 178.175.128.0/17	43289	"trabia network"	MD
@@ -1344,7 +1344,7 @@
 178.18.148.0/24	48039	"GHOSTnet GmbH"	DE
 178.18.149.0/24	48039	"GHOSTnet GmbH"	DE
 178.18.150.0/24	48039	"GHOSTnet GmbH"	DE
-178.18.151.0/24	48039	"GHOSTnet GmbH"	DE
+178.18.151.0/24	12586	"GHOSTnet GmbH"	DE
 178.18.156.0/22	48039	"GHOSTnet GmbH"	DE
 178.19.64.0/20	29551	"Aixit GmbH"	DE
 178.204.0.0/14	28840	"OJSC OAO TATTELECOM"	RU
@@ -1597,7 +1597,7 @@
 181.214.92.0/24	12586	"GHOSTnet GmbH"	US
 181.214.93.0/24	12586	"GHOSTnet GmbH"	US
 181.215.199.0/24	11878	"tzulo, inc."	US
-181.41.195.0/24	61440	"Digital Energy Technologies Chile SpA"	US
+181.41.195.0/24	13768	"Peer 1 Network (USA) Inc."	US
 181.41.222.0/23	61440	"Digital Energy Technologies Chile SpA"	BR
 181.41.64.0/19	19863	"Guyana Telephone & Telegraph Co."	GY
 181.54.208.0/22	10620	"Telmex Colombia S.A."	CO
@@ -1674,8 +1674,8 @@
 185.12.32.0/23	16276	"OVH SAS"	FR
 185.12.64.0/22	24940	"Hetzner Online GmbH"	DE
 185.126.28.0/22	24940	"Hetzner Online GmbH"	DE
-185.13.156.0/22	48039	"GHOSTnet GmbH"	DE
-185.13.156.0/24	48039	"GHOSTnet GmbH"	DE
+185.13.156.0/22	12586	"GHOSTnet GmbH"	DE
+185.13.156.0/24	12586	"GHOSTnet GmbH"	DE
 185.130.104.0/22	14576	"Hosting Solution Ltd."	RU
 185.14.184.0/22	200130	"Digital Ocean, Inc."	NL
 185.14.192.0/24	199793	"Trusov Ilya Igorevych"	UA
@@ -1960,8 +1960,8 @@
 188.120.253.0/24	29182	"JSC ISPsystem"	RU
 188.121.103.0/24	47796	"Pardaz Gostar Ertebatat Berelian Limited Liability Company"	IR
 188.126.0.0/19	42049	"Nadejda.Net Ltd"	BG
-188.127.233.0/24	48172	"Oversun Ltd"	RU
-188.127.239.0/24	48172	"Oversun Ltd"	RU
+188.127.233.0/24	56694	"Telecommunication Systems, LLC"	RU
+188.127.239.0/24	56694	"Telecommunication Systems, LLC"	RU
 188.129.0.0/17	29485	"AMIS Telekom d.o.o."	HR
 188.132.222.0/24	42910	"Hosting Internet Hizmetleri Sanayi ve Ticaret Anonim Sirketi"	TR
 188.135.152.0/21	48291	"ARIA S.P.A."	IT
@@ -1987,9 +1987,9 @@
 188.166.128.0/22	200130	"Digital Ocean, Inc."	NL
 188.166.132.0/22	202018	"Digital Ocean, Inc."	NL
 188.166.136.0/22	202109	"Digital Ocean, Inc."	NL
-188.166.144.0/20	202109	"Digital Ocean, Inc."	NL
+188.166.144.0/20	202109	"Digital Ocean, Inc."	GB
 188.166.176.0/20	133165	"Digital Ocean, Inc."	SG
-188.166.192.0/22			NL
+188.166.192.0/22	201229	"Digital Ocean, Inc."	NL
 188.166.204.0/22	133165	"Digital Ocean, Inc."	NL
 188.166.208.0/20	133165	"Digital Ocean, Inc."	SG
 188.166.224.0/20	133165	"Digital Ocean, Inc."	SG
@@ -2184,7 +2184,7 @@
 190.84.76.0/22	10620	"Telmex Colombia S.A."	CO
 190.85.0.0/16	14080	"Telmex Colombia S.A."	CO
 190.9.192.0/22	13489	"Telecomunicaciones S.A. E.S.P."	CO
-190.90.226.0/24			CO
+190.90.226.0/24	27650	"S.A. E.S.P."	CO
 190.90.241.0/24	27765	"S.A. E.M.A."	EC
 190.92.53.0/24	27884	S.A.	HN
 190.93.224.0/21	27979	"Stel Chile S.A."	CL
@@ -2208,9 +2208,9 @@
 191.101.115.0/24	12586	"GHOSTnet GmbH"	DE
 191.101.116.0/24	12586	"GHOSTnet GmbH"	DE
 191.101.117.0/24	12586	"GHOSTnet GmbH"	CL
-191.101.118.0/24	20473	"Choopa, LLC"	US
+191.101.118.0/24	12586	"GHOSTnet GmbH"	US
 191.101.119.0/24	12586	"GHOSTnet GmbH"	CL
-191.101.120.0/24	20473	"Choopa, LLC"	US
+191.101.120.0/24	12586	"GHOSTnet GmbH"	US
 191.101.121.0/24	12586	"GHOSTnet GmbH"	CL
 191.101.122.0/24	12586	"GHOSTnet GmbH"	DE
 191.101.123.0/24	12586	"GHOSTnet GmbH"	CL
@@ -2369,11 +2369,11 @@
 192.155.240.0/20	36351	"SoftLayer Technologies Inc."	US
 192.155.80.0/21	6939	"Hurricane Electric, Inc."	US
 192.155.80.0/24	6939	"Hurricane Electric, Inc."	US
-192.155.88.0/22	8001	"Net Access Corporation"	US
-192.155.88.0/24	8001	"Net Access Corporation"	US
-192.155.89.0/24	8001	"Net Access Corporation"	US
-192.155.90.0/24	8001	"Net Access Corporation"	US
-192.155.91.0/24	8001	"Net Access Corporation"	US
+192.155.88.0/22	63949	"Linode, LLC"	US
+192.155.88.0/24	63949	"Linode, LLC"	US
+192.155.89.0/24	63949	"Linode, LLC"	US
+192.155.90.0/24	63949	"Linode, LLC"	US
+192.155.91.0/24	63949	"Linode, LLC"	US
 192.155.92.0/22	3595	"Global Net Access, LLC"	US
 192.157.192.0/18	18978	"Enzu Inc"	US
 192.162.100.0/22	50113	"MediaServicePlus Ltd."	RU
@@ -2443,9 +2443,9 @@
 192.96.96.0/24	37153	HETZNER	ZA
 192.99.0.0/16	16276	"OVH SAS"	CA
 193.0.129.0/24	3189	"Atlant-Stroy ltd."	RU
-193.104.130.0/24	8725	"Netpozitif Telekomunikasyon Hizmetleri Ltd. Sti."	TR
+193.104.130.0/24	8725	"Netpozitif Telekomunikasyon Hizmetleri Ltd. Sti."	
 193.104.19.0/24	16276	"OVH SAS"	FR
-193.104.41.0/24	49934	"PE Voronov Evgen Sergiyovich"	MD
+193.104.41.0/24	49934	"PE Voronov Evgen Sergiyovich"	
 193.105.134.0/24	42708	"Portlane AB"	SE
 193.105.182.0/24	13768	"Peer 1 Network (USA) Inc."	GB
 193.105.21.0/24	3223	"Voxility S.R.L."	US
@@ -2536,8 +2536,8 @@
 194.63.192.0/19	8248	"Greek High-School Internet Network"	GR
 194.63.224.0/20	8248	"Greek High-School Internet Network"	GR
 194.63.248.0/24	12996	"Domeneshop AS"	NO
-194.8.146.0/24	49131	"PE Voloschenko Olexandr Volodumirovich"	UA
-194.8.147.0/24	49131	"PE Voloschenko Olexandr Volodumirovich"	UA
+194.8.146.0/24	59497	"Buknet LLC"	UA
+194.8.147.0/24	59497	"Buknet LLC"	UA
 194.87.232.0/24	48347	"JSC MediaSoft Ekspert"	RU
 194.9.175.0/24	12993	"SIA Digitalas Ekonomikas Attistibas Centrs"	LV
 194.98.0.0/16	702	"MCI Communications Services, Inc. d/b/a Verizon Business"	FR
@@ -2562,8 +2562,8 @@
 195.154.128.0/17	12876	"ONLINE S.A.S."	FR
 195.154.48.0/20	12876	"ONLINE S.A.S."	FR
 195.161.0.0/16	8342	"OJSC RTComm.RU"	RU
-195.162.4.0/23	48039	"GHOSTnet GmbH"	DE
-195.162.4.0/24	48039	"GHOSTnet GmbH"	DE
+195.162.4.0/23	12586	"GHOSTnet GmbH"	DE
+195.162.4.0/24	12586	"GHOSTnet GmbH"	DE
 195.162.88.0/24	50864	"JSC IT TeleNet"	UA
 195.184.9.0/24	12301	"Invitel Tavkozlesi Zrt."	HU
 195.184.92.0/23	42486	"NAG NETBONE DIGITAL Datacenter AG"	CH
@@ -2730,7 +2730,7 @@
 198.251.80.0/24	3223	"Voxility S.R.L."	US
 198.251.81.0/24	3223	"Voxility S.R.L."	US
 198.251.82.0/24	3223	"Voxility S.R.L."	US
-198.251.83.0/24	3223	"Voxility S.R.L."	US
+198.251.83.0/24			US
 198.251.84.0/24	3223	"Voxility S.R.L."	US
 198.251.85.0/24	3223	"Voxility S.R.L."	US
 198.251.86.0/24	3223	"Voxility S.R.L."	US
@@ -2755,18 +2755,18 @@
 198.71.224.0/21	26496	"GoDaddy.com, LLC"	US
 198.74.48.0/22	6939	"Hurricane Electric, Inc."	US
 198.74.52.0/22	3595	"Global Net Access, LLC"	US
-198.74.56.0/21	8001	"Net Access Corporation"	US
-198.74.56.0/24	8001	"Net Access Corporation"	US
-198.74.57.0/24	8001	"Net Access Corporation"	US
-198.74.58.0/24	8001	"Net Access Corporation"	US
-198.74.59.0/24	8001	"Net Access Corporation"	US
-198.74.60.0/24	8001	"Net Access Corporation"	US
-198.74.61.0/24	8001	"Net Access Corporation"	US
-198.74.62.0/24	8001	"Net Access Corporation"	US
-198.74.63.0/24	8001	"Net Access Corporation"	US
+198.74.56.0/21	63949	"Linode, LLC"	US
+198.74.56.0/24	63949	"Linode, LLC"	US
+198.74.57.0/24	63949	"Linode, LLC"	US
+198.74.58.0/24	63949	"Linode, LLC"	US
+198.74.59.0/24	63949	"Linode, LLC"	US
+198.74.60.0/24	63949	"Linode, LLC"	US
+198.74.61.0/24	63949	"Linode, LLC"	US
+198.74.62.0/24	63949	"Linode, LLC"	US
+198.74.63.0/24	63949	"Linode, LLC"	US
 198.8.80.0/24	46562	"Total Server Solutions L.L.C."	US
 198.8.90.0/24	46562	"Total Server Solutions L.L.C."	US
-198.89.100.0/24	13332	"NephoScale Inc."	US
+198.89.100.0/24	65010		US
 198.89.104.0/24	13332	"NephoScale Inc."	US
 198.89.107.0/24	13332	"NephoScale Inc."	US
 198.89.109.0/24	13332	"NephoScale Inc."	US
@@ -2798,7 +2798,7 @@
 199.180.248.0/21	46562	"Total Server Solutions L.L.C."	US
 199.188.116.0/22	13332	"NephoScale Inc."	US
 199.19.248.0/21	27471	"Blue Coat Systems, Inc"	US
-199.190.46.0/24	21859	"C3 Networks Inc"	A2
+199.190.46.0/24	21859	"Zenlayer Inc"	A2
 199.192.12.0/23	53717	"ICG Link, Inc."	US
 199.192.160.0/22	33133	"CopperNet Systems, Inc."	US
 199.192.200.0/21	53264	"Continuum Data Centers, LLC."	US
@@ -3080,16 +3080,16 @@
 206.126.96.0/22	8100	"QuadraNet, Inc"	US
 206.132.64.0/18	3549	"Level 3 Communications, Inc."	US
 206.169.16.0/20	4323	"tw telecom holdings, inc."	US
-206.206.163.0/24	13332	"NephoScale Inc."	US
+206.206.163.0/24	26640	"Oso Grande Technologies, Inc."	US
 206.206.168.0/24	13332	"NephoScale Inc."	US
 206.206.175.0/24	13332	"NephoScale Inc."	US
 206.206.176.0/20	26640	"Oso Grande Technologies, Inc."	US
-206.206.177.0/24	13332	"NephoScale Inc."	US
-206.206.178.0/24	13332	"NephoScale Inc."	US
+206.206.177.0/24	26640	"Oso Grande Technologies, Inc."	US
+206.206.178.0/24	26640	"Oso Grande Technologies, Inc."	US
 206.206.183.0/24	13332	"NephoScale Inc."	US
-206.206.189.0/24	13332	"NephoScale Inc."	US
-206.206.190.0/24	13332	"NephoScale Inc."	US
-206.206.191.0/24	13332	"NephoScale Inc."	US
+206.206.189.0/24	26640	"Oso Grande Technologies, Inc."	US
+206.206.190.0/24	26640	"Oso Grande Technologies, Inc."	US
+206.206.191.0/24	26640	"Oso Grande Technologies, Inc."	US
 206.206.73.0/24	13332	"NephoScale Inc."	US
 206.212.240.0/20	12260	Colostore.com	US
 206.217.128.0/20	36352	ColoCrossing	US
@@ -3213,7 +3213,7 @@
 208.91.128.0/21	15085	"Immedion, LLC"	US
 208.91.132.0/24	15085	"Immedion, LLC"	US
 208.91.135.0/24	15085	"Immedion, LLC"	US
-208.91.198.0/23	40034	"Confluence Networks Inc"	US
+208.91.198.0/23	19905	"NeuStar, Inc."	US
 208.92.208.0/21	36536	Enterhost	US
 208.95.20.0/22	46393	"ALTIUS Broadband, LLC"	US
 208.97.176.0/21	26347	"New Dream Network, LLC"	US
@@ -3379,7 +3379,7 @@
 212.44.96.0/19	43128	"Domenca d.o.o."	SI
 212.47.192.0/19	3327	"Linx Telecommunications B.V."	UA
 212.47.224.0/19	12876	"ONLINE S.A.S."	FR
-212.48.64.0/22	20738	"Webfusion Internet Solutions"	GB
+212.48.64.0/22	20738	"123 REG LIMITED"	GB
 212.49.74.0/23	12455	JAMBONET	KE
 212.52.160.0/19	28924	"INTEGRITY Informatics Ltd."	HU
 212.53.64.0/19	13768	"Peer 1 Network (USA) Inc."	GB
@@ -3641,7 +3641,7 @@
 217.195.176.0/20	31027	"Nianet A/S"	DK
 217.196.135.0/24	199536	"TECHDIGITAL DI ANGELASTRI GIUSEPPE"	IT
 217.198.96.0/20	13768	"Peer 1 Network (USA) Inc."	GB
-217.199.176.0/20	20738	"Webfusion Internet Solutions"	GB
+217.199.176.0/20	20738	"123 REG LIMITED"	GB
 217.218.225.0/25	12880	"Information Technology Company (ITC)"	IR
 217.219.0.0/16	12880	"Information Technology Company (ITC)"	IR
 217.23.0.0/20	49981	WorldStream	NL
@@ -3720,7 +3720,7 @@
 23.227.190.0/24	54540	"Incero LLC"	US
 23.227.192.0/20	35017	"Swiftway Sp. z o.o."	US
 23.229.0.0/17	55286	"B2 Net Solutions Inc."	US
-23.236.112.0/20	21859	"C3 Networks Inc"	US
+23.236.112.0/20	21859	"Zenlayer Inc"	US
 23.236.64.0/24	13768	"Peer 1 Network (USA) Inc."	US
 23.236.65.0/24	13768	"Peer 1 Network (USA) Inc."	US
 23.236.66.0/24	13768	"Peer 1 Network (USA) Inc."	US
@@ -3732,20 +3732,20 @@
 23.238.0.0/17	54290	"Hostwinds LLC."	US
 23.239.0.0/21	6939	"Hurricane Electric, Inc."	US
 23.239.1.0/24	6939	"Hurricane Electric, Inc."	US
-23.239.10.0/24	8001	"Net Access Corporation"	US
-23.239.11.0/24	8001	"Net Access Corporation"	US
-23.239.12.0/24	8001	"Net Access Corporation"	US
-23.239.13.0/24	8001	"Net Access Corporation"	US
-23.239.14.0/24	8001	"Net Access Corporation"	US
-23.239.15.0/24	8001	"Net Access Corporation"	US
+23.239.10.0/24	63949	"Linode, LLC"	US
+23.239.11.0/24	63949	"Linode, LLC"	US
+23.239.12.0/24	63949	"Linode, LLC"	US
+23.239.13.0/24	63949	"Linode, LLC"	US
+23.239.14.0/24	63949	"Linode, LLC"	US
+23.239.15.0/24	63949	"Linode, LLC"	US
 23.239.16.0/22	3595	"Global Net Access, LLC"	US
 23.239.20.0/22	6939	"Hurricane Electric, Inc."	US
 23.239.24.0/22	36351	"SoftLayer Technologies Inc."	US
 23.239.28.0/22	36351	"SoftLayer Technologies Inc."	US
 23.239.7.0/24	6939	"Hurricane Electric, Inc."	US
-23.239.8.0/21	8001	"Net Access Corporation"	US
-23.239.8.0/24	8001	"Net Access Corporation"	US
-23.239.9.0/24	8001	"Net Access Corporation"	US
+23.239.8.0/21	63949	"Linode, LLC"	US
+23.239.8.0/24	63949	"Linode, LLC"	US
+23.239.9.0/24	63949	"Linode, LLC"	US
 23.24.0.0/15	7922	"Comcast Cable Communications, Inc."	US
 23.247.148.0/24	53889	"Micfo, LLC."	US
 23.251.32.0/19	20454	"SECURED SERVERS LLC"	US
@@ -3758,16 +3758,16 @@
 23.89.0.0/17	18978	"Enzu Inc"	US
 23.91.112.0/20	20013	"CyrusOne LLC"	US
 23.91.64.0/20	36024	"Colo4, LLC"	US
-23.92.16.0/21	8001	"Net Access Corporation"	US
-23.92.16.0/24	8001	"Net Access Corporation"	US
-23.92.17.0/24	8001	"Net Access Corporation"	US
-23.92.18.0/24	8001	"Net Access Corporation"	US
-23.92.19.0/24	8001	"Net Access Corporation"	US
-23.92.20.0/24	8001	"Net Access Corporation"	US
+23.92.16.0/21	63949	"Linode, LLC"	US
+23.92.16.0/24	63949	"Linode, LLC"	US
+23.92.17.0/24	63949	"Linode, LLC"	US
+23.92.18.0/24	63949	"Linode, LLC"	US
+23.92.19.0/24	63949	"Linode, LLC"	US
+23.92.20.0/24	63949	"Linode, LLC"	US
 23.92.208.0/20	31863	"Centrilogic, Inc."	US
-23.92.21.0/24	8001	"Net Access Corporation"	US
-23.92.22.0/24	8001	"Net Access Corporation"	US
-23.92.23.0/24	8001	"Net Access Corporation"	US
+23.92.21.0/24	63949	"Linode, LLC"	US
+23.92.22.0/24	63949	"Linode, LLC"	US
+23.92.23.0/24	63949	"Linode, LLC"	US
 23.92.24.0/22	6939	"Hurricane Electric, Inc."	US
 23.92.28.0/22	3595	"Global Net Access, LLC"	US
 23.92.60.0/23	33182	"HostDime.com, Inc."	US
@@ -3800,14 +3800,14 @@
 2400:8900::/32	2516	"KDDI CORPORATION"	SG
 2400:8901::/32	63949		SG
 2402:1f00::/32	16276	"OVH SAS"	HK
-2600:3c00:100::/48	36351	"SoftLayer Technologies Inc."	US
-2600:3c00:3c00::/48	36351	"SoftLayer Technologies Inc."	US
-2600:3c00:3c00::/49	36351	"SoftLayer Technologies Inc."	US
+2600:3c00:100::/48	63949		US
+2600:3c00:3c00::/48	6939	"Hurricane Electric, Inc."	US
+2600:3c00:3c00::/49	6939	"Hurricane Electric, Inc."	US
 2600:3c00::/32	36351	"SoftLayer Technologies Inc."	US
 2600:3c01::/32	6939	"Hurricane Electric, Inc."	US
 2600:3c01::/33	6939	"Hurricane Electric, Inc."	US
 2600:3c02::/32	3595	"Global Net Access, LLC"	US
-2600:3c03::/32	8001	"Net Access Corporation"	US
+2600:3c03::/32	63949		US
 2602:ff84:8::/48	3223	"Voxility S.R.L."	US
 2604:6080::/32	13739	"Equitable Life Assurance"	US
 2604:a880:1::/48	14061	"Liquid Audio, Inc..."	US
@@ -3992,8 +3992,8 @@
 31.47.144.0/20	43793	"TVINGO Telecom Ltd."	RU
 31.48.0.0/13	2856	"BT Public Internet Service"	GB
 31.61.128.0/21	5617	"Orange Polska Spolka Akcyjna"	PL
-31.8.160.0/19	28812	"OJSC Bashinformsvyaz"	RU
-31.8.192.0/18	28812	"OJSC Bashinformsvyaz"	RU
+31.8.160.0/19	28812	"PJSC Bashinformsvyaz"	RU
+31.8.192.0/18	28812	"PJSC Bashinformsvyaz"	RU
 36.232.0.0/16	3462	"Data Communication Business Group"	TW
 36.235.0.0/16	3462	"Data Communication Business Group"	TW
 36.236.0.0/16	3462	"Data Communication Business Group"	TW
@@ -4039,7 +4039,7 @@
 37.114.63.0/24	12586	"GHOSTnet GmbH"	DE
 37.115.0.0/16	15895	"Kyivstar PJSC"	UA
 37.115.128.0/17	15895	"Kyivstar PJSC"	UA
-37.122.208.0/21	20738	"Webfusion Internet Solutions"	GB
+37.122.208.0/21	20738	"123 REG LIMITED"	GB
 37.128.200.0/21	15723	"Azeronline Information Services"	AZ
 37.130.226.0/23	13213	"UK2 - Ltd"	GB
 37.130.227.128/29	13213	"UK2 - Ltd"	GB
@@ -4144,7 +4144,7 @@
 38.113.192.0/23	13332	"NephoScale Inc."	US
 38.113.204.0/22	13332	"NephoScale Inc."	US
 38.113.216.0/22	13332	"NephoScale Inc."	US
-38.116.192.0/24	174	"Cogent Communications"	CA
+38.116.192.0/24	26677	ORANO	CA
 38.68.14.0/23	62638	"Query Foundry, LLC"	US
 38.80.76.0/24	10929	"Netelligent Hosting Services Inc."	US
 39.171.0.0/16	56041	"China Mobile communications corporation"	CN
@@ -4227,7 +4227,7 @@
 45.33.45.0/24	6939	"Hurricane Electric, Inc."	US
 45.33.51.0/24	6939	"Hurricane Electric, Inc."	US
 45.33.58.0/24	6939	"Hurricane Electric, Inc."	US
-45.33.64.0/19	8001	"Net Access Corporation"	US
+45.33.64.0/19	63949	"Linode, LLC"	US
 45.33.96.0/21	3595	"Global Net Access, LLC"	US
 45.34.0.0/15	40676	"Psychz Networks"	US
 45.36.0.0/15	11426	"Time Warner Cable Internet LLC"	US
@@ -4250,7 +4250,7 @@
 45.56.80.0/20	6939	"Hurricane Electric, Inc."	US
 45.56.84.0/24	6939	"Hurricane Electric, Inc."	US
 45.56.85.0/24	6939	"Hurricane Electric, Inc."	US
-45.56.96.0/20	8001	"Net Access Corporation"	US
+45.56.96.0/20	63949	"Linode, LLC"	US
 45.57.128.0/18	55286	"B2 Net Solutions Inc."	US
 45.58.36.0/23	13768	"Peer 1 Network (USA) Inc."	CA
 45.58.44.0/24	6364	"Atlantic.net, Inc."	US
@@ -4266,10 +4266,10 @@
 45.74.63.0/24	3223	"Voxility S.R.L."	US
 45.79.0.0/21	36351	"SoftLayer Technologies Inc."	US
 45.79.12.0/22	36351	"SoftLayer Technologies Inc."	US
-45.79.128.0/19	8001	"Net Access Corporation"	US
+45.79.128.0/19	63949	"Linode, LLC"	US
 45.79.16.0/20	36351	"SoftLayer Technologies Inc."	US
-45.79.160.0/20	8001	"Net Access Corporation"	US
-45.79.176.0/20	8001	"Net Access Corporation"	US
+45.79.160.0/20	63949	"Linode, LLC"	US
+45.79.176.0/20	63949	"Linode, LLC"	US
 45.79.192.0/20	3595	"Global Net Access, LLC"	US
 45.79.208.0/20	3595	"Global Net Access, LLC"	US
 45.79.224.0/19	6939	"Hurricane Electric, Inc."	US
@@ -4287,7 +4287,7 @@
 46.101.68.0/22	201229	"Digital Ocean, Inc."	GB
 46.101.72.0/21	202109	"Digital Ocean, Inc."	GB
 46.101.80.0/20	202109	"Digital Ocean, Inc."	GB
-46.101.96.0/20	201229	"Digital Ocean, Inc."	GB
+46.101.96.0/20	201229	"Digital Ocean, Inc."	DE
 46.102.96.0/21	48095	"XT GLOBAL NETWORKS LTD."	TR
 46.103.0.0/16	6866	"Cyprus Telecommunications Authority"	GR
 46.105.0.0/16	16276	"OVH SAS"	FR
@@ -4314,7 +4314,7 @@
 46.148.30.0/23	50297	"Infium, UAB"	UA
 46.149.80.0/20	34814	"Osnova-Internet LLC"	UA
 46.151.48.0/21			UA
-46.151.52.0/22	42861	"JSC Prime-Line"	UA
+46.151.52.0/22	203574	"PE Milovanov"	UA
 46.159.0.0/16	12389	"PJSC Rostelecom"	RU
 46.160.84.0/23	6712	"MSP Format Ltd."	UA
 46.160.85.0/24	6712	"MSP Format Ltd."	UA
@@ -4393,8 +4393,8 @@
 46.30.244.0/22	52030	"Server Plan S.r.l."	IT
 46.31.40.0/21	44141	"DEVCLIC SARL"	FR
 46.32.0.0/19	51431	"Rasaneh Avabarid Private Joint Stock Company"	IR
-46.32.224.0/19	20738	"Webfusion Internet Solutions"	GB
-46.32.226.0/23	20738	"Webfusion Internet Solutions"	GB
+46.32.224.0/19	20738	"123 REG LIMITED"	GB
+46.32.226.0/23	20738	"123 REG LIMITED"	GB
 46.33.224.0/19	31272	"WildPark Co"	UA
 46.35.128.0/19	20875	"HT d.o.o. Mostar"	BA
 46.35.224.0/19	35816	"Lancom Ltd."	UA
@@ -4924,23 +4924,23 @@
 50.116.0.0/20	6939	"Hurricane Electric, Inc."	US
 50.116.16.0/20	36351	"SoftLayer Technologies Inc."	US
 50.116.32.0/20	3595	"Global Net Access, LLC"	US
-50.116.48.0/20	8001	"Net Access Corporation"	US
-50.116.48.0/24	8001	"Net Access Corporation"	US
-50.116.49.0/24	8001	"Net Access Corporation"	US
-50.116.50.0/24	8001	"Net Access Corporation"	US
-50.116.51.0/24	8001	"Net Access Corporation"	US
-50.116.52.0/24	8001	"Net Access Corporation"	US
-50.116.53.0/24	8001	"Net Access Corporation"	US
-50.116.54.0/24	8001	"Net Access Corporation"	US
-50.116.55.0/24	8001	"Net Access Corporation"	US
-50.116.56.0/24	8001	"Net Access Corporation"	US
-50.116.57.0/24	8001	"Net Access Corporation"	US
-50.116.58.0/24	8001	"Net Access Corporation"	US
-50.116.59.0/24	8001	"Net Access Corporation"	US
-50.116.60.0/24	8001	"Net Access Corporation"	US
-50.116.61.0/24	8001	"Net Access Corporation"	US
-50.116.62.0/24	8001	"Net Access Corporation"	US
-50.116.63.0/24	8001	"Net Access Corporation"	US
+50.116.48.0/20	63949	"Linode, LLC"	US
+50.116.48.0/24	63949	"Linode, LLC"	US
+50.116.49.0/24	63949	"Linode, LLC"	US
+50.116.50.0/24	63949	"Linode, LLC"	US
+50.116.51.0/24	63949	"Linode, LLC"	US
+50.116.52.0/24	63949	"Linode, LLC"	US
+50.116.53.0/24	63949	"Linode, LLC"	US
+50.116.54.0/24	63949	"Linode, LLC"	US
+50.116.55.0/24	63949	"Linode, LLC"	US
+50.116.56.0/24	63949	"Linode, LLC"	US
+50.116.57.0/24	63949	"Linode, LLC"	US
+50.116.58.0/24	63949	"Linode, LLC"	US
+50.116.59.0/24	63949	"Linode, LLC"	US
+50.116.60.0/24	63949	"Linode, LLC"	US
+50.116.61.0/24	63949	"Linode, LLC"	US
+50.116.62.0/24	63949	"Linode, LLC"	US
+50.116.63.0/24	63949	"Linode, LLC"	US
 50.116.9.0/24	6939	"Hurricane Electric, Inc."	US
 50.117.0.0/17	18779	EGIHosting	US
 50.118.172.0/23	21321	"Areti Internet Ltd."	US
@@ -5096,7 +5096,7 @@
 62.116.128.0/19	15456	"InterNetX GmbH"	DE
 62.116.160.0/19	15456	"InterNetX GmbH"	DE
 62.128.128.0/19	13768	"Peer 1 Network (USA) Inc."	GB
-62.133.160.0/19	28812	"OJSC Bashinformsvyaz"	RU
+62.133.160.0/19	28812	"PJSC Bashinformsvyaz"	RU
 62.134.0.0/16	5400	"British Telecommunications plc"	EU
 62.138.0.0/16	8972	"PlusServer AG"	DE
 62.147.0.0/16	12322	"Free SAS"	FR
@@ -5219,8 +5219,8 @@
 64.34.96.0/20	13768	"Peer 1 Network (USA) Inc."	CA
 64.37.48.0/20	33182	"HostDime.com, Inc."	US
 64.38.224.0/22	20454	"SECURED SERVERS LLC"	US
-64.40.32.0/24	13768	"Peer 1 Network (USA) Inc."	US
-64.40.35.0/24	13768	"Peer 1 Network (USA) Inc."	US
+64.40.32.0/24			US
+64.40.35.0/24			US
 64.45.0.0/18	13768	"Peer 1 Network (USA) Inc."	US
 64.50.160.0/22	15244	"Lunar Pages"	US
 64.50.164.0/23	15244	"Lunar Pages"	US
@@ -5301,7 +5301,7 @@
 66.102.128.0/20	15244	"Lunar Pages"	US
 66.109.16.0/20	31797	"Galaxyvisions Inc"	US
 66.111.64.0/19	13768	"Peer 1 Network (USA) Inc."	US
-66.128.192.0/20	13768	"Peer 1 Network (USA) Inc."	US
+66.128.192.0/20	20454	"SECURED SERVERS LLC"	US
 66.129.176.0/20	13768	"Peer 1 Network (USA) Inc."	CA
 66.132.128.0/17	13768	"Peer 1 Network (USA) Inc."	US
 66.132.225.0/24	13768	"Peer 1 Network (USA) Inc."	US
@@ -5345,15 +5345,15 @@
 66.170.0.0/19	4150	"SupraNet Communications, Inc."	US
 66.172.0.0/18	11051	"Cyberverse, Inc."	US
 66.172.64.0/19	13332	"NephoScale Inc."	US
-66.175.208.0/21	8001	"Net Access Corporation"	US
-66.175.208.0/24	8001	"Net Access Corporation"	US
-66.175.209.0/24	8001	"Net Access Corporation"	US
-66.175.210.0/24	8001	"Net Access Corporation"	US
-66.175.211.0/24	8001	"Net Access Corporation"	US
-66.175.212.0/24	8001	"Net Access Corporation"	US
-66.175.213.0/24	8001	"Net Access Corporation"	US
-66.175.214.0/24	8001	"Net Access Corporation"	US
-66.175.215.0/24	8001	"Net Access Corporation"	US
+66.175.208.0/21	63949	"Linode, LLC"	US
+66.175.208.0/24	63949	"Linode, LLC"	US
+66.175.209.0/24	63949	"Linode, LLC"	US
+66.175.210.0/24	63949	"Linode, LLC"	US
+66.175.211.0/24	63949	"Linode, LLC"	US
+66.175.212.0/24	63949	"Linode, LLC"	US
+66.175.213.0/24	63949	"Linode, LLC"	US
+66.175.214.0/24	63949	"Linode, LLC"	US
+66.175.215.0/24	63949	"Linode, LLC"	US
 66.175.216.0/21	6939	"Hurricane Electric, Inc."	US
 66.175.217.0/24	6939	"Hurricane Electric, Inc."	US
 66.176.0.0/15	7922	"Comcast Cable Communications, Inc."	US
@@ -5388,23 +5388,23 @@
 66.223.0.0/17	13768	"Peer 1 Network (USA) Inc."	US
 66.225.231.0/24	36352	ColoCrossing	US
 66.226.72.0/21	10316	Codero	US
-66.228.32.0/20	8001	"Net Access Corporation"	US
-66.228.32.0/24	8001	"Net Access Corporation"	US
-66.228.33.0/24	8001	"Net Access Corporation"	US
-66.228.34.0/24	8001	"Net Access Corporation"	US
-66.228.35.0/24	8001	"Net Access Corporation"	US
-66.228.36.0/24	8001	"Net Access Corporation"	US
-66.228.37.0/24	8001	"Net Access Corporation"	US
-66.228.38.0/24	8001	"Net Access Corporation"	US
-66.228.39.0/24	8001	"Net Access Corporation"	US
-66.228.40.0/24	8001	"Net Access Corporation"	US
-66.228.41.0/24	8001	"Net Access Corporation"	US
-66.228.42.0/24	8001	"Net Access Corporation"	US
-66.228.43.0/24	8001	"Net Access Corporation"	US
-66.228.44.0/24	8001	"Net Access Corporation"	US
-66.228.45.0/24	8001	"Net Access Corporation"	US
-66.228.46.0/24	8001	"Net Access Corporation"	US
-66.228.47.0/24	8001	"Net Access Corporation"	US
+66.228.32.0/20	63949	"Linode, LLC"	US
+66.228.32.0/24	63949	"Linode, LLC"	US
+66.228.33.0/24	63949	"Linode, LLC"	US
+66.228.34.0/24	63949	"Linode, LLC"	US
+66.228.35.0/24	63949	"Linode, LLC"	US
+66.228.36.0/24	63949	"Linode, LLC"	US
+66.228.37.0/24	63949	"Linode, LLC"	US
+66.228.38.0/24	63949	"Linode, LLC"	US
+66.228.39.0/24	63949	"Linode, LLC"	US
+66.228.40.0/24	63949	"Linode, LLC"	US
+66.228.41.0/24	63949	"Linode, LLC"	US
+66.228.42.0/24	63949	"Linode, LLC"	US
+66.228.43.0/24	63949	"Linode, LLC"	US
+66.228.44.0/24	63949	"Linode, LLC"	US
+66.228.45.0/24	63949	"Linode, LLC"	US
+66.228.46.0/24	63949	"Linode, LLC"	US
+66.228.47.0/24	63949	"Linode, LLC"	US
 66.228.48.0/21	36351	"SoftLayer Technologies Inc."	US
 66.228.56.0/21	3595	"Global Net Access, LLC"	US
 66.23.224.0/20	19318	"NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC"	US
@@ -5496,7 +5496,7 @@
 67.23.185.0/24	15085	"Immedion, LLC"	US
 67.23.186.0/24	15085	"Immedion, LLC"	US
 67.23.191.0/24	15085	"Immedion, LLC"	US
-67.230.84.0/23	55158	"Airnetworks Inc"	PR
+67.230.84.0/23	23520	"Columbus Networks USA, Inc."	PR
 67.255.192.0/18	11351	"Time Warner Cable Internet LLC"	US
 67.43.0.0/20	32244	"Liquid Web, Inc."	US
 67.50.0.0/15	7385	"Integra Telecom, Inc."	US
@@ -5538,23 +5538,23 @@
 69.163.192.0/18	26347	"New Dream Network, LLC"	US
 69.164.111.192/27	7381	"SunGard Availability Services LP"	US
 69.164.192.0/20	36351	"SoftLayer Technologies Inc."	US
-69.164.208.0/20	8001	"Net Access Corporation"	US
-69.164.208.0/24	8001	"Net Access Corporation"	US
-69.164.209.0/24	8001	"Net Access Corporation"	US
-69.164.210.0/24	8001	"Net Access Corporation"	US
-69.164.211.0/24	8001	"Net Access Corporation"	US
-69.164.212.0/24	8001	"Net Access Corporation"	US
-69.164.213.0/24	8001	"Net Access Corporation"	US
-69.164.214.0/24	8001	"Net Access Corporation"	US
-69.164.215.0/24	8001	"Net Access Corporation"	US
-69.164.216.0/24	8001	"Net Access Corporation"	US
-69.164.217.0/24	8001	"Net Access Corporation"	US
-69.164.218.0/24	8001	"Net Access Corporation"	US
-69.164.219.0/24	8001	"Net Access Corporation"	US
-69.164.220.0/24	8001	"Net Access Corporation"	US
-69.164.221.0/24	8001	"Net Access Corporation"	US
-69.164.222.0/24	8001	"Net Access Corporation"	US
-69.164.223.0/24	8001	"Net Access Corporation"	US
+69.164.208.0/20	63949	"Linode, LLC"	US
+69.164.208.0/24	63949	"Linode, LLC"	US
+69.164.209.0/24	63949	"Linode, LLC"	US
+69.164.210.0/24	63949	"Linode, LLC"	US
+69.164.211.0/24	63949	"Linode, LLC"	US
+69.164.212.0/24	63949	"Linode, LLC"	US
+69.164.213.0/24	63949	"Linode, LLC"	US
+69.164.214.0/24	63949	"Linode, LLC"	US
+69.164.215.0/24	63949	"Linode, LLC"	US
+69.164.216.0/24	63949	"Linode, LLC"	US
+69.164.217.0/24	63949	"Linode, LLC"	US
+69.164.218.0/24	63949	"Linode, LLC"	US
+69.164.219.0/24	63949	"Linode, LLC"	US
+69.164.220.0/24	63949	"Linode, LLC"	US
+69.164.221.0/24	63949	"Linode, LLC"	US
+69.164.222.0/24	63949	"Linode, LLC"	US
+69.164.223.0/24	63949	"Linode, LLC"	US
 69.164.240.0/20	19318	"NEW JERSEY INTERNATIONAL INTERNET EXCHANGE LLC"	US
 69.165.80.0/20	10929	"Netelligent Hosting Services Inc."	CA
 69.165.95.0/24	10929	"Netelligent Hosting Services Inc."	CA
@@ -5626,7 +5626,7 @@
 69.65.0.0/18	32181	GigeNET	US
 69.70.192.0/18	5769	"Videotron Telecom Ltee"	CA
 69.73.128.0/18	11042	"Landis Holdings Inc"	US
-69.73.192.0/18	11139	"Cable & Wireless Dominica"	BB
+69.73.192.0/18	14813	"Columbus Telecommunications (Barbados) Limited"	BB
 69.74.0.0/16	6128	"Cablevision Systems Corp."	US
 69.89.0.0/20	20141	"Quality Technology Services, LLC."	US
 69.90.0.0/16	13768	"Peer 1 Network (USA) Inc."	CA
@@ -6028,7 +6028,7 @@
 79.160.0.0/15	29695	"Altibox AS"	NO
 79.161.35.192/26	29695	"Altibox AS"	NO
 79.168.192.0/18	2860	"NOS COMUNICACOES, S.A."	PT
-79.170.40.0/21	20738	"Webfusion Internet Solutions"	GB
+79.170.40.0/21	20738	"123 REG LIMITED"	GB
 79.171.32.0/21	20860	Iomart	GB
 79.172.192.0/18	43711	"Szervernet Ltd."	HU
 79.172.237.0/24	42964	"SigmaNet Szolgaltato es Kereskedelm Ltd"	HU
@@ -6064,7 +6064,7 @@
 8.33.96.0/21	16276	"OVH SAS"	CA
 8.36.226.0/23	393552	"Longmont Power & Communications"	US
 8.37.224.0/24	54994	"QUANTIL, INC"	US
-8.4.48.0/24	3356	"Level 3 Communications, Inc."	US
+8.4.48.0/24	13332	"NephoScale Inc."	US
 8.4.49.0/24	13332	"NephoScale Inc."	US
 8.4.50.0/24	13332	"NephoScale Inc."	US
 8.4.51.0/24	13332	"NephoScale Inc."	US
@@ -6148,7 +6148,7 @@
 81.196.78.0/23	8708	"RCS & RDS SA"	RO
 81.200.80.0/20	41109	"TELEMEDNET - net of Center Children Telemedicin in Moscow"	RU
 81.207.0.0/17	1136	"KPN Internet Solutions"	NL
-81.21.67.0/24	20738	"Webfusion Internet Solutions"	GB
+81.21.67.0/24	20738	"123 REG LIMITED"	GB
 81.214.0.0/17	47331	"TTNet A.S."	TR
 81.240.0.0/14	5432	"Proximus NV"	BE
 81.27.208.0/20	42525	"GlobalConnect a/s"	DK
@@ -6203,7 +6203,7 @@
 82.207.0.0/17	6849	"JSC UKRTELECOM"	UA
 82.207.92.0/24	6849	"JSC UKRTELECOM"	UA
 82.208.76.0/24	25405	"PJSC Rostelecom"	RU
-82.210.0.0/18	29083	"Webplus24 GmbH"	DE
+82.210.0.0/18	29083	"Webplus24 GmbH"	RO
 82.211.0.0/18	31400	"Accelerated IT Services GmbH"	DE
 82.220.34.0/24	9044	"BSE Software GmbH"	CH
 82.221.105.0/24	50613	"THOR Data Center ehf"	IS
@@ -6286,7 +6286,7 @@
 84.80.0.0/14	1136	"KPN Internet Solutions"	NL
 84.90.0.0/15	13156	"Cabovisao, televisao por cabovisao, sa"	PT
 85.10.192.0/18	24940	"Hetzner Online GmbH"	DE
-85.104.0.0/17	47331	"TTNet A.S."	TR
+85.104.0.0/17	9121	"Turk Telekomunikasyon Anonim Sirketi"	TR
 85.110.0.0/17	47331	"TTNet A.S."	TR
 85.118.160.0/21	12360	"KEVAG Telekom GmbH"	DE
 85.121.206.0/24	41028	"CobraTELECOM SRL"	RO
@@ -6685,7 +6685,7 @@
 91.220.230.0/24	51995	"Ternivske Telebachennya LTD"	UA
 91.220.49.0/24	24940	"Hetzner Online GmbH"	DE
 91.222.60.0/24	51972	"SIM-TELECOM LLC."	UA
-91.223.223.0/24	21219	"PRIVATE JOINT STOCK COMPANY DATAGROUP"	UA
+91.223.223.0/24	196645	"Hostpro Ltd."	UA
 91.224.102.0/23	20730	"BIKS+ Ltd"	RU
 91.224.160.0/23	50673	"Serverius Holding B.V."	NL
 91.225.120.0/22	197575	"CHP Mediana-Servis"	UA
@@ -6807,7 +6807,7 @@
 93.157.55.0/24	12586	"GHOSTnet GmbH"	DE
 93.157.96.0/21	57807	"Oxylion S. A."	PL
 93.158.240.0/20	60569	"ARD Teleport LTD."	RU
-93.159.242.0/23	51433	"Planet Ltd"	RU
+93.159.242.0/23	51433	"RU-MULTINET-AS#2 Planet Ltd"	RU
 93.169.96.0/24	39891	"Saudi Telecom Company JSC"	SA
 93.170.122.0/24	59988	"Optical Telecommunications Ltd."	RU
 93.170.13.0/24	14576	"Hosting Solution Ltd."	NL
@@ -6851,7 +6851,7 @@
 94.126.120.0/24	12703	"Pulsant (Scotland) Ltd"	GB
 94.126.121.0/24	12703	"Pulsant (Scotland) Ltd"	GB
 94.131.0.0/16	57166	"D2 International Investment Ukraine LLC"	RU
-94.136.32.0/19	20738	"Webfusion Internet Solutions"	GB
+94.136.32.0/19	20738	"123 REG LIMITED"	GB
 94.137.48.0/20	47165	"Omskie kabelnye seti Ltd."	RU
 94.143.157.0/24	49073	"Moviement srl"	IT
 94.143.158.0/24	49073	"Moviement srl"	IT
@@ -7057,15 +7057,15 @@
 95.93.64.0/18	2860	"NOS COMUNICACOES, S.A."	PT
 96.125.182.0/23	13768	"Peer 1 Network (USA) Inc."	CA
 96.125.184.0/22	13768	"Peer 1 Network (USA) Inc."	CA
-96.126.104.0/21	8001	"Net Access Corporation"	US
-96.126.104.0/24	8001	"Net Access Corporation"	US
-96.126.105.0/24	8001	"Net Access Corporation"	US
-96.126.106.0/24	8001	"Net Access Corporation"	US
-96.126.107.0/24	8001	"Net Access Corporation"	US
-96.126.108.0/24	8001	"Net Access Corporation"	US
-96.126.109.0/24	8001	"Net Access Corporation"	US
-96.126.110.0/24	8001	"Net Access Corporation"	US
-96.126.111.0/24	8001	"Net Access Corporation"	US
+96.126.104.0/21	63949	"Linode, LLC"	US
+96.126.104.0/24	63949	"Linode, LLC"	US
+96.126.105.0/24	63949	"Linode, LLC"	US
+96.126.106.0/24	63949	"Linode, LLC"	US
+96.126.107.0/24	63949	"Linode, LLC"	US
+96.126.108.0/24	63949	"Linode, LLC"	US
+96.126.109.0/24	63949	"Linode, LLC"	US
+96.126.110.0/24	63949	"Linode, LLC"	US
+96.126.111.0/24	63949	"Linode, LLC"	US
 96.126.112.0/20	36351	"SoftLayer Technologies Inc."	US
 96.126.96.0/21	6939	"Hurricane Electric, Inc."	US
 96.126.99.0/24	6939	"Hurricane Electric, Inc."	US
@@ -7087,23 +7087,23 @@
 96.47.37.0/24	13354	"EBL Global Networks, Inc."	US
 96.47.40.0/21	36351	"SoftLayer Technologies Inc."	US
 96.64.0.0/11	7922	"Comcast Cable Communications, Inc."	US
-97.107.128.0/20	8001	"Net Access Corporation"	US
-97.107.128.0/24	8001	"Net Access Corporation"	US
-97.107.129.0/24	8001	"Net Access Corporation"	US
-97.107.130.0/24	8001	"Net Access Corporation"	US
-97.107.131.0/24	8001	"Net Access Corporation"	US
-97.107.132.0/24	8001	"Net Access Corporation"	US
-97.107.133.0/24	8001	"Net Access Corporation"	US
-97.107.134.0/24	8001	"Net Access Corporation"	US
-97.107.135.0/24	8001	"Net Access Corporation"	US
-97.107.136.0/24	8001	"Net Access Corporation"	US
-97.107.137.0/24	8001	"Net Access Corporation"	US
-97.107.138.0/24	8001	"Net Access Corporation"	US
-97.107.139.0/24	8001	"Net Access Corporation"	US
-97.107.140.0/24	8001	"Net Access Corporation"	US
-97.107.141.0/24	8001	"Net Access Corporation"	US
-97.107.142.0/24	8001	"Net Access Corporation"	US
-97.107.143.0/24	8001	"Net Access Corporation"	US
+97.107.128.0/20	63949	"Linode, LLC"	US
+97.107.128.0/24	63949	"Linode, LLC"	US
+97.107.129.0/24	63949	"Linode, LLC"	US
+97.107.130.0/24	63949	"Linode, LLC"	US
+97.107.131.0/24	63949	"Linode, LLC"	US
+97.107.132.0/24	63949	"Linode, LLC"	US
+97.107.133.0/24	63949	"Linode, LLC"	US
+97.107.134.0/24	63949	"Linode, LLC"	US
+97.107.135.0/24	63949	"Linode, LLC"	US
+97.107.136.0/24	63949	"Linode, LLC"	US
+97.107.137.0/24	63949	"Linode, LLC"	US
+97.107.138.0/24	63949	"Linode, LLC"	US
+97.107.139.0/24	63949	"Linode, LLC"	US
+97.107.140.0/24	63949	"Linode, LLC"	US
+97.107.141.0/24	63949	"Linode, LLC"	US
+97.107.142.0/24	63949	"Linode, LLC"	US
+97.107.143.0/24	63949	"Linode, LLC"	US
 97.74.144.0/22	26496	"GoDaddy.com, LLC"	US
 97.74.212.0/22	26496	"GoDaddy.com, LLC"	US
 97.74.4.0/22	26496	"GoDaddy.com, LLC"	US
