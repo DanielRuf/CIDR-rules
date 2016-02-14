@@ -23,6 +23,7 @@ $fp_5 = fopen('cidr_rules_apache24.txt', 'a');
 $fp_6 = fopen('cidr_rules_fail2ban.txt', 'a');
 $fp_7 = fopen('cidr_rules_iptables.txt', 'a');
 $fp_8 = fopen('cidr_rules_modsecurity.txt', 'a');
+$fp_9 = fopen('cidr_rules_ipset.txt', 'a');
 if($api == "maxmind"){
 	include("maxmind/geoip.inc");
 	// GEOIP_MEMORY_CACHE is slower on a PHP 7 VM with enabled opcache, use GEOIP_STANDARD
@@ -100,6 +101,7 @@ if ($handle) {
 		fwrite($fp_6,"$ sudo fail2ban-client -vvv set JAIL banip ".trim($ip)); //fail2ban
 		fwrite($fp_7,"$ sudo iptables -A INPUT -s ".trim($ip)." -j DROP"); //iptables
 		fwrite($fp_8,"SecRule REMOTE_HOST \"@ipmatch ".trim($ip)." \"deny\""); //ModSecurity
+		fwrite($fp_9,"ipset add blacklist ".trim($ip)); //ipset
 		if($records<=$linecount){
 			fseek($fp_0, -1, SEEK_CUR);
 			fwrite($fp_0,"\r\n");
@@ -112,6 +114,7 @@ if ($handle) {
 			fwrite($fp_6,"\r\n");
 			fwrite($fp_7,"\r\n");
 			fwrite($fp_8,"\r\n");
+			fwrite($fp_9,"\r\n");
 		}
 	}
 	fclose($handle);
@@ -126,6 +129,7 @@ fclose($fp_5);
 fclose($fp_6);
 fclose($fp_7);
 fclose($fp_8);
+fclose($fp_9);
 if($api == "maxmind"){
 	geoip_close($gi);
 	geoip_close($gi_v6);
