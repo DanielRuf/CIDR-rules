@@ -349,9 +349,9 @@
 105.224.0.0/14,37457,Telkom-Internet,ZA
 105.225.1.0/24,37457,Telkom-Internet,ZA
 105.228.0.0/16,37457,Telkom-Internet,ZA
-106.184.0.0/18,2516,"Block of 32 AS numbers from AS2497 to AS2528",JP
-106.185.0.0/17,2516,"Block of 32 AS numbers from AS2497 to AS2528",JP
-106.186.64.0/18,2516,"Block of 32 AS numbers from AS2497 to AS2528",JP
+106.184.0.0/18,2516,"KDDI CORPORATION",JP
+106.185.0.0/17,2516,"KDDI CORPORATION",JP
+106.186.64.0/18,2516,"KDDI CORPORATION",JP
 106.240.0.0/12,3786,"LG DACOM Corporation",KR
 106.39.192.0/19,23724,"IDC, China Telecommunications Corporation",CN
 107.0.0.0/15,16567,"Netrix LLC",US
@@ -629,13 +629,13 @@
 110.137.128.0/20,17974,"PT Telekomunikasi Indonesia",ID
 110.137.144.0/21,17974,"PT Telekomunikasi Indonesia",ID
 110.159.120.0/22,4788,"TM Net, Internet Service Provider",MY
-110.164.0.0/17,45629,"JasTel Network International Gateway",TH
+110.164.0.0/17,45758,"TripleT Internet Internet service provider Bangkok",TH
 110.170.128.0/17,7470,"TRUE INTERNET Co.,Ltd.",TH
 110.171.128.0/17,17552,"True Internet Co.,Ltd.",TH
 110.32.224.0/19,4804,"Microplex PTY LTD",AU
 110.34.168.0/21,35908,"Krypt Technologies",TH
 110.54.140.0/22,45664,"Liberty Broadcasting Network Inc",PH
-110.76.144.0/24,133830,"PT Pika Media Komunika",ID
+110.76.144.0/24,38506,"PT Pika Media Komunika",ID
 110.78.128.0/19,131090,"CAT TELECOM Public Company Ltd,CAT",TH
 110.80.0.0/13,4134,Chinanet,CN
 110.80.128.0/20,133775,Xiamen,CN
@@ -758,14 +758,14 @@
 118.139.180.0/22,26496,"GoDaddy.com, LLC",SG
 118.139.184.0/22,26496,"GoDaddy.com, LLC",SG
 118.139.188.0/22,26496,"GoDaddy.com, LLC",SG
-118.151.0.0/17,2497,"Block of 32 AS numbers from AS2497 to AS2528",JP
+118.151.0.0/17,2497,"Internet Initiative Japan Inc.",JP
 118.163.0.0/16,3462,"Data Communication Business Group",TW
 118.170.0.0/16,3462,"Data Communication Business Group",TW
-118.172.168.0/24,9737,"TOT Public Company Limited",TH
-118.173.64.0/18,9737,"TOT Public Company Limited",TH
+118.172.168.0/24,23969,"TOT Public Company Limited",TH
+118.173.64.0/18,23969,"TOT Public Company Limited",TH
 118.175.86.0/24,23969,"TOT Public Company Limited",TH
 118.192.0.0/16,4808,"CNCGROUP IP network China169 Beijing Province Network",CN
-118.200.0.0/16,9506,"Magix Broadband Network",SG
+118.200.0.0/16,9506,"Singtel Fibre Broadband",SG
 118.211.0.0/16,4739,"Internode Pty Ltd",AU
 118.223.0.0/16,9318,"Hanaro Telecom Inc.",KR
 118.233.112.0/22,9924,"Taiwan Fixed Network, Telco and Network Service Provider.",TW
@@ -825,7 +825,7 @@
 121.8.0.0/13,4134,Chinanet,CN
 122.10.120.0/22,11282,"SERVERYOU INC",US
 122.10.124.0/22,11282,"SERVERYOU INC",US
-122.10.80.0/20,134121,"Rainbow network limited",HK
+122.10.80.0/20,133731,"Royal Network Technology Co., Ltd. in Guangzhou",HK
 122.120.0.0/13,3462,"Data Communication Business Group",TW
 122.152.167.0/24,23352,"Server Central Network",JP
 122.152.53.0/24,38562,"Innovative Online Limited",BD
@@ -881,13 +881,13 @@
 124.195.112.0/20,4761,"INDOSAT Internet Network Provider",ID
 124.200.192.0/18,17964,"Beijing Dian-Xin-Tong Network Technologies Co., Ltd.",CN
 124.205.128.0/17,17816,"China Unicom IP network China169 Guangdong province",CN
-124.206.0.0/16,17816,"China Unicom IP network China169 Guangdong province",CN
+124.206.0.0/16,17964,"Beijing Dian-Xin-Tong Network Technologies Co., Ltd.",CN
 124.253.208.0/20,17917,"Quadrant Televentures Limited",IN
-124.32.0.0/13,17506,"Japan Network Information Center",JP
+124.32.0.0/13,17506,"UCOM Corp.",JP
 124.81.224.0/20,4795,"INDOSATM2 ASN",ID
 125.224.0.0/13,3462,"Data Communication Business Group",TW
 125.227.0.0/16,3462,"Data Communication Business Group",TW
-125.24.50.0/24,9737,"TOT Public Company Limited",TH
+125.24.50.0/24,23969,"TOT Public Company Limited",TH
 125.24.96.0/19,23969,"TOT Public Company Limited",TH
 125.26.128.0/18,23969,"TOT Public Company Limited",TH
 125.64.0.0/13,38283,"CHINANET SiChuan Telecom Internet Data Center",CN
@@ -920,7 +920,7 @@
 131.161.25.0/24,264359,"COMERCIO E TELECOMUNICACOES LTDA - EPP",BR
 131.161.35.0/24,264394,TELECOM,BR
 131.221.136.0/24,264413,"Conecta Telecom Ltda",BR
-131.228.16.0/22,1248,"HERE Global B.V.",GB
+131.228.16.0/22,,,GB
 132.255.212.0/22,264521,"OLIVEIRA TECNOLOGIA LTDA ME",BR
 134.0.8.0/21,197712,"10dencehispahard, S.L.",ES
 134.119.10.0/24,34011,"domainfactory GmbH",DE
@@ -997,7 +997,7 @@
 144.208.16.0/21,13332,"NephoScale Inc.",US
 144.208.56.0/21,13332,"NephoScale Inc.",US
 144.76.0.0/16,24940,"Hetzner Online GmbH",DE
-145.132.0.0/15,1136,"KPN Internet Solutions",NL
+145.132.0.0/15,1136,"KPN B.V.",NL
 145.255.160.0/19,9198,"JSC Kazakhtelecom",KZ
 146.0.32.0/20,24961,"myLoc managed IT AG",DE
 146.0.47.0/24,24961,"myLoc managed IT AG",PL
@@ -1042,16 +1042,16 @@
 149.255.56.0/21,34931,"Awareness Software Limited",GB
 149.3.144.0/21,47242,"COLT Engine S.r.l.",IT
 149.56.0.0/16,16276,"OVH SAS",US
-150.100.0.0/16,2907,"for assignment to JPNIC members",JP
+150.100.0.0/16,2907,"Research Organization of Information and Systems, National Institute of Informatics",JP
 150.129.149.0/24,45916,"Gujarat Telelik Pvt Ltd",IN
 150.242.218.0/23,4058,"CITIC Telecom International CPC Limited",HK
-150.26.0.0/15,18125,JPNIC,JP
+150.26.0.0/15,18125,"Ministry of Agriculture, Forestry and Fisheries Research Network",JP
 150.28.0.0/14,,,JP
-150.32.0.0/11,9991,"Japan Network Information Center",JP
-150.60.0.0/16,9597,"Japan Network Information Center",JP
+150.32.0.0/11,9991,"Hiroshima Shudo University",JP
+150.60.0.0/16,9597,"KDDI Web Communications Inc.",JP
 150.64.0.0/11,,,JP
 150.70.176.0/20,16880,"TREND MICRO INCORPORATED",JP
-150.96.0.0/14,2516,"Block of 32 AS numbers from AS2497 to AS2528",JP
+150.96.0.0/14,2516,"KDDI CORPORATION",JP
 151.0.32.0/21,45025,"Online Technologies LTD",BG
 151.1.0.0/16,3242,"ITnet S.r.l.",IT
 151.1.128.0/18,3242,"ITnet S.r.l.",IT
@@ -1142,12 +1142,12 @@
 156.54.0.0/16,20746,"Telecom Italia S.p.A.",IT
 157.238.0.0/16,2914,"NTT America, Inc.",US
 157.54.0.0/15,3598,"Microsoft Corporation",US
-157.55.0.0/16,8075,"Microsoft Corporation",US
+157.55.0.0/16,8075,"Microsoft Corporation",IE
 157.56.0.0/14,8075,"Microsoft Corporation",US
 157.60.0.0/16,3598,"Microsoft Corporation",US
 157.7.128.0/17,7506,"GMO Internet,Inc",JP
 158.181.128.0/17,41750,"Mega-Line Ltd.",KG
-158.199.128.0/17,9597,"Japan Network Information Center",JP
+158.199.128.0/17,9597,"KDDI Web Communications Inc.",JP
 158.222.0.0/20,63119,netirons,US
 158.255.0.0/24,49335,"Mir Telematiki Ltd.",RU
 158.255.7.0/24,49335,"Mir Telematiki Ltd.",RU
@@ -1242,21 +1242,21 @@
 161.123.168.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.169.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
 161.123.170.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.171.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.171.0/24,203959,"BackConnect Security LLC",ZA
 161.123.172.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.173.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.173.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.174.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.175.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.175.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.176.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.177.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.177.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.178.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.179.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.179.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.180.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.181.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.181.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.182.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.183.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.183.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.184.0/24,12586,"GHOSTnet GmbH",ZA
-161.123.185.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
+161.123.185.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.186.0/24,12586,"GHOSTnet GmbH",ZA
 161.123.187.0/24,61440,"Digital Energy Technologies Chile SpA",ZA
 161.123.188.0/24,12586,"GHOSTnet GmbH",ZA
@@ -1326,7 +1326,7 @@
 162.209.80.0/20,19994,"Rackspace Hosting",US
 162.209.96.0/19,27357,"Rackspace Hosting",US
 162.210.192.0/21,30633,"Leaseweb USA, Inc.",US
-162.210.224.0/22,10929,"Netelligent Hosting Services Inc.",CA
+162.210.224.0/22,,,CA
 162.211.24.0/24,13768,"Peer 1 Network (USA) Inc.",US
 162.211.25.0/24,13768,"Peer 1 Network (USA) Inc.",US
 162.211.26.0/24,13768,"Peer 1 Network (USA) Inc.",US
@@ -1408,7 +1408,7 @@
 163.176.128.0/17,13951,"C7 Data Centers, Inc.",US
 163.177.0.0/16,17816,"China Unicom IP network China169 Guangdong province",CN
 163.47.8.0/22,133165,"Digital Ocean, Inc.",SG
-164.132.0.0/16,16276,"OVH SAS",IT
+164.132.0.0/16,16276,"OVH SAS",FR
 164.177.128.0/19,15395,"Rackspace Ltd.",GB
 165.154.56.0/21,13768,"Peer 1 Network (USA) Inc.",CA
 166.149.128.0/18,22394,"Cellco Partnership DBA Verizon Wireless",US
@@ -1521,7 +1521,7 @@
 172.98.67.0/24,46562,"Total Server Solutions L.L.C.",CA
 172.99.64.0/19,27357,"Rackspace Hosting",US
 172.99.96.0/19,33070,"Rackspace Hosting",US
-173.0.48.0/20,32875,DNSSLAVE.COM,US
+173.0.48.0/20,23033,Wowrack.com,US
 173.0.51.0/24,23033,Wowrack.com,US
 173.165.160.0/19,7922,"Comcast Cable Communications, Inc.",US
 173.18.252.0/22,30036,"Mediacom Communications Corp",US
@@ -1701,7 +1701,7 @@
 175.107.191.0/24,,,AU
 175.111.89.0/24,45705,"PPTIK - UNIVERSITAS GADJAH MADA",ID
 175.140.0.0/24,4788,"TM Net, Internet Service Provider",MY
-175.184.0.0/17,2510,"Block of 32 AS numbers from AS2497 to AS2528",JP
+175.184.0.0/17,2510,"FUJITSU LIMITED",JP
 175.224.0.0/12,4766,"Korea Telecom",KR
 175.41.128.0/18,38895,"Amazon.com Tech Telecom",SG
 175.41.192.0/18,16509,"Amazon.com, Inc.",JP
@@ -1794,8 +1794,8 @@
 177.128.120.0/22,52870,"Disk Sistema Tele-Informatica Ltda- ME",BR
 177.128.224.0/24,262379,TELECOM,BR
 177.129.185.0/24,262566,"Link Sete Servicos de Internet e Redes Ltda",BR
-177.13.227.0/24,262849,"Galaxy Brasil Ltda",BR
-177.13.43.0/24,262849,"Galaxy Brasil Ltda",BR
+177.13.227.0/24,262849,"SERVIÇOS DE BANDA LARGA LTDA",BR
+177.13.43.0/24,262849,"SERVIÇOS DE BANDA LARGA LTDA",BR
 177.130.152.0/22,28202,"Rede Brasileira de Comunicacao Ltda",BR
 177.130.216.0/21,28270,"Videomar Rede Nordeste S/A",BR
 177.132.224.0/19,18881,"Global Village Telecom",BR
@@ -1944,7 +1944,7 @@
 178.204.0.0/14,28840,"OJSC OAO TATTELECOM",RU
 178.204.0.0/17,28840,"OJSC OAO TATTELECOM",RU
 178.211.184.0/21,48524,"INTERRA telecommunications group, Ltd.",RU
-178.211.64.0/19,47408,"Mandarin WIMAX Sicilia SpA",IT
+178.211.64.0/19,47408,"Mandarin S.p.A.",IT
 178.215.160.0/20,42590,"Telemost LLC",UA
 178.217.184.0/21,51290,"HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI",PL
 178.218.210.0/23,42244,"Hosting Operator eServer.ru Ltd.",RU
@@ -2247,7 +2247,7 @@
 181.224.157.0/24,36351,"SoftLayer Technologies Inc.",PA
 181.224.158.0/24,36351,"SoftLayer Technologies Inc.",PA
 181.224.159.0/24,36351,"SoftLayer Technologies Inc.",PA
-181.41.195.0/24,13768,"Peer 1 Network (USA) Inc.",US
+181.41.195.0/24,61440,"Digital Energy Technologies Chile SpA",US
 181.41.222.0/23,61440,"Digital Energy Technologies Chile SpA",BR
 181.41.64.0/19,19863,"Guyana Telephone & Telegraph Co.",GY
 181.54.208.0/22,10620,"Telmex Colombia S.A.",CO
@@ -2263,7 +2263,7 @@
 182.160.128.0/18,38544,"Crucial Paradigm Pty Ltd",AU
 182.186.128.0/17,45595,"Pakistan Telecom Company Limited",PK
 182.188.240.0/21,45595,"Pakistan Telecom Company Limited",PK
-182.248.0.0/14,2516,"Block of 32 AS numbers from AS2497 to AS2528",JP
+182.248.0.0/14,2516,"KDDI CORPORATION",JP
 182.253.224.0/24,17451,"BIZNET NETWORKS",ID
 182.253.25.0/24,17451,"BIZNET NETWORKS",ID
 182.253.32.0/20,17451,"BIZNET NETWORKS",ID
@@ -2391,7 +2391,7 @@
 185.11.8.0/22,30873,"Public Telecommunication Corporation",YE
 185.114.108.0/24,24961,"myLoc managed IT AG",IT
 185.117.228.0/22,60781,"LeaseWeb Netherlands B.V.",DE
-185.119.254.0/24,49981,WorldStream,GB
+185.119.254.0/24,49981,WorldStream,NL
 185.12.32.0/23,16276,"OVH SAS",FR
 185.12.64.0/22,24940,"Hetzner Online GmbH",DE
 185.123.96.0/24,36351,"SoftLayer Technologies Inc.",GB
@@ -2567,7 +2567,7 @@
 185.81.156.0/22,198375,"INULOGIC SARL",FR
 185.81.98.0/24,49981,WorldStream,IR
 185.82.203.0/24,60117,"Host Sailor Ltd.",NL
-185.82.216.0/32,59729,"ITL Bulgaria Ltd",BG
+185.82.216.0/32,59729,"ITL Company",BG
 185.84.180.0/24,42926,"Radore Veri Merkezi Hizmetleri A.S.",TR
 185.85.160.0/22,60781,"LeaseWeb Netherlands B.V.",DE
 185.87.248.0/22,12859,"BIT BV",NL
@@ -2728,7 +2728,7 @@
 187.79.0.0/16,7738,"Telemar Norte Leste S.A.",BR
 187.84.248.0/22,53058,"NET SERVIÇOS EM TECNOL. DE INFORMÁTICA LTDA",BR
 187.85.32.0/21,28668,"& SILVEIRA S/C LTDA - ME",BR
-187.87.207.0/24,52752,"Vegas Telecom Informática Ltda.",BR
+187.87.207.0/24,262687,"Screen Saver Informática LTDA",BR
 187.87.80.0/20,262520,"Prefeitura Municial de Alfenas",BR
 187.94.96.0/20,28192,"Globalwave Telecom",BR
 187.95.192.0/21,21911,"INFORMATICA LTDA",BR
@@ -3002,9 +3002,9 @@
 191.101.115.0/24,12586,"GHOSTnet GmbH",DE
 191.101.116.0/24,12586,"GHOSTnet GmbH",DE
 191.101.117.0/24,12586,"GHOSTnet GmbH",CL
-191.101.118.0/24,12586,"GHOSTnet GmbH",US
+191.101.118.0/24,200617,"Frame Design Ltd",US
 191.101.119.0/24,12586,"GHOSTnet GmbH",CL
-191.101.120.0/24,12586,"GHOSTnet GmbH",US
+191.101.120.0/24,200617,"Frame Design Ltd",US
 191.101.121.0/24,12586,"GHOSTnet GmbH",CL
 191.101.122.0/24,12586,"GHOSTnet GmbH",DE
 191.101.123.0/24,12586,"GHOSTnet GmbH",CL
@@ -3012,21 +3012,21 @@
 191.101.125.0/24,12586,"GHOSTnet GmbH",DE
 191.101.126.0/24,12586,"GHOSTnet GmbH",DE
 191.101.127.0/24,12586,"GHOSTnet GmbH",CL
-191.101.161.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.162.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.163.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.164.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.165.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.166.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.167.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.168.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.169.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.170.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.171.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.172.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.173.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.174.0/24,56389,"TSTGROUP Engineering Group EOOD",US
-191.101.175.0/24,56389,"TSTGROUP Engineering Group EOOD",US
+191.101.161.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.162.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.163.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.164.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.165.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.166.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.167.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.168.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.169.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.170.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.171.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.172.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.173.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.174.0/24,61440,"Digital Energy Technologies Chile SpA",US
+191.101.175.0/24,61440,"Digital Energy Technologies Chile SpA",US
 191.101.196.0/22,40824,"WZ Communications Inc.",US
 191.101.196.0/24,40824,"WZ Communications Inc.",US
 191.101.197.0/24,40824,"WZ Communications Inc.",US
@@ -3115,8 +3115,8 @@
 191.190.32.0/19,28573,S.A.,BR
 191.20.0.0/14,26599,"TELEFÔNICA BRASIL S.A",BR
 191.223.128.0/18,8167,"Brasil Telecom S/A - Filial Distrito Federal",BR
-191.232.0.0/13,8075,"Microsoft Corporation",US
-191.232.0.0/14,8075,"Microsoft Corporation",US
+191.232.0.0/13,8075,"Microsoft Corporation",BR
+191.232.0.0/14,8075,"Microsoft Corporation",BR
 191.240.212.0/23,52670,"Digital Provedor de Internet Ltda",BR
 191.247.225.0/24,22085,"Claro S/A",BR
 191.247.226.0/23,22085,"Claro S/A",BR
@@ -3312,7 +3312,7 @@
 192.96.96.0/24,37153,HETZNER,ZA
 192.99.0.0/16,16276,"OVH SAS",CA
 193.0.129.0/24,3189,"Atlant-Stroy ltd.",RU
-193.104.130.0/24,8725,"Netpozitif Telekomunikasyon Hizmetleri Ltd. Sti.",
+193.104.130.0/24,8725,"Netpozitif Telekomunikasyon Hizmetleri Ltd. Sti.",RU
 193.104.19.0/24,16276,"OVH SAS",FR
 193.104.219.0/24,28753,"Leaseweb Deutschland GmbH",FR
 193.104.41.0/24,49934,"PE Voronov Evgen Sergiyovich",
@@ -3381,7 +3381,7 @@
 193.37.152.0/24,51167,"Contabo GmbH",DE
 193.41.200.0/24,24961,"myLoc managed IT AG",DE
 193.46.84.0/24,43463,"UAB Biuro sprendimu tinklas",LT
-193.47.99.0/24,24940,"Hetzner Online GmbH",DE
+193.47.99.0/24,24961,"myLoc managed IT AG",DE
 193.8.86.0/23,197698,"D-H-T Systems s.r.o.",CZ
 193.84.20.0/24,12586,"GHOSTnet GmbH",DE
 193.9.158.0/24,199793,"Trusov Ilya Igorevych",UA
@@ -3505,7 +3505,7 @@
 196.28.32.0/20,10474,MWEB,ZA
 196.28.5.0/24,37153,HETZNER,ZA
 196.40.96.0/20,37153,HETZNER,ZA
-196.43.234.0/24,37436,INTIC,MZ
+196.43.234.0/24,30619,"Telecomunicacoes de Mocambique (TDM)",MZ
 196.44.180.0/24,37189,YoAfrica3,ZW
 196.46.185.0/25,26422,ABOUTIT-ONLINE,ZA
 197.0.0.0/11,2609,"Tunisia BackBone AS",TN
@@ -3621,8 +3621,8 @@
 198.16.86.0/23,174,"Cogent Communications",NL
 198.16.88.0/23,174,"Cogent Communications",NL
 198.16.90.0/23,174,"Cogent Communications",NL
-198.16.92.0/23,174,"Cogent Communications",US
-198.16.94.0/24,174,"Cogent Communications",US
+198.16.92.0/23,174,"Cogent Communications",NL
+198.16.94.0/24,174,"Cogent Communications",NL
 198.17.0.0/24,13951,"C7 Data Centers, Inc.",US
 198.17.80.0/24,13332,"NephoScale Inc.",US
 198.170.0.0/15,2914,"NTT America, Inc.",US
@@ -4199,7 +4199,7 @@
 2001:49f0:a06a::/48,174,"Cogent Communications",US
 2001:49f0:a06b::/48,6461,"Abovenet Communications, Inc",US
 2001:49f0:a070::/48,6461,"Abovenet Communications, Inc",US
-2001:49f0:b000::/36,30058,FDCservers.net,US
+2001:49f0:b000::/36,,,US
 2001:49f0:c000:400::/56,6461,"Abovenet Communications, Inc",US
 2001:49f0:c000:500::/56,6461,"Abovenet Communications, Inc",US
 2001:49f0:d000::/48,6461,"Abovenet Communications, Inc",US
@@ -4256,7 +4256,7 @@
 2001:67c:1334:8::/64,33891,"Core-Backbone GmbH",DE
 2001:67c:1334:9::/64,33891,"Core-Backbone GmbH",DE
 2001:67c:1334::/64,33891,"Core-Backbone GmbH",DE
-2001:67c:192c::/48,24940,"Hetzner Online AG RZ",DE
+2001:67c:192c::/48,24961,"myLoc managed IT AG",DE
 2001:67c:2394::/48,25504,"Vautron Rechenzentrum AG",DE
 2001:67c:2f08::/48,46844,Sharktech,GB
 2001:7f8:33::/64,,,DE
@@ -4379,7 +4379,7 @@
 203.189.96.0/20,7506,"GMO Internet,Inc",JP
 203.192.0.0/19,17781,"Xinhua News Agency",CN
 203.192.237.0/24,17665,"AS Number of In2cable.com (India) Ltd.",IN
-203.196.16.0/21,2514,"Block of 32 AS numbers from AS2497 to AS2528",JP
+203.196.16.0/21,2514,"NTT PC Communications, Inc.",JP
 203.198.128.0/20,4760,"PCCW Limited",HK
 203.36.0.0/14,1221,"Telstra Pty Ltd",AU
 203.40.0.0/13,1221,"Telstra Pty Ltd",AU
@@ -4428,7 +4428,7 @@
 204.246.185.0/24,16509,"Amazon.com, Inc.",US
 204.246.186.0/24,16509,"Amazon.com, Inc.",US
 204.246.188.0/24,16509,"Amazon.com, Inc.",US
-204.246.189.0/24,,,US
+204.246.189.0/24,16509,"Amazon.com, Inc.",US
 204.246.190.0/24,16509,"Amazon.com, Inc.",US
 204.246.191.0/24,16509,"Amazon.com, Inc.",US
 204.28.100.0/22,15085,"Immedion, LLC",US
@@ -4847,14 +4847,14 @@
 208.53.190.0/24,174,"Cogent Communications",US
 208.53.191.0/24,30058,FDCservers.net,US
 208.53.32.0/22,13951,"C7 Data Centers, Inc.",US
-208.53.34.0/24,13951,"C7 Data Centers, Inc.",US
+208.53.34.0/24,15359,"Datto, Inc",US
 208.53.35.0/24,13951,"C7 Data Centers, Inc.",US
 208.53.36.0/22,13951,"C7 Data Centers, Inc.",US
 208.53.40.0/22,13951,"C7 Data Centers, Inc.",US
 208.53.44.0/22,13951,"C7 Data Centers, Inc.",US
 208.53.48.0/20,13951,"C7 Data Centers, Inc.",US
 208.53.52.0/24,13951,"C7 Data Centers, Inc.",US
-208.53.53.0/24,13951,"C7 Data Centers, Inc.",US
+208.53.53.0/24,15359,"Datto, Inc",US
 208.64.45.0/24,30633,"Leaseweb USA, Inc.",VG
 208.67.0.0/21,33387,"DataShack, LC",US
 208.68.36.0/22,46652,"ServerStack, Inc.",US
@@ -4888,7 +4888,7 @@
 208.91.128.0/21,15085,"Immedion, LLC",US
 208.91.132.0/24,15085,"Immedion, LLC",US
 208.91.135.0/24,15085,"Immedion, LLC",US
-208.91.198.0/23,40034,"Confluence Networks Inc",US
+208.91.198.0/23,19905,"NeuStar, Inc.",US
 208.92.208.0/21,36536,Enterhost,US
 208.95.20.0/22,46393,"ALTIUS Broadband, LLC",US
 208.97.176.0/21,26347,"New Dream Network, LLC",US
@@ -5047,7 +5047,7 @@
 211.208.0.0/14,9318,"Hanaro Telecom Inc.",KR
 211.244.0.0/16,45979,"APNIC ASN block",KR
 211.244.0.0/24,45979,"APNIC ASN block",KR
-211.79.112.0/20,17809,"Monad Digitnamic Corp.",TW
+211.79.112.0/20,17809,"VEE TIME CORP.",TW
 212.1.208.0/21,47583,"Hostinger International Limited",US
 212.1.208.0/24,47583,"Hostinger International Limited",US
 212.1.210.0/24,47583,"Hostinger International Limited",US
@@ -5271,7 +5271,7 @@
 216.137.50.0/23,16509,"Amazon.com, Inc.",US
 216.137.52.0/23,16509,"Amazon.com, Inc.",US
 216.137.56.0/24,16509,"Amazon.com, Inc.",US
-216.137.57.0/24,,,US
+216.137.57.0/24,16509,"Amazon.com, Inc.",US
 216.137.58.0/24,16509,"Amazon.com, Inc.",US
 216.137.59.0/24,16509,"Amazon.com, Inc.",US
 216.137.60.0/24,16509,"Amazon.com, Inc.",US
@@ -5458,15 +5458,15 @@
 217.118.64.0/24,16345,"Public Joint Stock Company Vimpel-Communications",RU
 217.12.112.0/20,25454,"Orange Moldova SA",MD
 217.12.192.0/19,15626,"ITL Company",UA
-217.12.202.0/23,59729,"ITL Bulgaria Ltd",BG
+217.12.202.0/23,59729,"ITL Company",BG
 217.12.215.0/24,15626,"ITL Company",UA
-217.12.218.0/24,21100,"Camper Solutions",UA
+217.12.218.0/24,21100,"ITL Company",UA
 217.120.0.0/14,9143,"Ziggo B.V.",NL
 217.125.0.0/16,3352,"TELEFONICA DE ESPANA",ES
 217.131.160.0/19,34984,"TELLCOM ILETISIM HIZMETLERI A.S.",TR
 217.142.0.0/15,16253,"Borderlight AB",SE
 217.146.192.0/21,25002,"LINEA COM S R L",IT
-217.146.64.0/20,49604,"Zone Media Autonomous System",EE
+217.146.64.0/20,49604,"Zone Media OU",EE
 217.149.48.0/20,29422,"Nebula Oy",FI
 217.156.128.0/17,3549,"Level 3 Communications, Inc.",GB
 217.160.0.0/16,8560,"1&1 Internet AG",DE
@@ -5486,7 +5486,7 @@
 217.23.0.0/20,49981,WorldStream,NL
 217.26.48.0/20,29097,"Hostpoint AG",CH
 217.28.144.0/20,29007,"Petrotel Sp. z o.o.",PL
-217.29.176.0/20,3226,"OOO Communication Company Mark-ITT",RU
+217.29.176.0/20,3226,"OOO NI",RU
 217.29.50.0/23,29053,"Telenet Ltd.",RU
 217.30.112.0/20,12703,"Pulsant (Scotland) Ltd",GB
 217.32.0.0/12,2856,"British Telecommunications PLC",GB
@@ -5537,7 +5537,7 @@
 221.176.0.0/13,9808,"Guangdong Mobile Communication Co.Ltd.",CN
 221.178.128.0/17,56046,"China Mobile communications corporation",CN
 221.214.0.0/15,4837,"CNCGROUP China169 Backbone",CN
-221.240.0.0/12,17506,"Japan Network Information Center",JP
+221.240.0.0/12,17506,"UCOM Corp.",JP
 222.122.0.0/16,4766,"Korea Telecom",KR
 222.124.12.0/22,17974,"PT Telekomunikasi Indonesia",ID
 222.163.0.0/16,4837,"CNCGROUP China169 Backbone",CN
@@ -5624,8 +5624,8 @@
 23.91.114.0/24,20013,"CyrusOne LLC",US
 23.91.115.0/24,20013,"CyrusOne LLC",US
 23.91.116.0/24,20013,"CyrusOne LLC",US
-23.91.117.0/24,32475,"SingleHop, Inc.",US
-23.91.118.0/24,32475,"SingleHop, Inc.",US
+23.91.117.0/24,36024,"Colo4, LLC",US
+23.91.118.0/24,36024,"Colo4, LLC",US
 23.91.119.0/24,20013,"CyrusOne LLC",US
 23.91.120.0/21,36351,"SoftLayer Technologies Inc.",US
 23.91.64.0/20,36024,"Colo4, LLC",US
@@ -5799,9 +5799,9 @@
 2a00:12d8::/32,12586,"GHOSTnet GmbH",DE
 2a00:12d8::/36,12586,"GHOSTnet GmbH",DE
 2a00:17c0::/32,12993,"SIA Digitalas Ekonomikas Attistibas Centrs",LV
-2a00:1890:8000::/33,12586,"GHOSTnet GmbH",DE
-2a00:1890::/29,12586,"GHOSTnet GmbH",DE
-2a00:1890::/33,12586,"GHOSTnet GmbH",DE
+2a00:1890:8000::/33,8218,"Neo Telecoms S.A.S.",DE
+2a00:1890::/29,8218,"Neo Telecoms S.A.S.",DE
+2a00:1890::/33,8218,"Neo Telecoms S.A.S.",DE
 2a00:1910::/29,12586,"GHOSTnet GmbH",DE
 2a00:19e0::/29,25504,"Vautron Rechenzentrum AG",DE
 2a00:1a48::/32,15395,"UK Rackspace",GB
@@ -5854,7 +5854,7 @@
 2a02:2968:20::/48,60781,"LeaseWeb B.V.",NL
 2a02:2fc0::/29,12586,"GHOSTnet GmbH",DE
 2a02:40c0::/36,60781,"LeaseWeb B.V.",NL
-2a02:4700::/32,30058,FDCservers.net,CZ
+2a02:4700::/32,,,CZ
 2a02:4780:1::/48,47583,,LT
 2a02:4780:2::/48,47583,,LT
 2a02:77e0::/32,22612,,GB
@@ -5891,7 +5891,7 @@
 2a05:3a40:2::/48,3223,"Voxility S.R.L.",RO
 2a06:2e80::/29,14576,Righthosting.com,NL
 2a06:3880::/29,49981,WorldStream,NL
-2a06:7a00::/48,49981,WorldStream,NL
+2a06:7a00::/48,49544,"Interactive 3D",NL
 2a06:be80::/29,24940,"Hetzner Online AG RZ",DE
 2a06:d641::/32,49981,WorldStream,RU
 2c0f:fce8:4000::/34,37153,"HETZNER (Pty) Ltd",ZA
@@ -5943,7 +5943,7 @@
 31.202.240.0/22,6712,"MSP Format Ltd.",UA
 31.202.244.0/22,6712,"MSP Format Ltd.",UA
 31.204.145.0/24,49544,"i3d B.V.",JP
-31.207.0.0/18,30058,FDCservers.net,CZ
+31.207.0.0/18,174,"Cogent Communications",CZ
 31.209.128.0/24,327870,GBS-DRC,BE
 31.209.132.0/24,327870,GBS-DRC,BE
 31.216.48.0/21,20860,Iomart,GB
@@ -6092,7 +6092,7 @@
 37.218.246.0/24,47172,"Greenhost BV",NL
 37.218.254.0/24,45031,"dogado GmbH",DE
 37.220.112.0/20,9038,"Batelco Jordan",JO
-37.221.160.0/21,3223,"Voxility S.R.L.",RO
+37.221.160.0/21,3223,"Voxility S.R.L.",TR
 37.221.164.0/24,3223,"Voxility S.R.L.",RO
 37.221.167.0/24,3223,"Voxility S.R.L.",RO
 37.221.168.0/23,3223,"Voxility S.R.L.",DE
@@ -6102,7 +6102,7 @@
 37.221.174.0/23,3223,"Voxility S.R.L.",US
 37.228.92.0/24,48347,"JSC MediaSoft Ekspert",RU
 37.229.0.0/16,15895,"Kyivstar PJSC",UA
-37.230.104.0/21,42807,"Aerotek Bilisim Taahhut Sanayi ve Ticaret Limited Sirketi",TR
+37.230.104.0/21,42807,"Aerotek Bilisim Sanayi ve Ticaret AS",TR
 37.230.114.0/23,29182,"JSC ISPsystem",RU
 37.230.212.0/23,199793,"Trusov Ilya Igorevych",RU
 37.236.128.0/21,50710,"EarthLink Ltd. Communications&Internet Services",IQ
@@ -7034,9 +7034,9 @@
 5.83.131.0/24,12586,"GHOSTnet GmbH",DE
 5.83.132.0/24,12586,"GHOSTnet GmbH",DE
 5.83.133.0/24,12586,"GHOSTnet GmbH",DE
-5.83.135.0/24,12586,"GHOSTnet GmbH",DE
+5.83.135.0/24,31400,"Accelerated IT Services GmbH",DE
 5.83.137.0/24,12586,"GHOSTnet GmbH",DE
-5.83.139.0/24,12586,"GHOSTnet GmbH",DE
+5.83.139.0/24,8820,"TAL.DE Klaus Internet Service GmbH",DE
 5.83.144.0/20,197549,"Daniel Stahl trading as DS Computer Service",DE
 5.83.151.0/24,12586,"GHOSTnet GmbH",DE
 5.83.152.0/22,197549,"Daniel Stahl trading as DS Computer Service",DE
@@ -7257,7 +7257,7 @@
 50.7.176.0/22,6461,"Abovenet Communications, Inc",NL
 50.7.180.0/22,174,"Cogent Communications",NL
 50.7.184.0/24,174,"Cogent Communications",AT
-50.7.185.0/24,30058,FDCservers.net,CZ
+50.7.185.0/24,6461,"Abovenet Communications, Inc",CZ
 50.7.186.0/24,6461,"Abovenet Communications, Inc",NL
 50.7.187.0/24,6461,"Abovenet Communications, Inc",NL
 50.7.188.0/22,6461,"Abovenet Communications, Inc",NL
@@ -7339,7 +7339,7 @@
 52.84.0.0/21,16509,"Amazon.com, Inc.",US
 52.84.15.0/24,16509,"Amazon.com, Inc.",US
 52.84.16.0/21,16509,"Amazon.com, Inc.",US
-52.84.236.0/22,,,US
+52.84.236.0/22,16509,"Amazon.com, Inc.",US
 52.84.24.0/23,16509,"Amazon.com, Inc.",US
 52.84.243.0/24,,,US
 52.84.26.0/23,16509,"Amazon.com, Inc.",US
@@ -7350,7 +7350,7 @@
 52.84.50.0/24,16509,"Amazon.com, Inc.",US
 52.84.55.0/24,16509,"Amazon.com, Inc.",US
 52.84.8.0/24,16509,"Amazon.com, Inc.",US
-52.85.202.0/23,,,US
+52.85.202.0/23,16509,"Amazon.com, Inc.",US
 52.85.204.0/22,,,US
 52.86.0.0/15,14618,"Amazon.com, Inc.",US
 52.88.0.0/15,16509,"Amazon.com, Inc.",US
@@ -7377,7 +7377,7 @@
 52.92.64.0/22,16509,"Amazon.com, Inc.",BR
 52.92.68.0/22,16509,"Amazon.com, Inc.",DE
 52.92.72.0/22,16509,"Amazon.com, Inc.",BR
-52.93.8.0/22,38895,"Amazon.com Tech Telecom",SG
+52.93.8.0/22,16509,"Amazon.com, Inc.",SG
 52.94.0.0/22,16509,"Amazon.com, Inc.",US
 52.94.10.0/24,16509,"Amazon.com, Inc.",US
 52.94.11.0/24,38895,"Amazon.com Tech Telecom",SG
@@ -7515,10 +7515,10 @@
 54.192.120.0/22,16509,"Amazon.com, Inc.",US
 54.192.124.0/22,16509,"Amazon.com, Inc.",US
 54.192.128.0/22,16509,"Amazon.com, Inc.",US
-54.192.132.0/22,16509,"Amazon.com, Inc.",US
+54.192.132.0/22,,,US
 54.192.136.0/22,16509,"Amazon.com, Inc.",US
 54.192.140.0/22,16509,"Amazon.com, Inc.",US
-54.192.144.0/22,16509,"Amazon.com, Inc.",US
+54.192.144.0/22,,,US
 54.192.148.0/22,38895,"Amazon.com Tech Telecom",US
 54.192.156.0/22,38895,"Amazon.com Tech Telecom",US
 54.192.16.0/22,16509,"Amazon.com, Inc.",US
@@ -7537,7 +7537,7 @@
 54.192.228.0/22,16509,"Amazon.com, Inc.",US
 54.192.232.0/22,16509,"Amazon.com, Inc.",US
 54.192.24.0/22,16509,"Amazon.com, Inc.",US
-54.192.28.0/22,,,US
+54.192.28.0/22,16509,"Amazon.com, Inc.",US
 54.192.32.0/22,16509,"Amazon.com, Inc.",US
 54.192.36.0/22,16509,"Amazon.com, Inc.",US
 54.192.4.0/22,16509,"Amazon.com, Inc.",US
@@ -7605,10 +7605,10 @@
 54.230.120.0/22,16509,"Amazon.com, Inc.",US
 54.230.124.0/22,16509,"Amazon.com, Inc.",US
 54.230.128.0/22,16509,"Amazon.com, Inc.",US
-54.230.132.0/22,16509,"Amazon.com, Inc.",US
+54.230.132.0/22,,,US
 54.230.136.0/22,16509,"Amazon.com, Inc.",US
 54.230.140.0/22,16509,"Amazon.com, Inc.",US
-54.230.144.0/22,16509,"Amazon.com, Inc.",US
+54.230.144.0/22,,,US
 54.230.148.0/22,38895,"Amazon.com Tech Telecom",US
 54.230.156.0/22,38895,"Amazon.com Tech Telecom",US
 54.230.16.0/22,16509,"Amazon.com, Inc.",US
@@ -7629,7 +7629,7 @@
 54.230.24.0/22,16509,"Amazon.com, Inc.",US
 54.230.240.0/21,16509,"Amazon.com, Inc.",US
 54.230.248.0/21,16509,"Amazon.com, Inc.",US
-54.230.28.0/22,,,US
+54.230.28.0/22,16509,"Amazon.com, Inc.",US
 54.230.32.0/22,16509,"Amazon.com, Inc.",US
 54.230.36.0/22,16509,"Amazon.com, Inc.",US
 54.230.4.0/22,16509,"Amazon.com, Inc.",US
@@ -7841,7 +7841,7 @@
 54.240.170.0/23,16509,"Amazon.com, Inc.",US
 54.240.172.0/23,16509,"Amazon.com, Inc.",US
 54.240.174.0/23,16509,"Amazon.com, Inc.",US
-54.240.176.0/23,16509,"Amazon.com, Inc.",US
+54.240.176.0/23,,,US
 54.240.184.0/23,16509,"Amazon.com, Inc.",US
 54.240.186.0/23,16509,"Amazon.com, Inc.",US
 54.240.188.0/23,16509,"Amazon.com, Inc.",US
@@ -7977,7 +7977,7 @@
 61.223.0.0/16,3462,"Data Communication Business Group",TW
 61.228.0.0/14,3462,"Data Communication Business Group",TW
 61.228.0.0/16,3462,"Data Communication Business Group",TW
-61.57.64.0/18,4780,"Digital United Inc.",TW
+61.57.64.0/18,131596,,TW
 61.91.192.0/18,7470,"TRUE INTERNET Co.,Ltd.",TH
 61.93.192.0/18,9269,"Hong Kong Broadband Network Ltd.",HK
 62.1.216.0/24,197746,"Georgios Vardikos trading as HYPERHOSTING",GR
@@ -8239,7 +8239,7 @@
 66.102.128.0/20,15244,"Lunar Pages",US
 66.109.16.0/20,31797,"Galaxyvisions Inc",US
 66.111.64.0/19,13768,"Peer 1 Network (USA) Inc.",US
-66.128.192.0/20,20454,"SECURED SERVERS LLC",US
+66.128.192.0/20,13768,"Peer 1 Network (USA) Inc.",US
 66.129.176.0/20,13768,"Peer 1 Network (USA) Inc.",CA
 66.132.128.0/17,13768,"Peer 1 Network (USA) Inc.",US
 66.132.225.0/24,13768,"Peer 1 Network (USA) Inc.",US
@@ -8268,7 +8268,7 @@
 66.155.36.0/22,13768,"Peer 1 Network (USA) Inc.",US
 66.155.40.0/21,13768,"Peer 1 Network (USA) Inc.",US
 66.155.48.0/21,13768,"Peer 1 Network (USA) Inc.",US
-66.155.56.0/23,13768,"Peer 1 Network (USA) Inc.",US
+66.155.56.0/23,,,US
 66.155.58.0/23,13768,"Peer 1 Network (USA) Inc.",US
 66.155.60.0/22,13768,"Peer 1 Network (USA) Inc.",US
 66.155.64.0/22,13768,"Peer 1 Network (USA) Inc.",CA
@@ -8386,7 +8386,7 @@
 66.63.160.0/19,8100,"QuadraNet, Inc",US
 66.66.0.0/15,11351,"Time Warner Cable Internet LLC",US
 66.7.192.0/19,33182,"HostDime.com, Inc.",US
-66.71.128.0/18,31034,"Aruba S.p.A.",US
+66.71.128.0/18,31034,"Aruba S.p.A.",IT
 66.79.238.0/23,18997,RU,CA
 66.84.96.0/19,27216,"Air Advantage LLC",US
 66.85.128.0/18,20454,"SECURED SERVERS LLC",US
@@ -8678,7 +8678,7 @@
 69.172.246.0/23,13768,"Peer 1 Network (USA) Inc.",CA
 69.172.250.0/24,13768,"Peer 1 Network (USA) Inc.",CA
 69.172.254.0/24,13768,"Peer 1 Network (USA) Inc.",CA
-69.174.0.0/17,3257,"Tinet SpA",US
+69.174.0.0/17,3257,GTT,US
 69.174.176.0/20,54373,"Message Express Internet",US
 69.174.240.0/22,13768,"Peer 1 Network (USA) Inc.",US
 69.174.244.0/22,13768,"Peer 1 Network (USA) Inc.",US
@@ -8693,7 +8693,7 @@
 69.20.0.0/17,27357,"Rackspace Hosting",US
 69.20.95.0/24,27357,"Rackspace Hosting",US
 69.204.0.0/17,11351,"Time Warner Cable Internet LLC",US
-69.22.174.0/24,3257,"Tinet SpA",US
+69.22.174.0/24,4250,"Alentus Corporation",US
 69.28.192.0/21,13768,"Peer 1 Network (USA) Inc.",US
 69.28.202.0/24,13768,"Peer 1 Network (USA) Inc.",CA
 69.28.203.0/24,13768,"Peer 1 Network (USA) Inc.",US
@@ -8738,8 +8738,8 @@
 69.90.112.0/22,13768,"Peer 1 Network (USA) Inc.",CA
 69.90.117.0/24,13768,"Peer 1 Network (USA) Inc.",CA
 69.90.119.0/24,13768,"Peer 1 Network (USA) Inc.",US
-69.90.120.0/21,13768,"Peer 1 Network (USA) Inc.",US
-69.90.120.0/24,13768,"Peer 1 Network (USA) Inc.",US
+69.90.120.0/21,55199,"Metcom Network Services, Inc.",US
+69.90.120.0/24,55199,"Metcom Network Services, Inc.",US
 69.90.128.0/22,13768,"Peer 1 Network (USA) Inc.",US
 69.90.13.0/24,13768,"Peer 1 Network (USA) Inc.",US
 69.90.132.0/23,13768,"Peer 1 Network (USA) Inc.",US
@@ -8829,7 +8829,7 @@
 70.39.125.0/24,46844,Sharktech,US
 70.39.126.0/24,46844,Sharktech,US
 70.39.127.0/24,46844,Sharktech,US
-70.39.128.0/17,3257,"Tinet SpA",US
+70.39.128.0/17,3257,GTT,US
 70.39.152.0/24,3367,"F6 Networks Inc",US
 70.39.64.0/24,46844,Sharktech,US
 70.39.65.0/24,46844,Sharktech,US
@@ -9240,7 +9240,7 @@
 77.120.128.0/18,25229,"Kyivski Telekomunikatsiyni Merezhi LLC",UA
 77.122.0.0/17,25229,"Kyivski Telekomunikatsiyni Merezhi LLC",UA
 77.125.64.0/18,9116,"012 Smile Communications Ltd.",IL
-77.164.0.0/14,1136,"KPN Internet Solutions",NL
+77.164.0.0/14,1136,"KPN B.V.",NL
 77.173.0.0/16,5615,"KPN B.V.",NL
 77.192.0.0/12,15557,"Societe Francaise du Radiotelephone S.A",FR
 77.221.128.0/19,30968,"ZAO National Telecommunications",RU
@@ -9524,7 +9524,7 @@
 80.48.0.0/13,5617,"Orange Polska Spolka Akcyjna",PL
 80.56.0.0/15,6830,"Liberty Global Operations B.V.",NL
 80.59.0.0/16,3352,"TELEFONICA DE ESPANA",ES
-80.60.224.0/19,1136,"KPN Internet Solutions",NL
+80.60.224.0/19,1136,"KPN B.V.",NL
 80.65.63.0/24,31283,"Availo AS",NO
 80.69.160.0/21,31211,"Sigmatic Oy",FI
 80.69.48.0/20,34170,"Azerbaijan Telecomunication ISP",AZ
@@ -9574,7 +9574,7 @@
 81.19.224.0/19,16095,"Jay.net A/S",DK
 81.196.78.0/23,8708,"RCS & RDS SA",RO
 81.200.80.0/20,41109,"TELEMEDNET - net of Center Children Telemedicin in Moscow",RU
-81.207.0.0/17,1136,"KPN Internet Solutions",NL
+81.207.0.0/17,1136,"KPN B.V.",NL
 81.21.67.0/24,20738,"123 REG LIMITED",GB
 81.214.0.0/17,47331,"TTNet A.S.",TR
 81.240.0.0/14,5432,"Proximus NV",BE
@@ -9664,7 +9664,7 @@
 83.138.128.0/18,15395,"Rackspace Ltd.",GB
 83.143.232.0/21,6703,"PRIVATE JOINT-STOCK COMPANY FARLEP-INVEST",UA
 83.143.80.0/21,34989,"ServeTheWorld AS",NO
-83.149.126.0/24,60781,"LeaseWeb Netherlands B.V.",DE
+83.149.126.0/24,60781,"LeaseWeb Netherlands B.V.",NL
 83.149.64.0/18,60781,"LeaseWeb Netherlands B.V.",NL
 83.149.8.0/23,25159,"PJSC MegaFon",RU
 83.152.0.0/13,12322,"Free SAS",FR
@@ -9718,15 +9718,15 @@
 84.37.0.0/16,4589,"Easynet Global Services",FR
 84.54.131.0/24,29084,"Comnet Bulgaria Holding Ltd.",BG
 84.72.0.0/14,6830,"Liberty Global Operations B.V.",CH
-84.80.0.0/14,1136,"KPN Internet Solutions",NL
+84.80.0.0/14,1136,"KPN B.V.",NL
 84.90.0.0/15,13156,"Cabovisao, televisao por cabovisao, sa",PT
 85.10.192.0/18,24940,"Hetzner Online GmbH",DE
-85.104.0.0/17,9121,"Turk Telekomunikasyon Anonim Sirketi",TR
+85.104.0.0/17,47331,"TTNet A.S.",TR
 85.110.0.0/17,47331,"TTNet A.S.",TR
 85.114.128.0/19,24961,"myLoc managed IT AG",DE
 85.118.160.0/21,12360,"KEVAG Telekom GmbH",DE
 85.121.206.0/24,41028,"CobraTELECOM SRL",RO
-85.128.128.0/17,15967,"nazwa.pl S.A.",PL
+85.128.128.0/17,15967,"Nazwa.pl Sp.z.o.o.",PL
 85.138.0.0/15,2860,"NOS COMUNICACOES, S.A.",PT
 85.14.192.0/18,13301,"United Gameserver GmbH",DE
 85.14.201.0/24,13301,"United Gameserver GmbH",DE
@@ -9815,7 +9815,7 @@
 86.16.0.0/13,5089,"Virgin Media Limited",GB
 86.49.128.0/17,6830,"Liberty Global Operations B.V.",CZ
 86.61.0.0/17,5603,"Telekom Slovenije d.d.",SI
-86.80.0.0/12,1136,"KPN Internet Solutions",NL
+86.80.0.0/12,1136,"KPN B.V.",NL
 86.96.192.0/18,5384,"Emirates Telecommunications Corporation",AE
 86.98.0.0/17,5384,"Emirates Telecommunications Corporation",AE
 87.0.0.0/12,3269,"Telecom Italia S.p.a.",IT
@@ -10053,7 +10053,7 @@
 89.185.8.0/21,57033,"TVCOM Ltd.",UA
 89.189.128.0/19,24955,"OJSC Ufanet",RU
 89.200.168.0/21,25504,"Vautron Rechenzentrum AG",DE
-89.208.192.0/18,12695,"JSC Digital Network",RU
+89.208.192.0/18,47352,"TechPro Ltd.",RU
 89.209.0.0/16,8359,"MTS PJSC",UA
 89.212.64.0/18,34779,"T-2, d.o.o.",SI
 89.218.144.0/20,9198,"JSC Kazakhtelecom",KZ
@@ -10182,13 +10182,13 @@
 91.212.205.0/24,49328,"Privianet s.a.r.l",FR
 91.212.229.0/24,49981,WorldStream,RU
 91.212.85.0/24,24961,"myLoc managed IT AG",DE
-91.213.126.0/24,56598,"KartLand Ltd.",RU
+91.213.126.0/24,49981,WorldStream,RU
 91.213.8.0/24,48031,"PE Ivanov Vitaliy Sergeevich",UA
 91.214.200.0/22,49527,"SRL ROXNET-COM",MD
 91.214.68.0/22,49542,"ArtPlanet LLC",RU
 91.215.136.0/23,199793,"Trusov Ilya Igorevych",RU
 91.215.148.0/22,34612,"MATRIX PC bv.",NL
-91.215.153.0/24,59729,"ITL Bulgaria Ltd",BG
+91.215.153.0/24,59729,"ITL Company",BG
 91.216.240.0/24,197159,"Chebotarev Vitaliy Valerievich PE",UA
 91.216.3.0/24,199793,"Trusov Ilya Igorevych",RU
 91.217.232.0/24,3223,"Voxility S.R.L.",DE
