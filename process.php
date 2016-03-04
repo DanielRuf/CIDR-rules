@@ -7,6 +7,7 @@
  * the SANS ISC API is the slowest and does not support IPv6
  */ 
 $api="maxmind";
+$eol="\r\n"; // or PHP_EOL
 // error_reporting(E_ALL);
 // ini_set('display_errors', 1);
 set_time_limit(0);
@@ -24,6 +25,13 @@ $fp_6 = fopen('cidr_rules_fail2ban.txt', 'a');
 $fp_7 = fopen('cidr_rules_iptables.txt', 'a');
 $fp_8 = fopen('cidr_rules_modsecurity.txt', 'a');
 $fp_9 = fopen('cidr_rules_ipset.txt', 'a');
+function fputcsv_eol($handle, $array, $delimiter = ',', $eol = "\n") {
+	$return = fputcsv($handle, $array, $delimiter);
+	if($return !== FALSE && "\n" != $eol && 0 === fseek($handle, -1, SEEK_CUR)) {
+		fwrite($handle, $eol);
+	}
+	return $return;
+}
 if($api == "maxmind"){
 	include("maxmind/geoip.inc");
 	// GEOIP_MEMORY_CACHE is slower on a PHP 7 VM with enabled opcache, use GEOIP_STANDARD
@@ -43,8 +51,8 @@ if ($handle) {
 	$start=microtime(true);
 	if(!$file_exists_0)fwrite($fp_0, pack("CCC",0xef,0xbb,0xbf));
 	if(!$file_exists_2)fwrite($fp_2, pack("CCC",0xef,0xbb,0xbf));
-	if(!$file_exists_0)fwrite($fp_0,"cidr\torigin\tasname\tcountry\r\n");
-	if(!$file_exists_2)fwrite($fp_2,"cidr,origin,asname,country\r\n");
+	if(!$file_exists_0)fwrite($fp_0,"cidr\torigin\tasname\tcountry".$eol);
+	if(!$file_exists_2)fwrite($fp_2,"cidr,origin,asname,country".$eol);
 	while (($line = fgets($handle)) !== false) {
 		$ip="";
 		$ip=$line;
@@ -92,9 +100,20 @@ if ($handle) {
 				else $country = geoip_country_code_by_addr_v6($gi_v6, $ip_start);
 		}
 		$records++;
-		fputcsv($fp_0, array(trim($ip), trim($origin), mb_convert_encoding(trim($asn_name),'UTF-8', 'ISO-8859-1'), trim($country)),"\t");
+		if($records>1){
+			
+			fwrite($fp_1,$eol);
+			fwrite($fp_3,$eol);
+			fwrite($fp_4,$eol);
+			fwrite($fp_5,$eol);
+			fwrite($fp_6,$eol);
+			fwrite($fp_7,$eol);
+			fwrite($fp_8,$eol);
+			fwrite($fp_9,$eol);
+		}
+		fputcsv_eol($fp_0, array(trim($ip), trim($origin), mb_convert_encoding(trim($asn_name),'UTF-8', 'ISO-8859-1'), trim($country)),"\t",$eol);
 		fwrite($fp_1,trim($ip));
-		fputcsv($fp_2, array(trim($ip), trim($origin), mb_convert_encoding(trim($asn_name),'UTF-8', 'ISO-8859-1'), trim($country)));
+		fputcsv_eol($fp_2, array(trim($ip), trim($origin), mb_convert_encoding(trim($asn_name),'UTF-8', 'ISO-8859-1'), trim($country)),",",$eol);
 		fwrite($fp_3,"deny ".trim($ip)); //NGINX
 		fwrite($fp_4,"deny from ".trim($ip)); // Apache 2.2
 		fwrite($fp_5,"require not ip ".trim($ip)); // Apache 2.4
@@ -102,23 +121,14 @@ if ($handle) {
 		fwrite($fp_7,"$ sudo iptables -A INPUT -s ".trim($ip)." -j DROP"); //iptables
 		fwrite($fp_8,"SecRule REMOTE_HOST \"@ipmatch ".trim($ip)." \"deny\""); //ModSecurity
 		fwrite($fp_9,"ipset add blacklist ".trim($ip)); //ipset
-		if($records<=$linecount){
-			fseek($fp_0, -1, SEEK_CUR);
-			fwrite($fp_0,"\r\n");
-			fwrite($fp_1,"\r\n");
-			fseek($fp_2, -1, SEEK_CUR);
-			fwrite($fp_2,"\r\n");
-			fwrite($fp_3,"\r\n");
-			fwrite($fp_4,"\r\n");
-			fwrite($fp_5,"\r\n");
-			fwrite($fp_6,"\r\n");
-			fwrite($fp_7,"\r\n");
-			fwrite($fp_8,"\r\n");
-			fwrite($fp_9,"\r\n");
-		}
 	}
 	fclose($handle);
 }
+
+$stat_0 = fstat($fp_0);
+$stat_2 = fstat($fp_0);
+ftruncate($fp_0, $stat_0['size']-2);
+ftruncate($fp_2, $stat_2['size']-2);
 
 fclose($fp_0);
 fclose($fp_1);
