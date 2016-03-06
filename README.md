@@ -5,7 +5,7 @@
 Header for Apache 2.2 CIDR rules:
 ```
 ######### CIDR block start #########
-Order Allow,Deny
+Order Deny,Allow
 ```
 
 Footer for Apache 2.2 CIDR rules:
