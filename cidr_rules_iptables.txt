@@ -17062,4 +17062,3 @@ $ sudo iptables -A INPUT -s 98.192.0.0/10 -j DROP
 $ sudo iptables -A INPUT -s 99.228.0.0/16 -j DROP
 $ sudo iptables -A INPUT -s 99.32.0.0/12 -j DROP
 $ sudo iptables -A INPUT -s 99.96.0.0/11 -j DROP
-$ sudo iptables -A INPUT -s AS197510 -j DROP

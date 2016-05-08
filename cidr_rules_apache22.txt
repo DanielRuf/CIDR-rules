@@ -17062,4 +17062,3 @@ deny from 98.192.0.0/10
 deny from 99.228.0.0/16
 deny from 99.32.0.0/12
 deny from 99.96.0.0/11
-deny from AS197510

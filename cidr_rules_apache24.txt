@@ -17062,4 +17062,3 @@ require not ip 98.192.0.0/10
 require not ip 99.228.0.0/16
 require not ip 99.32.0.0/12
 require not ip 99.96.0.0/11
-require not ip AS197510

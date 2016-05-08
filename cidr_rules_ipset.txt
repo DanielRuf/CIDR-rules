@@ -17062,4 +17062,3 @@ ipset add blacklist 98.192.0.0/10
 ipset add blacklist 99.228.0.0/16
 ipset add blacklist 99.32.0.0/12
 ipset add blacklist 99.96.0.0/11
-ipset add blacklist AS197510

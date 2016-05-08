@@ -17062,4 +17062,3 @@ $ sudo fail2ban-client -vvv set JAIL banip 98.192.0.0/10
 $ sudo fail2ban-client -vvv set JAIL banip 99.228.0.0/16
 $ sudo fail2ban-client -vvv set JAIL banip 99.32.0.0/12
 $ sudo fail2ban-client -vvv set JAIL banip 99.96.0.0/11
-$ sudo fail2ban-client -vvv set JAIL banip AS197510
